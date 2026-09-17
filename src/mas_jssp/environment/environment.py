@@ -43,6 +43,18 @@ class Job:
         idx = self.next_op_index
         return None if idx == len(self.operations) else self.operations[idx]
 
+    @property
+    def ready_at(self) -> float:
+        """Момент, когда job освобождается для следующей операции — это момент
+        окончания её ПРЕДЫДУЩЕЙ операции (или 0.0, если это первая операция job).
+        Без этого следующая операция может назначиться раньше, чем реально
+        освободилась job — именно такой баг был в выводе."""
+        idx = self.next_op_index
+        if idx == 0:
+            return 0.0
+        prev = self.operations[idx - 1]
+        return prev.end if prev.end is not None else float("inf")
+
 
 @dataclass
 class MachineState:
@@ -66,12 +78,14 @@ class Environment:
     # --- запросы состояния, которые понадобятся и эвристикам, и агентам ---
 
     def ready_operations(self) -> list[Operation]:
-        """Операции, чей станок свободен и чья job готова их выполнять."""
+        """Операции, чей станок свободен И чья job уже закончила предыдущую операцию."""
         result = []
         for job in self.jobs.values():
             op = job.ready_operation()
             if op is None:
                 continue
+            if job.ready_at > self.time:
+                continue  # job ещё выполняет предыдущую операцию — рано
             m = self.machines[op.machine_id]
             if not m.is_broken and m.free_at <= self.time:
                 result.append(op)
@@ -88,7 +102,8 @@ class Environment:
         Кто выбрал именно эту операцию (эвристика, агент, аукцион) — Environment не касается.
         """
         machine = self.machines[operation.machine_id]
-        start = max(self.time, machine.free_at)
+        job = self.jobs[operation.job_id]
+        start = max(self.time, machine.free_at, job.ready_at)
         operation.start = start
         operation.end = start + operation.duration
         machine.free_at = operation.end
