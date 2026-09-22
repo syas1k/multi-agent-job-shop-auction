@@ -1,0 +1,87 @@
+{
+  "revision": "eea2b60dd7e2f5c907ff7302662c61812eb7efdf",
+  "instances": [
+    {
+      "name": "ft06",
+      "optimum": 55,
+      "sha256": "fee212360082ab31d7a6f375e352dad79973e17e70da40d14fcce5400a721a1c",
+      "url": "https://raw.githubusercontent.com/tamy0612/JSPLIB/eea2b60dd7e2f5c907ff7302662c61812eb7efdf/instances/ft06",
+      "machines": 6,
+      "jobs": 6,
+      "file": "ft06.txt"
+    },
+    {
+      "name": "ft10",
+      "optimum": 930,
+      "sha256": "eff0a40841b2160661f64bfc94c77a3d02d3dcfdfab9c02bf39f7da1153891b7",
+      "url": "https://raw.githubusercontent.com/tamy0612/JSPLIB/eea2b60dd7e2f5c907ff7302662c61812eb7efdf/instances/ft10",
+      "machines": 10,
+      "jobs": 10,
+      "file": "ft10.txt"
+    },
+    {
+      "name": "ft20",
+      "optimum": 1165,
+      "sha256": "5702cbc10318b52ad728ee94ed6fb862387008246cebb5d9cf9661f41f3ca7a9",
+      "url": "https://raw.githubusercontent.com/tamy0612/JSPLIB/eea2b60dd7e2f5c907ff7302662c61812eb7efdf/instances/ft20",
+      "machines": 5,
+      "jobs": 20,
+      "file": "ft20.txt"
+    },
+    {
+      "name": "la01",
+      "optimum": 666,
+      "sha256": "37a1de180c912680b8a6ea4c7c86f5e273c79b47ba55720c824b1fd93d3457bc",
+      "url": "https://raw.githubusercontent.com/tamy0612/JSPLIB/eea2b60dd7e2f5c907ff7302662c61812eb7efdf/instances/la01",
+      "machines": 5,
+      "jobs": 10,
+      "file": "la01.txt"
+    },
+    {
+      "name": "la16",
+      "optimum": 945,
+      "sha256": "30b4c4ef875c9847ea29bd6c42a2ba58f7e7bda58c3d7736a6efd4df58669483",
+      "url": "https://raw.githubusercontent.com/tamy0612/JSPLIB/eea2b60dd7e2f5c907ff7302662c61812eb7efdf/instances/la16",
+      "machines": 10,
+      "jobs": 10,
+      "file": "la16.txt"
+    },
+    {
+      "name": "la31",
+      "optimum": 1784,
+      "sha256": "e5d8ab714f5ade645c21b004ebd8597f4221c467dee20825c9d48d971d3ce1cc",
+      "url": "https://raw.githubusercontent.com/tamy0612/JSPLIB/eea2b60dd7e2f5c907ff7302662c61812eb7efdf/instances/la31",
+      "machines": 10,
+      "jobs": 30,
+      "file": "la31.txt"
+    },
+    {
+      "name": "abz5",
+      "optimum": 1234,
+      "sha256": "bd8afe85d188fc3ae5c2be6a328d175a5eb4f020deab786931f18460a10849f4",
+      "url": "https://raw.githubusercontent.com/tamy0612/JSPLIB/eea2b60dd7e2f5c907ff7302662c61812eb7efdf/instances/abz5",
+      "machines": 10,
+      "jobs": 10,
+      "file": "abz5.txt"
+    },
+    {
+      "name": "ta51",
+      "optimum": 2760,
+      "sha256": "80be589030a44dbd2bd317e30478559a866394d34526b81d54d4bf62026e7c01",
+      "url": "https://raw.githubusercontent.com/tamy0612/JSPLIB/eea2b60dd7e2f5c907ff7302662c61812eb7efdf/instances/ta51",
+      "machines": 15,
+      "jobs": 50,
+      "file": "ta51.txt"
+    },
+    {
+      "name": "ta71",
+      "optimum": null,
+      "sha256": "2df26386c3c4acb8729d99cb0fd3d9de59eb08c4966f8653ca310d0208418914",
+      "url": "https://raw.githubusercontent.com/tamy0612/JSPLIB/eea2b60dd7e2f5c907ff7302662c61812eb7efdf/instances/ta71",
+      "machines": 20,
+      "jobs": 100,
+      "file": "ta71.txt"
+    }
+  ],
+  "repository": "https://github.com/tamy0612/JSPLIB"
+}

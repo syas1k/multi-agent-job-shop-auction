@@ -1,0 +1,46 @@
+{
+  "python": "3.12.10",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "jsplib_revision": "eea2b60dd7e2f5c907ff7302662c61812eb7efdf",
+  "seeds": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "atc_k": 2.0,
+  "methods": [
+    "FIFO",
+    "EDD",
+    "SPT",
+    "MWKR",
+    "CR",
+    "ATC_LOCAL",
+    "CENTRAL_ORIGINAL",
+    "AUCTION_ORIGINAL",
+    "AUCTION_ATC"
+  ],
+  "source_sha256": {
+    "src\\mas_jssp\\__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "src\\mas_jssp\\agents\\__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "src\\mas_jssp\\agents\\agents.py": "eddc1bf47738bb7b3dfbd3d55d00bcff3e7aa09ac0ed8f24bbed0efae4a98308",
+    "src\\mas_jssp\\auction\\__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "src\\mas_jssp\\auction\\base_auction.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "src\\mas_jssp\\auction\\english_auction.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "src\\mas_jssp\\auction\\vickrey_auction.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "src\\mas_jssp\\environment\\__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "src\\mas_jssp\\environment\\environment.py": "4e365e84e310505dce49e04fedeb4525b0fc09e9fd0ecc0ea1c0ea29002c6251",
+    "src\\mas_jssp\\environment\\heuristics.py": "99cb08b3a0ac1c5541b6c4efd09eec78dbc21f9497b626b3def7519b355109c5",
+    "src\\mas_jssp\\environment\\priority.py": "de2a0bd210515b9917cbd328d3901b620a0fff45b42453358543fda78a05a871",
+    "src\\mas_jssp\\experiments.py": "66afa5f487250f401ea7dd01b43a5f61c3378c873e28c93bf8004b51bd970d1b",
+    "src\\mas_jssp\\metrics\\__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "src\\mas_jssp\\metrics\\metrics.py": "b5cbaa645125d5099ba35a5e0b0c2edc0d0be7aed5820ae26b3b30b4ca403db8",
+    "src\\mas_jssp\\metrics\\validate.py": "9528e078a99bc87f6c841b464bd1df0b3f3946584ae2f1627f72a4e1918e8051",
+    "src\\mas_jssp\\utils\\__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "src\\mas_jssp\\utils\\loaders.py": "74019da998c08259626ab3f3615599198d9ee8532f04475985623c84377cfdce",
+    "scripts\\run_benchmarks.py": "c35b6e24f03805fa3cb82c35fd2ab2c0fb34afdef06c13cff2658bf2ea9d8219",
+    "scripts\\download_benchmarks.py": "7690c2187686eb2f5c52fa686165116368ed4b70c77eb68a4b0203ca4b695f02"
+  },
+  "note": "Timing is one wall-clock sample per run; no statistical speed claims."
+}
