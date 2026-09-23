@@ -16,7 +16,9 @@ dependencies = [
 ]
 
 [project.optional-dependencies]
+learning = ["scipy>=1.9"]
 dev = [
+    "scipy>=1.9",
     "pytest",
     "pytest-cov",
     "ruff",

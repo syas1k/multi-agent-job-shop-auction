@@ -1,0 +1,3079 @@
+{
+  "version": 1,
+  "data": "C:\\bakalavr(multiagent system)\\jssp-auction-multiagent\\data\\benchmarks",
+  "instances": [
+    "ft06",
+    "ft10",
+    "ft20",
+    "la01",
+    "la16"
+  ],
+  "dataset_manifest_sha256": "f53e4bf0cd25f2bca462e42510c67bab6a86f2bd4ffe6a3c80843e428b988c3a",
+  "jsplib_revision": "eea2b60dd7e2f5c907ff7302662c61812eb7efdf",
+  "splits": {
+    "train": [
+      {
+        "id": "ft06:10000",
+        "instance": "ft06",
+        "seed": 10000
+      },
+      {
+        "id": "ft10:10000",
+        "instance": "ft10",
+        "seed": 10000
+      },
+      {
+        "id": "ft20:10000",
+        "instance": "ft20",
+        "seed": 10000
+      },
+      {
+        "id": "la01:10000",
+        "instance": "la01",
+        "seed": 10000
+      },
+      {
+        "id": "la16:10000",
+        "instance": "la16",
+        "seed": 10000
+      },
+      {
+        "id": "ft06:10001",
+        "instance": "ft06",
+        "seed": 10001
+      },
+      {
+        "id": "ft10:10001",
+        "instance": "ft10",
+        "seed": 10001
+      },
+      {
+        "id": "ft20:10001",
+        "instance": "ft20",
+        "seed": 10001
+      },
+      {
+        "id": "la01:10001",
+        "instance": "la01",
+        "seed": 10001
+      },
+      {
+        "id": "la16:10001",
+        "instance": "la16",
+        "seed": 10001
+      },
+      {
+        "id": "ft06:10002",
+        "instance": "ft06",
+        "seed": 10002
+      },
+      {
+        "id": "ft10:10002",
+        "instance": "ft10",
+        "seed": 10002
+      },
+      {
+        "id": "ft20:10002",
+        "instance": "ft20",
+        "seed": 10002
+      },
+      {
+        "id": "la01:10002",
+        "instance": "la01",
+        "seed": 10002
+      },
+      {
+        "id": "la16:10002",
+        "instance": "la16",
+        "seed": 10002
+      },
+      {
+        "id": "ft06:10003",
+        "instance": "ft06",
+        "seed": 10003
+      },
+      {
+        "id": "ft10:10003",
+        "instance": "ft10",
+        "seed": 10003
+      },
+      {
+        "id": "ft20:10003",
+        "instance": "ft20",
+        "seed": 10003
+      },
+      {
+        "id": "la01:10003",
+        "instance": "la01",
+        "seed": 10003
+      },
+      {
+        "id": "la16:10003",
+        "instance": "la16",
+        "seed": 10003
+      },
+      {
+        "id": "ft06:10004",
+        "instance": "ft06",
+        "seed": 10004
+      },
+      {
+        "id": "ft10:10004",
+        "instance": "ft10",
+        "seed": 10004
+      },
+      {
+        "id": "ft20:10004",
+        "instance": "ft20",
+        "seed": 10004
+      },
+      {
+        "id": "la01:10004",
+        "instance": "la01",
+        "seed": 10004
+      },
+      {
+        "id": "la16:10004",
+        "instance": "la16",
+        "seed": 10004
+      },
+      {
+        "id": "ft06:10005",
+        "instance": "ft06",
+        "seed": 10005
+      },
+      {
+        "id": "ft10:10005",
+        "instance": "ft10",
+        "seed": 10005
+      },
+      {
+        "id": "ft20:10005",
+        "instance": "ft20",
+        "seed": 10005
+      },
+      {
+        "id": "la01:10005",
+        "instance": "la01",
+        "seed": 10005
+      },
+      {
+        "id": "la16:10005",
+        "instance": "la16",
+        "seed": 10005
+      },
+      {
+        "id": "ft06:10006",
+        "instance": "ft06",
+        "seed": 10006
+      },
+      {
+        "id": "ft10:10006",
+        "instance": "ft10",
+        "seed": 10006
+      },
+      {
+        "id": "ft20:10006",
+        "instance": "ft20",
+        "seed": 10006
+      },
+      {
+        "id": "la01:10006",
+        "instance": "la01",
+        "seed": 10006
+      },
+      {
+        "id": "la16:10006",
+        "instance": "la16",
+        "seed": 10006
+      },
+      {
+        "id": "ft06:10007",
+        "instance": "ft06",
+        "seed": 10007
+      },
+      {
+        "id": "ft10:10007",
+        "instance": "ft10",
+        "seed": 10007
+      },
+      {
+        "id": "ft20:10007",
+        "instance": "ft20",
+        "seed": 10007
+      },
+      {
+        "id": "la01:10007",
+        "instance": "la01",
+        "seed": 10007
+      },
+      {
+        "id": "la16:10007",
+        "instance": "la16",
+        "seed": 10007
+      },
+      {
+        "id": "ft06:10008",
+        "instance": "ft06",
+        "seed": 10008
+      },
+      {
+        "id": "ft10:10008",
+        "instance": "ft10",
+        "seed": 10008
+      },
+      {
+        "id": "ft20:10008",
+        "instance": "ft20",
+        "seed": 10008
+      },
+      {
+        "id": "la01:10008",
+        "instance": "la01",
+        "seed": 10008
+      },
+      {
+        "id": "la16:10008",
+        "instance": "la16",
+        "seed": 10008
+      },
+      {
+        "id": "ft06:10009",
+        "instance": "ft06",
+        "seed": 10009
+      },
+      {
+        "id": "ft10:10009",
+        "instance": "ft10",
+        "seed": 10009
+      },
+      {
+        "id": "ft20:10009",
+        "instance": "ft20",
+        "seed": 10009
+      },
+      {
+        "id": "la01:10009",
+        "instance": "la01",
+        "seed": 10009
+      },
+      {
+        "id": "la16:10009",
+        "instance": "la16",
+        "seed": 10009
+      },
+      {
+        "id": "ft06:10010",
+        "instance": "ft06",
+        "seed": 10010
+      },
+      {
+        "id": "ft10:10010",
+        "instance": "ft10",
+        "seed": 10010
+      },
+      {
+        "id": "ft20:10010",
+        "instance": "ft20",
+        "seed": 10010
+      },
+      {
+        "id": "la01:10010",
+        "instance": "la01",
+        "seed": 10010
+      },
+      {
+        "id": "la16:10010",
+        "instance": "la16",
+        "seed": 10010
+      },
+      {
+        "id": "ft06:10011",
+        "instance": "ft06",
+        "seed": 10011
+      },
+      {
+        "id": "ft10:10011",
+        "instance": "ft10",
+        "seed": 10011
+      },
+      {
+        "id": "ft20:10011",
+        "instance": "ft20",
+        "seed": 10011
+      },
+      {
+        "id": "la01:10011",
+        "instance": "la01",
+        "seed": 10011
+      },
+      {
+        "id": "la16:10011",
+        "instance": "la16",
+        "seed": 10011
+      },
+      {
+        "id": "ft06:10012",
+        "instance": "ft06",
+        "seed": 10012
+      },
+      {
+        "id": "ft10:10012",
+        "instance": "ft10",
+        "seed": 10012
+      },
+      {
+        "id": "ft20:10012",
+        "instance": "ft20",
+        "seed": 10012
+      },
+      {
+        "id": "la01:10012",
+        "instance": "la01",
+        "seed": 10012
+      },
+      {
+        "id": "la16:10012",
+        "instance": "la16",
+        "seed": 10012
+      },
+      {
+        "id": "ft06:10013",
+        "instance": "ft06",
+        "seed": 10013
+      },
+      {
+        "id": "ft10:10013",
+        "instance": "ft10",
+        "seed": 10013
+      },
+      {
+        "id": "ft20:10013",
+        "instance": "ft20",
+        "seed": 10013
+      },
+      {
+        "id": "la01:10013",
+        "instance": "la01",
+        "seed": 10013
+      },
+      {
+        "id": "la16:10013",
+        "instance": "la16",
+        "seed": 10013
+      },
+      {
+        "id": "ft06:10014",
+        "instance": "ft06",
+        "seed": 10014
+      },
+      {
+        "id": "ft10:10014",
+        "instance": "ft10",
+        "seed": 10014
+      },
+      {
+        "id": "ft20:10014",
+        "instance": "ft20",
+        "seed": 10014
+      },
+      {
+        "id": "la01:10014",
+        "instance": "la01",
+        "seed": 10014
+      },
+      {
+        "id": "la16:10014",
+        "instance": "la16",
+        "seed": 10014
+      },
+      {
+        "id": "ft06:10015",
+        "instance": "ft06",
+        "seed": 10015
+      },
+      {
+        "id": "ft10:10015",
+        "instance": "ft10",
+        "seed": 10015
+      },
+      {
+        "id": "ft20:10015",
+        "instance": "ft20",
+        "seed": 10015
+      },
+      {
+        "id": "la01:10015",
+        "instance": "la01",
+        "seed": 10015
+      },
+      {
+        "id": "la16:10015",
+        "instance": "la16",
+        "seed": 10015
+      },
+      {
+        "id": "ft06:10016",
+        "instance": "ft06",
+        "seed": 10016
+      },
+      {
+        "id": "ft10:10016",
+        "instance": "ft10",
+        "seed": 10016
+      },
+      {
+        "id": "ft20:10016",
+        "instance": "ft20",
+        "seed": 10016
+      },
+      {
+        "id": "la01:10016",
+        "instance": "la01",
+        "seed": 10016
+      },
+      {
+        "id": "la16:10016",
+        "instance": "la16",
+        "seed": 10016
+      },
+      {
+        "id": "ft06:10017",
+        "instance": "ft06",
+        "seed": 10017
+      },
+      {
+        "id": "ft10:10017",
+        "instance": "ft10",
+        "seed": 10017
+      },
+      {
+        "id": "ft20:10017",
+        "instance": "ft20",
+        "seed": 10017
+      },
+      {
+        "id": "la01:10017",
+        "instance": "la01",
+        "seed": 10017
+      },
+      {
+        "id": "la16:10017",
+        "instance": "la16",
+        "seed": 10017
+      },
+      {
+        "id": "ft06:10018",
+        "instance": "ft06",
+        "seed": 10018
+      },
+      {
+        "id": "ft10:10018",
+        "instance": "ft10",
+        "seed": 10018
+      },
+      {
+        "id": "ft20:10018",
+        "instance": "ft20",
+        "seed": 10018
+      },
+      {
+        "id": "la01:10018",
+        "instance": "la01",
+        "seed": 10018
+      },
+      {
+        "id": "la16:10018",
+        "instance": "la16",
+        "seed": 10018
+      },
+      {
+        "id": "ft06:10019",
+        "instance": "ft06",
+        "seed": 10019
+      },
+      {
+        "id": "ft10:10019",
+        "instance": "ft10",
+        "seed": 10019
+      },
+      {
+        "id": "ft20:10019",
+        "instance": "ft20",
+        "seed": 10019
+      },
+      {
+        "id": "la01:10019",
+        "instance": "la01",
+        "seed": 10019
+      },
+      {
+        "id": "la16:10019",
+        "instance": "la16",
+        "seed": 10019
+      },
+      {
+        "id": "ft06:10020",
+        "instance": "ft06",
+        "seed": 10020
+      },
+      {
+        "id": "ft10:10020",
+        "instance": "ft10",
+        "seed": 10020
+      },
+      {
+        "id": "ft20:10020",
+        "instance": "ft20",
+        "seed": 10020
+      },
+      {
+        "id": "la01:10020",
+        "instance": "la01",
+        "seed": 10020
+      },
+      {
+        "id": "la16:10020",
+        "instance": "la16",
+        "seed": 10020
+      },
+      {
+        "id": "ft06:10021",
+        "instance": "ft06",
+        "seed": 10021
+      },
+      {
+        "id": "ft10:10021",
+        "instance": "ft10",
+        "seed": 10021
+      },
+      {
+        "id": "ft20:10021",
+        "instance": "ft20",
+        "seed": 10021
+      },
+      {
+        "id": "la01:10021",
+        "instance": "la01",
+        "seed": 10021
+      },
+      {
+        "id": "la16:10021",
+        "instance": "la16",
+        "seed": 10021
+      },
+      {
+        "id": "ft06:10022",
+        "instance": "ft06",
+        "seed": 10022
+      },
+      {
+        "id": "ft10:10022",
+        "instance": "ft10",
+        "seed": 10022
+      },
+      {
+        "id": "ft20:10022",
+        "instance": "ft20",
+        "seed": 10022
+      },
+      {
+        "id": "la01:10022",
+        "instance": "la01",
+        "seed": 10022
+      },
+      {
+        "id": "la16:10022",
+        "instance": "la16",
+        "seed": 10022
+      },
+      {
+        "id": "ft06:10023",
+        "instance": "ft06",
+        "seed": 10023
+      },
+      {
+        "id": "ft10:10023",
+        "instance": "ft10",
+        "seed": 10023
+      },
+      {
+        "id": "ft20:10023",
+        "instance": "ft20",
+        "seed": 10023
+      },
+      {
+        "id": "la01:10023",
+        "instance": "la01",
+        "seed": 10023
+      },
+      {
+        "id": "la16:10023",
+        "instance": "la16",
+        "seed": 10023
+      },
+      {
+        "id": "ft06:10024",
+        "instance": "ft06",
+        "seed": 10024
+      },
+      {
+        "id": "ft10:10024",
+        "instance": "ft10",
+        "seed": 10024
+      },
+      {
+        "id": "ft20:10024",
+        "instance": "ft20",
+        "seed": 10024
+      },
+      {
+        "id": "la01:10024",
+        "instance": "la01",
+        "seed": 10024
+      },
+      {
+        "id": "la16:10024",
+        "instance": "la16",
+        "seed": 10024
+      },
+      {
+        "id": "ft06:10025",
+        "instance": "ft06",
+        "seed": 10025
+      },
+      {
+        "id": "ft10:10025",
+        "instance": "ft10",
+        "seed": 10025
+      },
+      {
+        "id": "ft20:10025",
+        "instance": "ft20",
+        "seed": 10025
+      },
+      {
+        "id": "la01:10025",
+        "instance": "la01",
+        "seed": 10025
+      },
+      {
+        "id": "la16:10025",
+        "instance": "la16",
+        "seed": 10025
+      },
+      {
+        "id": "ft06:10026",
+        "instance": "ft06",
+        "seed": 10026
+      },
+      {
+        "id": "ft10:10026",
+        "instance": "ft10",
+        "seed": 10026
+      },
+      {
+        "id": "ft20:10026",
+        "instance": "ft20",
+        "seed": 10026
+      },
+      {
+        "id": "la01:10026",
+        "instance": "la01",
+        "seed": 10026
+      },
+      {
+        "id": "la16:10026",
+        "instance": "la16",
+        "seed": 10026
+      },
+      {
+        "id": "ft06:10027",
+        "instance": "ft06",
+        "seed": 10027
+      },
+      {
+        "id": "ft10:10027",
+        "instance": "ft10",
+        "seed": 10027
+      },
+      {
+        "id": "ft20:10027",
+        "instance": "ft20",
+        "seed": 10027
+      },
+      {
+        "id": "la01:10027",
+        "instance": "la01",
+        "seed": 10027
+      },
+      {
+        "id": "la16:10027",
+        "instance": "la16",
+        "seed": 10027
+      },
+      {
+        "id": "ft06:10028",
+        "instance": "ft06",
+        "seed": 10028
+      },
+      {
+        "id": "ft10:10028",
+        "instance": "ft10",
+        "seed": 10028
+      },
+      {
+        "id": "ft20:10028",
+        "instance": "ft20",
+        "seed": 10028
+      },
+      {
+        "id": "la01:10028",
+        "instance": "la01",
+        "seed": 10028
+      },
+      {
+        "id": "la16:10028",
+        "instance": "la16",
+        "seed": 10028
+      },
+      {
+        "id": "ft06:10029",
+        "instance": "ft06",
+        "seed": 10029
+      },
+      {
+        "id": "ft10:10029",
+        "instance": "ft10",
+        "seed": 10029
+      },
+      {
+        "id": "ft20:10029",
+        "instance": "ft20",
+        "seed": 10029
+      },
+      {
+        "id": "la01:10029",
+        "instance": "la01",
+        "seed": 10029
+      },
+      {
+        "id": "la16:10029",
+        "instance": "la16",
+        "seed": 10029
+      },
+      {
+        "id": "ft06:10030",
+        "instance": "ft06",
+        "seed": 10030
+      },
+      {
+        "id": "ft10:10030",
+        "instance": "ft10",
+        "seed": 10030
+      },
+      {
+        "id": "ft20:10030",
+        "instance": "ft20",
+        "seed": 10030
+      },
+      {
+        "id": "la01:10030",
+        "instance": "la01",
+        "seed": 10030
+      },
+      {
+        "id": "la16:10030",
+        "instance": "la16",
+        "seed": 10030
+      },
+      {
+        "id": "ft06:10031",
+        "instance": "ft06",
+        "seed": 10031
+      },
+      {
+        "id": "ft10:10031",
+        "instance": "ft10",
+        "seed": 10031
+      },
+      {
+        "id": "ft20:10031",
+        "instance": "ft20",
+        "seed": 10031
+      },
+      {
+        "id": "la01:10031",
+        "instance": "la01",
+        "seed": 10031
+      },
+      {
+        "id": "la16:10031",
+        "instance": "la16",
+        "seed": 10031
+      },
+      {
+        "id": "ft06:10032",
+        "instance": "ft06",
+        "seed": 10032
+      },
+      {
+        "id": "ft10:10032",
+        "instance": "ft10",
+        "seed": 10032
+      },
+      {
+        "id": "ft20:10032",
+        "instance": "ft20",
+        "seed": 10032
+      },
+      {
+        "id": "la01:10032",
+        "instance": "la01",
+        "seed": 10032
+      },
+      {
+        "id": "la16:10032",
+        "instance": "la16",
+        "seed": 10032
+      },
+      {
+        "id": "ft06:10033",
+        "instance": "ft06",
+        "seed": 10033
+      },
+      {
+        "id": "ft10:10033",
+        "instance": "ft10",
+        "seed": 10033
+      },
+      {
+        "id": "ft20:10033",
+        "instance": "ft20",
+        "seed": 10033
+      },
+      {
+        "id": "la01:10033",
+        "instance": "la01",
+        "seed": 10033
+      },
+      {
+        "id": "la16:10033",
+        "instance": "la16",
+        "seed": 10033
+      },
+      {
+        "id": "ft06:10034",
+        "instance": "ft06",
+        "seed": 10034
+      },
+      {
+        "id": "ft10:10034",
+        "instance": "ft10",
+        "seed": 10034
+      },
+      {
+        "id": "ft20:10034",
+        "instance": "ft20",
+        "seed": 10034
+      },
+      {
+        "id": "la01:10034",
+        "instance": "la01",
+        "seed": 10034
+      },
+      {
+        "id": "la16:10034",
+        "instance": "la16",
+        "seed": 10034
+      },
+      {
+        "id": "ft06:10035",
+        "instance": "ft06",
+        "seed": 10035
+      },
+      {
+        "id": "ft10:10035",
+        "instance": "ft10",
+        "seed": 10035
+      },
+      {
+        "id": "ft20:10035",
+        "instance": "ft20",
+        "seed": 10035
+      },
+      {
+        "id": "la01:10035",
+        "instance": "la01",
+        "seed": 10035
+      },
+      {
+        "id": "la16:10035",
+        "instance": "la16",
+        "seed": 10035
+      },
+      {
+        "id": "ft06:10036",
+        "instance": "ft06",
+        "seed": 10036
+      },
+      {
+        "id": "ft10:10036",
+        "instance": "ft10",
+        "seed": 10036
+      },
+      {
+        "id": "ft20:10036",
+        "instance": "ft20",
+        "seed": 10036
+      },
+      {
+        "id": "la01:10036",
+        "instance": "la01",
+        "seed": 10036
+      },
+      {
+        "id": "la16:10036",
+        "instance": "la16",
+        "seed": 10036
+      },
+      {
+        "id": "ft06:10037",
+        "instance": "ft06",
+        "seed": 10037
+      },
+      {
+        "id": "ft10:10037",
+        "instance": "ft10",
+        "seed": 10037
+      },
+      {
+        "id": "ft20:10037",
+        "instance": "ft20",
+        "seed": 10037
+      },
+      {
+        "id": "la01:10037",
+        "instance": "la01",
+        "seed": 10037
+      },
+      {
+        "id": "la16:10037",
+        "instance": "la16",
+        "seed": 10037
+      },
+      {
+        "id": "ft06:10038",
+        "instance": "ft06",
+        "seed": 10038
+      },
+      {
+        "id": "ft10:10038",
+        "instance": "ft10",
+        "seed": 10038
+      },
+      {
+        "id": "ft20:10038",
+        "instance": "ft20",
+        "seed": 10038
+      },
+      {
+        "id": "la01:10038",
+        "instance": "la01",
+        "seed": 10038
+      },
+      {
+        "id": "la16:10038",
+        "instance": "la16",
+        "seed": 10038
+      },
+      {
+        "id": "ft06:10039",
+        "instance": "ft06",
+        "seed": 10039
+      },
+      {
+        "id": "ft10:10039",
+        "instance": "ft10",
+        "seed": 10039
+      },
+      {
+        "id": "ft20:10039",
+        "instance": "ft20",
+        "seed": 10039
+      },
+      {
+        "id": "la01:10039",
+        "instance": "la01",
+        "seed": 10039
+      },
+      {
+        "id": "la16:10039",
+        "instance": "la16",
+        "seed": 10039
+      },
+      {
+        "id": "ft06:10040",
+        "instance": "ft06",
+        "seed": 10040
+      },
+      {
+        "id": "ft10:10040",
+        "instance": "ft10",
+        "seed": 10040
+      },
+      {
+        "id": "ft20:10040",
+        "instance": "ft20",
+        "seed": 10040
+      },
+      {
+        "id": "la01:10040",
+        "instance": "la01",
+        "seed": 10040
+      },
+      {
+        "id": "la16:10040",
+        "instance": "la16",
+        "seed": 10040
+      },
+      {
+        "id": "ft06:10041",
+        "instance": "ft06",
+        "seed": 10041
+      },
+      {
+        "id": "ft10:10041",
+        "instance": "ft10",
+        "seed": 10041
+      },
+      {
+        "id": "ft20:10041",
+        "instance": "ft20",
+        "seed": 10041
+      },
+      {
+        "id": "la01:10041",
+        "instance": "la01",
+        "seed": 10041
+      },
+      {
+        "id": "la16:10041",
+        "instance": "la16",
+        "seed": 10041
+      },
+      {
+        "id": "ft06:10042",
+        "instance": "ft06",
+        "seed": 10042
+      },
+      {
+        "id": "ft10:10042",
+        "instance": "ft10",
+        "seed": 10042
+      },
+      {
+        "id": "ft20:10042",
+        "instance": "ft20",
+        "seed": 10042
+      },
+      {
+        "id": "la01:10042",
+        "instance": "la01",
+        "seed": 10042
+      },
+      {
+        "id": "la16:10042",
+        "instance": "la16",
+        "seed": 10042
+      },
+      {
+        "id": "ft06:10043",
+        "instance": "ft06",
+        "seed": 10043
+      },
+      {
+        "id": "ft10:10043",
+        "instance": "ft10",
+        "seed": 10043
+      },
+      {
+        "id": "ft20:10043",
+        "instance": "ft20",
+        "seed": 10043
+      },
+      {
+        "id": "la01:10043",
+        "instance": "la01",
+        "seed": 10043
+      },
+      {
+        "id": "la16:10043",
+        "instance": "la16",
+        "seed": 10043
+      },
+      {
+        "id": "ft06:10044",
+        "instance": "ft06",
+        "seed": 10044
+      },
+      {
+        "id": "ft10:10044",
+        "instance": "ft10",
+        "seed": 10044
+      },
+      {
+        "id": "ft20:10044",
+        "instance": "ft20",
+        "seed": 10044
+      },
+      {
+        "id": "la01:10044",
+        "instance": "la01",
+        "seed": 10044
+      },
+      {
+        "id": "la16:10044",
+        "instance": "la16",
+        "seed": 10044
+      },
+      {
+        "id": "ft06:10045",
+        "instance": "ft06",
+        "seed": 10045
+      },
+      {
+        "id": "ft10:10045",
+        "instance": "ft10",
+        "seed": 10045
+      },
+      {
+        "id": "ft20:10045",
+        "instance": "ft20",
+        "seed": 10045
+      },
+      {
+        "id": "la01:10045",
+        "instance": "la01",
+        "seed": 10045
+      },
+      {
+        "id": "la16:10045",
+        "instance": "la16",
+        "seed": 10045
+      },
+      {
+        "id": "ft06:10046",
+        "instance": "ft06",
+        "seed": 10046
+      },
+      {
+        "id": "ft10:10046",
+        "instance": "ft10",
+        "seed": 10046
+      },
+      {
+        "id": "ft20:10046",
+        "instance": "ft20",
+        "seed": 10046
+      },
+      {
+        "id": "la01:10046",
+        "instance": "la01",
+        "seed": 10046
+      },
+      {
+        "id": "la16:10046",
+        "instance": "la16",
+        "seed": 10046
+      },
+      {
+        "id": "ft06:10047",
+        "instance": "ft06",
+        "seed": 10047
+      },
+      {
+        "id": "ft10:10047",
+        "instance": "ft10",
+        "seed": 10047
+      },
+      {
+        "id": "ft20:10047",
+        "instance": "ft20",
+        "seed": 10047
+      },
+      {
+        "id": "la01:10047",
+        "instance": "la01",
+        "seed": 10047
+      },
+      {
+        "id": "la16:10047",
+        "instance": "la16",
+        "seed": 10047
+      },
+      {
+        "id": "ft06:10048",
+        "instance": "ft06",
+        "seed": 10048
+      },
+      {
+        "id": "ft10:10048",
+        "instance": "ft10",
+        "seed": 10048
+      },
+      {
+        "id": "ft20:10048",
+        "instance": "ft20",
+        "seed": 10048
+      },
+      {
+        "id": "la01:10048",
+        "instance": "la01",
+        "seed": 10048
+      },
+      {
+        "id": "la16:10048",
+        "instance": "la16",
+        "seed": 10048
+      },
+      {
+        "id": "ft06:10049",
+        "instance": "ft06",
+        "seed": 10049
+      },
+      {
+        "id": "ft10:10049",
+        "instance": "ft10",
+        "seed": 10049
+      },
+      {
+        "id": "ft20:10049",
+        "instance": "ft20",
+        "seed": 10049
+      },
+      {
+        "id": "la01:10049",
+        "instance": "la01",
+        "seed": 10049
+      },
+      {
+        "id": "la16:10049",
+        "instance": "la16",
+        "seed": 10049
+      },
+      {
+        "id": "ft06:10050",
+        "instance": "ft06",
+        "seed": 10050
+      },
+      {
+        "id": "ft10:10050",
+        "instance": "ft10",
+        "seed": 10050
+      },
+      {
+        "id": "ft20:10050",
+        "instance": "ft20",
+        "seed": 10050
+      },
+      {
+        "id": "la01:10050",
+        "instance": "la01",
+        "seed": 10050
+      },
+      {
+        "id": "la16:10050",
+        "instance": "la16",
+        "seed": 10050
+      },
+      {
+        "id": "ft06:10051",
+        "instance": "ft06",
+        "seed": 10051
+      },
+      {
+        "id": "ft10:10051",
+        "instance": "ft10",
+        "seed": 10051
+      },
+      {
+        "id": "ft20:10051",
+        "instance": "ft20",
+        "seed": 10051
+      },
+      {
+        "id": "la01:10051",
+        "instance": "la01",
+        "seed": 10051
+      },
+      {
+        "id": "la16:10051",
+        "instance": "la16",
+        "seed": 10051
+      },
+      {
+        "id": "ft06:10052",
+        "instance": "ft06",
+        "seed": 10052
+      },
+      {
+        "id": "ft10:10052",
+        "instance": "ft10",
+        "seed": 10052
+      },
+      {
+        "id": "ft20:10052",
+        "instance": "ft20",
+        "seed": 10052
+      },
+      {
+        "id": "la01:10052",
+        "instance": "la01",
+        "seed": 10052
+      },
+      {
+        "id": "la16:10052",
+        "instance": "la16",
+        "seed": 10052
+      },
+      {
+        "id": "ft06:10053",
+        "instance": "ft06",
+        "seed": 10053
+      },
+      {
+        "id": "ft10:10053",
+        "instance": "ft10",
+        "seed": 10053
+      },
+      {
+        "id": "ft20:10053",
+        "instance": "ft20",
+        "seed": 10053
+      },
+      {
+        "id": "la01:10053",
+        "instance": "la01",
+        "seed": 10053
+      },
+      {
+        "id": "la16:10053",
+        "instance": "la16",
+        "seed": 10053
+      },
+      {
+        "id": "ft06:10054",
+        "instance": "ft06",
+        "seed": 10054
+      },
+      {
+        "id": "ft10:10054",
+        "instance": "ft10",
+        "seed": 10054
+      },
+      {
+        "id": "ft20:10054",
+        "instance": "ft20",
+        "seed": 10054
+      },
+      {
+        "id": "la01:10054",
+        "instance": "la01",
+        "seed": 10054
+      },
+      {
+        "id": "la16:10054",
+        "instance": "la16",
+        "seed": 10054
+      },
+      {
+        "id": "ft06:10055",
+        "instance": "ft06",
+        "seed": 10055
+      },
+      {
+        "id": "ft10:10055",
+        "instance": "ft10",
+        "seed": 10055
+      },
+      {
+        "id": "ft20:10055",
+        "instance": "ft20",
+        "seed": 10055
+      },
+      {
+        "id": "la01:10055",
+        "instance": "la01",
+        "seed": 10055
+      },
+      {
+        "id": "la16:10055",
+        "instance": "la16",
+        "seed": 10055
+      },
+      {
+        "id": "ft06:10056",
+        "instance": "ft06",
+        "seed": 10056
+      },
+      {
+        "id": "ft10:10056",
+        "instance": "ft10",
+        "seed": 10056
+      },
+      {
+        "id": "ft20:10056",
+        "instance": "ft20",
+        "seed": 10056
+      },
+      {
+        "id": "la01:10056",
+        "instance": "la01",
+        "seed": 10056
+      },
+      {
+        "id": "la16:10056",
+        "instance": "la16",
+        "seed": 10056
+      },
+      {
+        "id": "ft06:10057",
+        "instance": "ft06",
+        "seed": 10057
+      },
+      {
+        "id": "ft10:10057",
+        "instance": "ft10",
+        "seed": 10057
+      },
+      {
+        "id": "ft20:10057",
+        "instance": "ft20",
+        "seed": 10057
+      },
+      {
+        "id": "la01:10057",
+        "instance": "la01",
+        "seed": 10057
+      },
+      {
+        "id": "la16:10057",
+        "instance": "la16",
+        "seed": 10057
+      },
+      {
+        "id": "ft06:10058",
+        "instance": "ft06",
+        "seed": 10058
+      },
+      {
+        "id": "ft10:10058",
+        "instance": "ft10",
+        "seed": 10058
+      },
+      {
+        "id": "ft20:10058",
+        "instance": "ft20",
+        "seed": 10058
+      },
+      {
+        "id": "la01:10058",
+        "instance": "la01",
+        "seed": 10058
+      },
+      {
+        "id": "la16:10058",
+        "instance": "la16",
+        "seed": 10058
+      },
+      {
+        "id": "ft06:10059",
+        "instance": "ft06",
+        "seed": 10059
+      },
+      {
+        "id": "ft10:10059",
+        "instance": "ft10",
+        "seed": 10059
+      },
+      {
+        "id": "ft20:10059",
+        "instance": "ft20",
+        "seed": 10059
+      },
+      {
+        "id": "la01:10059",
+        "instance": "la01",
+        "seed": 10059
+      },
+      {
+        "id": "la16:10059",
+        "instance": "la16",
+        "seed": 10059
+      },
+      {
+        "id": "ft06:10060",
+        "instance": "ft06",
+        "seed": 10060
+      },
+      {
+        "id": "ft10:10060",
+        "instance": "ft10",
+        "seed": 10060
+      },
+      {
+        "id": "ft20:10060",
+        "instance": "ft20",
+        "seed": 10060
+      },
+      {
+        "id": "la01:10060",
+        "instance": "la01",
+        "seed": 10060
+      },
+      {
+        "id": "la16:10060",
+        "instance": "la16",
+        "seed": 10060
+      },
+      {
+        "id": "ft06:10061",
+        "instance": "ft06",
+        "seed": 10061
+      },
+      {
+        "id": "ft10:10061",
+        "instance": "ft10",
+        "seed": 10061
+      },
+      {
+        "id": "ft20:10061",
+        "instance": "ft20",
+        "seed": 10061
+      },
+      {
+        "id": "la01:10061",
+        "instance": "la01",
+        "seed": 10061
+      },
+      {
+        "id": "la16:10061",
+        "instance": "la16",
+        "seed": 10061
+      },
+      {
+        "id": "ft06:10062",
+        "instance": "ft06",
+        "seed": 10062
+      },
+      {
+        "id": "ft10:10062",
+        "instance": "ft10",
+        "seed": 10062
+      },
+      {
+        "id": "ft20:10062",
+        "instance": "ft20",
+        "seed": 10062
+      },
+      {
+        "id": "la01:10062",
+        "instance": "la01",
+        "seed": 10062
+      },
+      {
+        "id": "la16:10062",
+        "instance": "la16",
+        "seed": 10062
+      },
+      {
+        "id": "ft06:10063",
+        "instance": "ft06",
+        "seed": 10063
+      },
+      {
+        "id": "ft10:10063",
+        "instance": "ft10",
+        "seed": 10063
+      },
+      {
+        "id": "ft20:10063",
+        "instance": "ft20",
+        "seed": 10063
+      },
+      {
+        "id": "la01:10063",
+        "instance": "la01",
+        "seed": 10063
+      },
+      {
+        "id": "la16:10063",
+        "instance": "la16",
+        "seed": 10063
+      },
+      {
+        "id": "ft06:10064",
+        "instance": "ft06",
+        "seed": 10064
+      },
+      {
+        "id": "ft10:10064",
+        "instance": "ft10",
+        "seed": 10064
+      },
+      {
+        "id": "ft20:10064",
+        "instance": "ft20",
+        "seed": 10064
+      },
+      {
+        "id": "la01:10064",
+        "instance": "la01",
+        "seed": 10064
+      },
+      {
+        "id": "la16:10064",
+        "instance": "la16",
+        "seed": 10064
+      },
+      {
+        "id": "ft06:10065",
+        "instance": "ft06",
+        "seed": 10065
+      },
+      {
+        "id": "ft10:10065",
+        "instance": "ft10",
+        "seed": 10065
+      },
+      {
+        "id": "ft20:10065",
+        "instance": "ft20",
+        "seed": 10065
+      },
+      {
+        "id": "la01:10065",
+        "instance": "la01",
+        "seed": 10065
+      },
+      {
+        "id": "la16:10065",
+        "instance": "la16",
+        "seed": 10065
+      },
+      {
+        "id": "ft06:10066",
+        "instance": "ft06",
+        "seed": 10066
+      },
+      {
+        "id": "ft10:10066",
+        "instance": "ft10",
+        "seed": 10066
+      },
+      {
+        "id": "ft20:10066",
+        "instance": "ft20",
+        "seed": 10066
+      },
+      {
+        "id": "la01:10066",
+        "instance": "la01",
+        "seed": 10066
+      },
+      {
+        "id": "la16:10066",
+        "instance": "la16",
+        "seed": 10066
+      },
+      {
+        "id": "ft06:10067",
+        "instance": "ft06",
+        "seed": 10067
+      },
+      {
+        "id": "ft10:10067",
+        "instance": "ft10",
+        "seed": 10067
+      },
+      {
+        "id": "ft20:10067",
+        "instance": "ft20",
+        "seed": 10067
+      },
+      {
+        "id": "la01:10067",
+        "instance": "la01",
+        "seed": 10067
+      },
+      {
+        "id": "la16:10067",
+        "instance": "la16",
+        "seed": 10067
+      },
+      {
+        "id": "ft06:10068",
+        "instance": "ft06",
+        "seed": 10068
+      },
+      {
+        "id": "ft10:10068",
+        "instance": "ft10",
+        "seed": 10068
+      },
+      {
+        "id": "ft20:10068",
+        "instance": "ft20",
+        "seed": 10068
+      },
+      {
+        "id": "la01:10068",
+        "instance": "la01",
+        "seed": 10068
+      },
+      {
+        "id": "la16:10068",
+        "instance": "la16",
+        "seed": 10068
+      },
+      {
+        "id": "ft06:10069",
+        "instance": "ft06",
+        "seed": 10069
+      },
+      {
+        "id": "ft10:10069",
+        "instance": "ft10",
+        "seed": 10069
+      },
+      {
+        "id": "ft20:10069",
+        "instance": "ft20",
+        "seed": 10069
+      },
+      {
+        "id": "la01:10069",
+        "instance": "la01",
+        "seed": 10069
+      },
+      {
+        "id": "la16:10069",
+        "instance": "la16",
+        "seed": 10069
+      },
+      {
+        "id": "ft06:10070",
+        "instance": "ft06",
+        "seed": 10070
+      },
+      {
+        "id": "ft10:10070",
+        "instance": "ft10",
+        "seed": 10070
+      },
+      {
+        "id": "ft20:10070",
+        "instance": "ft20",
+        "seed": 10070
+      },
+      {
+        "id": "la01:10070",
+        "instance": "la01",
+        "seed": 10070
+      },
+      {
+        "id": "la16:10070",
+        "instance": "la16",
+        "seed": 10070
+      },
+      {
+        "id": "ft06:10071",
+        "instance": "ft06",
+        "seed": 10071
+      },
+      {
+        "id": "ft10:10071",
+        "instance": "ft10",
+        "seed": 10071
+      },
+      {
+        "id": "ft20:10071",
+        "instance": "ft20",
+        "seed": 10071
+      },
+      {
+        "id": "la01:10071",
+        "instance": "la01",
+        "seed": 10071
+      },
+      {
+        "id": "la16:10071",
+        "instance": "la16",
+        "seed": 10071
+      },
+      {
+        "id": "ft06:10072",
+        "instance": "ft06",
+        "seed": 10072
+      },
+      {
+        "id": "ft10:10072",
+        "instance": "ft10",
+        "seed": 10072
+      },
+      {
+        "id": "ft20:10072",
+        "instance": "ft20",
+        "seed": 10072
+      },
+      {
+        "id": "la01:10072",
+        "instance": "la01",
+        "seed": 10072
+      },
+      {
+        "id": "la16:10072",
+        "instance": "la16",
+        "seed": 10072
+      },
+      {
+        "id": "ft06:10073",
+        "instance": "ft06",
+        "seed": 10073
+      },
+      {
+        "id": "ft10:10073",
+        "instance": "ft10",
+        "seed": 10073
+      },
+      {
+        "id": "ft20:10073",
+        "instance": "ft20",
+        "seed": 10073
+      },
+      {
+        "id": "la01:10073",
+        "instance": "la01",
+        "seed": 10073
+      },
+      {
+        "id": "la16:10073",
+        "instance": "la16",
+        "seed": 10073
+      },
+      {
+        "id": "ft06:10074",
+        "instance": "ft06",
+        "seed": 10074
+      },
+      {
+        "id": "ft10:10074",
+        "instance": "ft10",
+        "seed": 10074
+      },
+      {
+        "id": "ft20:10074",
+        "instance": "ft20",
+        "seed": 10074
+      },
+      {
+        "id": "la01:10074",
+        "instance": "la01",
+        "seed": 10074
+      },
+      {
+        "id": "la16:10074",
+        "instance": "la16",
+        "seed": 10074
+      },
+      {
+        "id": "ft06:10075",
+        "instance": "ft06",
+        "seed": 10075
+      },
+      {
+        "id": "ft10:10075",
+        "instance": "ft10",
+        "seed": 10075
+      },
+      {
+        "id": "ft20:10075",
+        "instance": "ft20",
+        "seed": 10075
+      },
+      {
+        "id": "la01:10075",
+        "instance": "la01",
+        "seed": 10075
+      },
+      {
+        "id": "la16:10075",
+        "instance": "la16",
+        "seed": 10075
+      },
+      {
+        "id": "ft06:10076",
+        "instance": "ft06",
+        "seed": 10076
+      },
+      {
+        "id": "ft10:10076",
+        "instance": "ft10",
+        "seed": 10076
+      },
+      {
+        "id": "ft20:10076",
+        "instance": "ft20",
+        "seed": 10076
+      },
+      {
+        "id": "la01:10076",
+        "instance": "la01",
+        "seed": 10076
+      },
+      {
+        "id": "la16:10076",
+        "instance": "la16",
+        "seed": 10076
+      },
+      {
+        "id": "ft06:10077",
+        "instance": "ft06",
+        "seed": 10077
+      },
+      {
+        "id": "ft10:10077",
+        "instance": "ft10",
+        "seed": 10077
+      },
+      {
+        "id": "ft20:10077",
+        "instance": "ft20",
+        "seed": 10077
+      },
+      {
+        "id": "la01:10077",
+        "instance": "la01",
+        "seed": 10077
+      },
+      {
+        "id": "la16:10077",
+        "instance": "la16",
+        "seed": 10077
+      },
+      {
+        "id": "ft06:10078",
+        "instance": "ft06",
+        "seed": 10078
+      },
+      {
+        "id": "ft10:10078",
+        "instance": "ft10",
+        "seed": 10078
+      },
+      {
+        "id": "ft20:10078",
+        "instance": "ft20",
+        "seed": 10078
+      },
+      {
+        "id": "la01:10078",
+        "instance": "la01",
+        "seed": 10078
+      },
+      {
+        "id": "la16:10078",
+        "instance": "la16",
+        "seed": 10078
+      },
+      {
+        "id": "ft06:10079",
+        "instance": "ft06",
+        "seed": 10079
+      },
+      {
+        "id": "ft10:10079",
+        "instance": "ft10",
+        "seed": 10079
+      },
+      {
+        "id": "ft20:10079",
+        "instance": "ft20",
+        "seed": 10079
+      },
+      {
+        "id": "la01:10079",
+        "instance": "la01",
+        "seed": 10079
+      },
+      {
+        "id": "la16:10079",
+        "instance": "la16",
+        "seed": 10079
+      }
+    ],
+    "validation": [
+      {
+        "id": "ft06:20000",
+        "instance": "ft06",
+        "seed": 20000
+      },
+      {
+        "id": "ft10:20000",
+        "instance": "ft10",
+        "seed": 20000
+      },
+      {
+        "id": "ft20:20000",
+        "instance": "ft20",
+        "seed": 20000
+      },
+      {
+        "id": "la01:20000",
+        "instance": "la01",
+        "seed": 20000
+      },
+      {
+        "id": "la16:20000",
+        "instance": "la16",
+        "seed": 20000
+      },
+      {
+        "id": "ft06:20001",
+        "instance": "ft06",
+        "seed": 20001
+      },
+      {
+        "id": "ft10:20001",
+        "instance": "ft10",
+        "seed": 20001
+      },
+      {
+        "id": "ft20:20001",
+        "instance": "ft20",
+        "seed": 20001
+      },
+      {
+        "id": "la01:20001",
+        "instance": "la01",
+        "seed": 20001
+      },
+      {
+        "id": "la16:20001",
+        "instance": "la16",
+        "seed": 20001
+      },
+      {
+        "id": "ft06:20002",
+        "instance": "ft06",
+        "seed": 20002
+      },
+      {
+        "id": "ft10:20002",
+        "instance": "ft10",
+        "seed": 20002
+      },
+      {
+        "id": "ft20:20002",
+        "instance": "ft20",
+        "seed": 20002
+      },
+      {
+        "id": "la01:20002",
+        "instance": "la01",
+        "seed": 20002
+      },
+      {
+        "id": "la16:20002",
+        "instance": "la16",
+        "seed": 20002
+      },
+      {
+        "id": "ft06:20003",
+        "instance": "ft06",
+        "seed": 20003
+      },
+      {
+        "id": "ft10:20003",
+        "instance": "ft10",
+        "seed": 20003
+      },
+      {
+        "id": "ft20:20003",
+        "instance": "ft20",
+        "seed": 20003
+      },
+      {
+        "id": "la01:20003",
+        "instance": "la01",
+        "seed": 20003
+      },
+      {
+        "id": "la16:20003",
+        "instance": "la16",
+        "seed": 20003
+      },
+      {
+        "id": "ft06:20004",
+        "instance": "ft06",
+        "seed": 20004
+      },
+      {
+        "id": "ft10:20004",
+        "instance": "ft10",
+        "seed": 20004
+      },
+      {
+        "id": "ft20:20004",
+        "instance": "ft20",
+        "seed": 20004
+      },
+      {
+        "id": "la01:20004",
+        "instance": "la01",
+        "seed": 20004
+      },
+      {
+        "id": "la16:20004",
+        "instance": "la16",
+        "seed": 20004
+      },
+      {
+        "id": "ft06:20005",
+        "instance": "ft06",
+        "seed": 20005
+      },
+      {
+        "id": "ft10:20005",
+        "instance": "ft10",
+        "seed": 20005
+      },
+      {
+        "id": "ft20:20005",
+        "instance": "ft20",
+        "seed": 20005
+      },
+      {
+        "id": "la01:20005",
+        "instance": "la01",
+        "seed": 20005
+      },
+      {
+        "id": "la16:20005",
+        "instance": "la16",
+        "seed": 20005
+      },
+      {
+        "id": "ft06:20006",
+        "instance": "ft06",
+        "seed": 20006
+      },
+      {
+        "id": "ft10:20006",
+        "instance": "ft10",
+        "seed": 20006
+      },
+      {
+        "id": "ft20:20006",
+        "instance": "ft20",
+        "seed": 20006
+      },
+      {
+        "id": "la01:20006",
+        "instance": "la01",
+        "seed": 20006
+      },
+      {
+        "id": "la16:20006",
+        "instance": "la16",
+        "seed": 20006
+      },
+      {
+        "id": "ft06:20007",
+        "instance": "ft06",
+        "seed": 20007
+      },
+      {
+        "id": "ft10:20007",
+        "instance": "ft10",
+        "seed": 20007
+      },
+      {
+        "id": "ft20:20007",
+        "instance": "ft20",
+        "seed": 20007
+      },
+      {
+        "id": "la01:20007",
+        "instance": "la01",
+        "seed": 20007
+      },
+      {
+        "id": "la16:20007",
+        "instance": "la16",
+        "seed": 20007
+      },
+      {
+        "id": "ft06:20008",
+        "instance": "ft06",
+        "seed": 20008
+      },
+      {
+        "id": "ft10:20008",
+        "instance": "ft10",
+        "seed": 20008
+      },
+      {
+        "id": "ft20:20008",
+        "instance": "ft20",
+        "seed": 20008
+      },
+      {
+        "id": "la01:20008",
+        "instance": "la01",
+        "seed": 20008
+      },
+      {
+        "id": "la16:20008",
+        "instance": "la16",
+        "seed": 20008
+      },
+      {
+        "id": "ft06:20009",
+        "instance": "ft06",
+        "seed": 20009
+      },
+      {
+        "id": "ft10:20009",
+        "instance": "ft10",
+        "seed": 20009
+      },
+      {
+        "id": "ft20:20009",
+        "instance": "ft20",
+        "seed": 20009
+      },
+      {
+        "id": "la01:20009",
+        "instance": "la01",
+        "seed": 20009
+      },
+      {
+        "id": "la16:20009",
+        "instance": "la16",
+        "seed": 20009
+      }
+    ],
+    "test": [
+      {
+        "id": "ft06:30000",
+        "instance": "ft06",
+        "seed": 30000
+      },
+      {
+        "id": "ft10:30000",
+        "instance": "ft10",
+        "seed": 30000
+      },
+      {
+        "id": "ft20:30000",
+        "instance": "ft20",
+        "seed": 30000
+      },
+      {
+        "id": "la01:30000",
+        "instance": "la01",
+        "seed": 30000
+      },
+      {
+        "id": "la16:30000",
+        "instance": "la16",
+        "seed": 30000
+      },
+      {
+        "id": "ft06:30001",
+        "instance": "ft06",
+        "seed": 30001
+      },
+      {
+        "id": "ft10:30001",
+        "instance": "ft10",
+        "seed": 30001
+      },
+      {
+        "id": "ft20:30001",
+        "instance": "ft20",
+        "seed": 30001
+      },
+      {
+        "id": "la01:30001",
+        "instance": "la01",
+        "seed": 30001
+      },
+      {
+        "id": "la16:30001",
+        "instance": "la16",
+        "seed": 30001
+      },
+      {
+        "id": "ft06:30002",
+        "instance": "ft06",
+        "seed": 30002
+      },
+      {
+        "id": "ft10:30002",
+        "instance": "ft10",
+        "seed": 30002
+      },
+      {
+        "id": "ft20:30002",
+        "instance": "ft20",
+        "seed": 30002
+      },
+      {
+        "id": "la01:30002",
+        "instance": "la01",
+        "seed": 30002
+      },
+      {
+        "id": "la16:30002",
+        "instance": "la16",
+        "seed": 30002
+      },
+      {
+        "id": "ft06:30003",
+        "instance": "ft06",
+        "seed": 30003
+      },
+      {
+        "id": "ft10:30003",
+        "instance": "ft10",
+        "seed": 30003
+      },
+      {
+        "id": "ft20:30003",
+        "instance": "ft20",
+        "seed": 30003
+      },
+      {
+        "id": "la01:30003",
+        "instance": "la01",
+        "seed": 30003
+      },
+      {
+        "id": "la16:30003",
+        "instance": "la16",
+        "seed": 30003
+      },
+      {
+        "id": "ft06:30004",
+        "instance": "ft06",
+        "seed": 30004
+      },
+      {
+        "id": "ft10:30004",
+        "instance": "ft10",
+        "seed": 30004
+      },
+      {
+        "id": "ft20:30004",
+        "instance": "ft20",
+        "seed": 30004
+      },
+      {
+        "id": "la01:30004",
+        "instance": "la01",
+        "seed": 30004
+      },
+      {
+        "id": "la16:30004",
+        "instance": "la16",
+        "seed": 30004
+      },
+      {
+        "id": "ft06:30005",
+        "instance": "ft06",
+        "seed": 30005
+      },
+      {
+        "id": "ft10:30005",
+        "instance": "ft10",
+        "seed": 30005
+      },
+      {
+        "id": "ft20:30005",
+        "instance": "ft20",
+        "seed": 30005
+      },
+      {
+        "id": "la01:30005",
+        "instance": "la01",
+        "seed": 30005
+      },
+      {
+        "id": "la16:30005",
+        "instance": "la16",
+        "seed": 30005
+      },
+      {
+        "id": "ft06:30006",
+        "instance": "ft06",
+        "seed": 30006
+      },
+      {
+        "id": "ft10:30006",
+        "instance": "ft10",
+        "seed": 30006
+      },
+      {
+        "id": "ft20:30006",
+        "instance": "ft20",
+        "seed": 30006
+      },
+      {
+        "id": "la01:30006",
+        "instance": "la01",
+        "seed": 30006
+      },
+      {
+        "id": "la16:30006",
+        "instance": "la16",
+        "seed": 30006
+      },
+      {
+        "id": "ft06:30007",
+        "instance": "ft06",
+        "seed": 30007
+      },
+      {
+        "id": "ft10:30007",
+        "instance": "ft10",
+        "seed": 30007
+      },
+      {
+        "id": "ft20:30007",
+        "instance": "ft20",
+        "seed": 30007
+      },
+      {
+        "id": "la01:30007",
+        "instance": "la01",
+        "seed": 30007
+      },
+      {
+        "id": "la16:30007",
+        "instance": "la16",
+        "seed": 30007
+      },
+      {
+        "id": "ft06:30008",
+        "instance": "ft06",
+        "seed": 30008
+      },
+      {
+        "id": "ft10:30008",
+        "instance": "ft10",
+        "seed": 30008
+      },
+      {
+        "id": "ft20:30008",
+        "instance": "ft20",
+        "seed": 30008
+      },
+      {
+        "id": "la01:30008",
+        "instance": "la01",
+        "seed": 30008
+      },
+      {
+        "id": "la16:30008",
+        "instance": "la16",
+        "seed": 30008
+      },
+      {
+        "id": "ft06:30009",
+        "instance": "ft06",
+        "seed": 30009
+      },
+      {
+        "id": "ft10:30009",
+        "instance": "ft10",
+        "seed": 30009
+      },
+      {
+        "id": "ft20:30009",
+        "instance": "ft20",
+        "seed": 30009
+      },
+      {
+        "id": "la01:30009",
+        "instance": "la01",
+        "seed": 30009
+      },
+      {
+        "id": "la16:30009",
+        "instance": "la16",
+        "seed": 30009
+      },
+      {
+        "id": "ft06:30010",
+        "instance": "ft06",
+        "seed": 30010
+      },
+      {
+        "id": "ft10:30010",
+        "instance": "ft10",
+        "seed": 30010
+      },
+      {
+        "id": "ft20:30010",
+        "instance": "ft20",
+        "seed": 30010
+      },
+      {
+        "id": "la01:30010",
+        "instance": "la01",
+        "seed": 30010
+      },
+      {
+        "id": "la16:30010",
+        "instance": "la16",
+        "seed": 30010
+      },
+      {
+        "id": "ft06:30011",
+        "instance": "ft06",
+        "seed": 30011
+      },
+      {
+        "id": "ft10:30011",
+        "instance": "ft10",
+        "seed": 30011
+      },
+      {
+        "id": "ft20:30011",
+        "instance": "ft20",
+        "seed": 30011
+      },
+      {
+        "id": "la01:30011",
+        "instance": "la01",
+        "seed": 30011
+      },
+      {
+        "id": "la16:30011",
+        "instance": "la16",
+        "seed": 30011
+      },
+      {
+        "id": "ft06:30012",
+        "instance": "ft06",
+        "seed": 30012
+      },
+      {
+        "id": "ft10:30012",
+        "instance": "ft10",
+        "seed": 30012
+      },
+      {
+        "id": "ft20:30012",
+        "instance": "ft20",
+        "seed": 30012
+      },
+      {
+        "id": "la01:30012",
+        "instance": "la01",
+        "seed": 30012
+      },
+      {
+        "id": "la16:30012",
+        "instance": "la16",
+        "seed": 30012
+      },
+      {
+        "id": "ft06:30013",
+        "instance": "ft06",
+        "seed": 30013
+      },
+      {
+        "id": "ft10:30013",
+        "instance": "ft10",
+        "seed": 30013
+      },
+      {
+        "id": "ft20:30013",
+        "instance": "ft20",
+        "seed": 30013
+      },
+      {
+        "id": "la01:30013",
+        "instance": "la01",
+        "seed": 30013
+      },
+      {
+        "id": "la16:30013",
+        "instance": "la16",
+        "seed": 30013
+      },
+      {
+        "id": "ft06:30014",
+        "instance": "ft06",
+        "seed": 30014
+      },
+      {
+        "id": "ft10:30014",
+        "instance": "ft10",
+        "seed": 30014
+      },
+      {
+        "id": "ft20:30014",
+        "instance": "ft20",
+        "seed": 30014
+      },
+      {
+        "id": "la01:30014",
+        "instance": "la01",
+        "seed": 30014
+      },
+      {
+        "id": "la16:30014",
+        "instance": "la16",
+        "seed": 30014
+      },
+      {
+        "id": "ft06:30015",
+        "instance": "ft06",
+        "seed": 30015
+      },
+      {
+        "id": "ft10:30015",
+        "instance": "ft10",
+        "seed": 30015
+      },
+      {
+        "id": "ft20:30015",
+        "instance": "ft20",
+        "seed": 30015
+      },
+      {
+        "id": "la01:30015",
+        "instance": "la01",
+        "seed": 30015
+      },
+      {
+        "id": "la16:30015",
+        "instance": "la16",
+        "seed": 30015
+      },
+      {
+        "id": "ft06:30016",
+        "instance": "ft06",
+        "seed": 30016
+      },
+      {
+        "id": "ft10:30016",
+        "instance": "ft10",
+        "seed": 30016
+      },
+      {
+        "id": "ft20:30016",
+        "instance": "ft20",
+        "seed": 30016
+      },
+      {
+        "id": "la01:30016",
+        "instance": "la01",
+        "seed": 30016
+      },
+      {
+        "id": "la16:30016",
+        "instance": "la16",
+        "seed": 30016
+      },
+      {
+        "id": "ft06:30017",
+        "instance": "ft06",
+        "seed": 30017
+      },
+      {
+        "id": "ft10:30017",
+        "instance": "ft10",
+        "seed": 30017
+      },
+      {
+        "id": "ft20:30017",
+        "instance": "ft20",
+        "seed": 30017
+      },
+      {
+        "id": "la01:30017",
+        "instance": "la01",
+        "seed": 30017
+      },
+      {
+        "id": "la16:30017",
+        "instance": "la16",
+        "seed": 30017
+      },
+      {
+        "id": "ft06:30018",
+        "instance": "ft06",
+        "seed": 30018
+      },
+      {
+        "id": "ft10:30018",
+        "instance": "ft10",
+        "seed": 30018
+      },
+      {
+        "id": "ft20:30018",
+        "instance": "ft20",
+        "seed": 30018
+      },
+      {
+        "id": "la01:30018",
+        "instance": "la01",
+        "seed": 30018
+      },
+      {
+        "id": "la16:30018",
+        "instance": "la16",
+        "seed": 30018
+      },
+      {
+        "id": "ft06:30019",
+        "instance": "ft06",
+        "seed": 30019
+      },
+      {
+        "id": "ft10:30019",
+        "instance": "ft10",
+        "seed": 30019
+      },
+      {
+        "id": "ft20:30019",
+        "instance": "ft20",
+        "seed": 30019
+      },
+      {
+        "id": "la01:30019",
+        "instance": "la01",
+        "seed": 30019
+      },
+      {
+        "id": "la16:30019",
+        "instance": "la16",
+        "seed": 30019
+      },
+      {
+        "id": "ft06:30020",
+        "instance": "ft06",
+        "seed": 30020
+      },
+      {
+        "id": "ft10:30020",
+        "instance": "ft10",
+        "seed": 30020
+      },
+      {
+        "id": "ft20:30020",
+        "instance": "ft20",
+        "seed": 30020
+      },
+      {
+        "id": "la01:30020",
+        "instance": "la01",
+        "seed": 30020
+      },
+      {
+        "id": "la16:30020",
+        "instance": "la16",
+        "seed": 30020
+      },
+      {
+        "id": "ft06:30021",
+        "instance": "ft06",
+        "seed": 30021
+      },
+      {
+        "id": "ft10:30021",
+        "instance": "ft10",
+        "seed": 30021
+      },
+      {
+        "id": "ft20:30021",
+        "instance": "ft20",
+        "seed": 30021
+      },
+      {
+        "id": "la01:30021",
+        "instance": "la01",
+        "seed": 30021
+      },
+      {
+        "id": "la16:30021",
+        "instance": "la16",
+        "seed": 30021
+      },
+      {
+        "id": "ft06:30022",
+        "instance": "ft06",
+        "seed": 30022
+      },
+      {
+        "id": "ft10:30022",
+        "instance": "ft10",
+        "seed": 30022
+      },
+      {
+        "id": "ft20:30022",
+        "instance": "ft20",
+        "seed": 30022
+      },
+      {
+        "id": "la01:30022",
+        "instance": "la01",
+        "seed": 30022
+      },
+      {
+        "id": "la16:30022",
+        "instance": "la16",
+        "seed": 30022
+      },
+      {
+        "id": "ft06:30023",
+        "instance": "ft06",
+        "seed": 30023
+      },
+      {
+        "id": "ft10:30023",
+        "instance": "ft10",
+        "seed": 30023
+      },
+      {
+        "id": "ft20:30023",
+        "instance": "ft20",
+        "seed": 30023
+      },
+      {
+        "id": "la01:30023",
+        "instance": "la01",
+        "seed": 30023
+      },
+      {
+        "id": "la16:30023",
+        "instance": "la16",
+        "seed": 30023
+      },
+      {
+        "id": "ft06:30024",
+        "instance": "ft06",
+        "seed": 30024
+      },
+      {
+        "id": "ft10:30024",
+        "instance": "ft10",
+        "seed": 30024
+      },
+      {
+        "id": "ft20:30024",
+        "instance": "ft20",
+        "seed": 30024
+      },
+      {
+        "id": "la01:30024",
+        "instance": "la01",
+        "seed": 30024
+      },
+      {
+        "id": "la16:30024",
+        "instance": "la16",
+        "seed": 30024
+      },
+      {
+        "id": "ft06:30025",
+        "instance": "ft06",
+        "seed": 30025
+      },
+      {
+        "id": "ft10:30025",
+        "instance": "ft10",
+        "seed": 30025
+      },
+      {
+        "id": "ft20:30025",
+        "instance": "ft20",
+        "seed": 30025
+      },
+      {
+        "id": "la01:30025",
+        "instance": "la01",
+        "seed": 30025
+      },
+      {
+        "id": "la16:30025",
+        "instance": "la16",
+        "seed": 30025
+      },
+      {
+        "id": "ft06:30026",
+        "instance": "ft06",
+        "seed": 30026
+      },
+      {
+        "id": "ft10:30026",
+        "instance": "ft10",
+        "seed": 30026
+      },
+      {
+        "id": "ft20:30026",
+        "instance": "ft20",
+        "seed": 30026
+      },
+      {
+        "id": "la01:30026",
+        "instance": "la01",
+        "seed": 30026
+      },
+      {
+        "id": "la16:30026",
+        "instance": "la16",
+        "seed": 30026
+      },
+      {
+        "id": "ft06:30027",
+        "instance": "ft06",
+        "seed": 30027
+      },
+      {
+        "id": "ft10:30027",
+        "instance": "ft10",
+        "seed": 30027
+      },
+      {
+        "id": "ft20:30027",
+        "instance": "ft20",
+        "seed": 30027
+      },
+      {
+        "id": "la01:30027",
+        "instance": "la01",
+        "seed": 30027
+      },
+      {
+        "id": "la16:30027",
+        "instance": "la16",
+        "seed": 30027
+      },
+      {
+        "id": "ft06:30028",
+        "instance": "ft06",
+        "seed": 30028
+      },
+      {
+        "id": "ft10:30028",
+        "instance": "ft10",
+        "seed": 30028
+      },
+      {
+        "id": "ft20:30028",
+        "instance": "ft20",
+        "seed": 30028
+      },
+      {
+        "id": "la01:30028",
+        "instance": "la01",
+        "seed": 30028
+      },
+      {
+        "id": "la16:30028",
+        "instance": "la16",
+        "seed": 30028
+      },
+      {
+        "id": "ft06:30029",
+        "instance": "ft06",
+        "seed": 30029
+      },
+      {
+        "id": "ft10:30029",
+        "instance": "ft10",
+        "seed": 30029
+      },
+      {
+        "id": "ft20:30029",
+        "instance": "ft20",
+        "seed": 30029
+      },
+      {
+        "id": "la01:30029",
+        "instance": "la01",
+        "seed": 30029
+      },
+      {
+        "id": "la16:30029",
+        "instance": "la16",
+        "seed": 30029
+      }
+    ]
+  },
+  "actions": [
+    0.5,
+    1.0,
+    1.5,
+    2.0,
+    2.5,
+    3.0,
+    3.5,
+    4.0,
+    4.5,
+    5.0
+  ],
+  "alphas": [
+    0.1,
+    0.3
+  ],
+  "episodes": 400,
+  "checkpoint_every": 100,
+  "training_seeds": [
+    101,
+    102,
+    103,
+    104,
+    105
+  ],
+  "epsilon": {
+    "start": 0.3,
+    "end": 0.05
+  },
+  "objective": "mean total_tardiness / total_processing across cases",
+  "baseline_selection": "validation only; ties prefer smaller k",
+  "policy_selection": "best validation checkpoint per run incl. epoch 0; choose ONE alpha by mean validation loss over training seeds",
+  "gamma": 1.0,
+  "python": "3.12.10",
+  "source_sha256": {
+    "C:\\bakalavr(multiagent system)\\jssp-auction-multiagent\\src\\mas_jssp\\__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "C:\\bakalavr(multiagent system)\\jssp-auction-multiagent\\src\\mas_jssp\\agents\\__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "C:\\bakalavr(multiagent system)\\jssp-auction-multiagent\\src\\mas_jssp\\agents\\adaptive_atc.py": "4ce8ca7cf4df20bc82ad5d0c860a2c8178b40447e12a9586d81feed2b415d6e3",
+    "C:\\bakalavr(multiagent system)\\jssp-auction-multiagent\\src\\mas_jssp\\agents\\agents.py": "eddc1bf47738bb7b3dfbd3d55d00bcff3e7aa09ac0ed8f24bbed0efae4a98308",
+    "C:\\bakalavr(multiagent system)\\jssp-auction-multiagent\\src\\mas_jssp\\auction\\__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "C:\\bakalavr(multiagent system)\\jssp-auction-multiagent\\src\\mas_jssp\\auction\\base_auction.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "C:\\bakalavr(multiagent system)\\jssp-auction-multiagent\\src\\mas_jssp\\auction\\english_auction.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "C:\\bakalavr(multiagent system)\\jssp-auction-multiagent\\src\\mas_jssp\\auction\\vickrey_auction.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "C:\\bakalavr(multiagent system)\\jssp-auction-multiagent\\src\\mas_jssp\\environment\\__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "C:\\bakalavr(multiagent system)\\jssp-auction-multiagent\\src\\mas_jssp\\environment\\environment.py": "4e365e84e310505dce49e04fedeb4525b0fc09e9fd0ecc0ea1c0ea29002c6251",
+    "C:\\bakalavr(multiagent system)\\jssp-auction-multiagent\\src\\mas_jssp\\environment\\heuristics.py": "99cb08b3a0ac1c5541b6c4efd09eec78dbc21f9497b626b3def7519b355109c5",
+    "C:\\bakalavr(multiagent system)\\jssp-auction-multiagent\\src\\mas_jssp\\environment\\priority.py": "de2a0bd210515b9917cbd328d3901b620a0fff45b42453358543fda78a05a871",
+    "C:\\bakalavr(multiagent system)\\jssp-auction-multiagent\\src\\mas_jssp\\experiments.py": "66afa5f487250f401ea7dd01b43a5f61c3378c873e28c93bf8004b51bd970d1b",
+    "C:\\bakalavr(multiagent system)\\jssp-auction-multiagent\\src\\mas_jssp\\learning_data.py": "72c80156fc8b754bdcc12f23e2ad9d39f28e18aa9289916ecf090fb5427659da",
+    "C:\\bakalavr(multiagent system)\\jssp-auction-multiagent\\src\\mas_jssp\\learning_statistics.py": "da0549addb7dd644f268695892b4e1ef9430f2f0f5999e5b10dcd21039ec5f2d",
+    "C:\\bakalavr(multiagent system)\\jssp-auction-multiagent\\src\\mas_jssp\\metrics\\__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "C:\\bakalavr(multiagent system)\\jssp-auction-multiagent\\src\\mas_jssp\\metrics\\metrics.py": "b5cbaa645125d5099ba35a5e0b0c2edc0d0be7aed5820ae26b3b30b4ca403db8",
+    "C:\\bakalavr(multiagent system)\\jssp-auction-multiagent\\src\\mas_jssp\\metrics\\validate.py": "9528e078a99bc87f6c841b464bd1df0b3f3946584ae2f1627f72a4e1918e8051",
+    "C:\\bakalavr(multiagent system)\\jssp-auction-multiagent\\src\\mas_jssp\\utils\\__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "C:\\bakalavr(multiagent system)\\jssp-auction-multiagent\\src\\mas_jssp\\utils\\loaders.py": "74019da998c08259626ab3f3615599198d9ee8532f04475985623c84377cfdce",
+    "C:\\bakalavr(multiagent system)\\jssp-auction-multiagent\\scripts\\run_learning_experiment.py": "89a69bca2d146bb265c26d61d0ed0f130374b56516749461eea52cca394c211b"
+  },
+  "test_protocol": "30 seed blocks by default; average over fixed instances and trained policies before Wilcoxon; crossed bootstrap for mean differences"
+}

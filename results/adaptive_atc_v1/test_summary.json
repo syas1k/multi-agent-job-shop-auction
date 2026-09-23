@@ -1,0 +1,171 @@
+{
+  "selection_sha256": "f2e7c0504104ace439a2566c3ea18d041df847cb82aed65efd8922465fced304",
+  "fixed_k": 2.0,
+  "selected_alpha": 0.1,
+  "models": [
+    {
+      "alpha": 0.1,
+      "training_seed": 101,
+      "model": "models/q_alpha0.1_seed101.json",
+      "selected_episode": 0,
+      "validation_loss": 0.042213843353023216,
+      "last_trained_model": "models/q_alpha0.1_seed101_last.json",
+      "model_sha256": "2858812906e932b2590873e76bac964643edb5b0be6f8cf8c299560f76cae844"
+    },
+    {
+      "alpha": 0.1,
+      "training_seed": 102,
+      "model": "models/q_alpha0.1_seed102.json",
+      "selected_episode": 300,
+      "validation_loss": 0.040152424541750796,
+      "last_trained_model": "models/q_alpha0.1_seed102_last.json",
+      "model_sha256": "3e5a1b8a66731ca666035483671a2b839f2aa7070495d52415254625f9a9a698"
+    },
+    {
+      "alpha": 0.1,
+      "training_seed": 103,
+      "model": "models/q_alpha0.1_seed103.json",
+      "selected_episode": 0,
+      "validation_loss": 0.042213843353023216,
+      "last_trained_model": "models/q_alpha0.1_seed103_last.json",
+      "model_sha256": "2858812906e932b2590873e76bac964643edb5b0be6f8cf8c299560f76cae844"
+    },
+    {
+      "alpha": 0.1,
+      "training_seed": 104,
+      "model": "models/q_alpha0.1_seed104.json",
+      "selected_episode": 0,
+      "validation_loss": 0.042213843353023216,
+      "last_trained_model": "models/q_alpha0.1_seed104_last.json",
+      "model_sha256": "2858812906e932b2590873e76bac964643edb5b0be6f8cf8c299560f76cae844"
+    },
+    {
+      "alpha": 0.1,
+      "training_seed": 105,
+      "model": "models/q_alpha0.1_seed105.json",
+      "selected_episode": 400,
+      "validation_loss": 0.040060053474278316,
+      "last_trained_model": "models/q_alpha0.1_seed105_last.json",
+      "model_sha256": "60a623ceb744ef093a546c4b8b82ab7faba5d78a95c34e8aafc19814eba30997"
+    }
+  ],
+  "test_scenarios": 150,
+  "test_schedule_runs": 900,
+  "independent_test_seed_blocks": 30,
+  "training_runs": 5,
+  "comparisons": {
+    "normalized_tardiness": {
+      "agent_mean": 0.05383582874510628,
+      "baseline_mean": 0.05293464549760141,
+      "agent_std_across_training_run_means": 0.0012543195396146505,
+      "agent_std_across_scenario_seed_means": 0.02548641844571832,
+      "baseline_std_across_scenario_seed_means": 0.02691227366471762,
+      "agent_mean_ci95": [
+        0.04537328557954413,
+        0.06360256768732211
+      ],
+      "baseline_mean_ci95": [
+        0.04423748486998176,
+        0.0630537949760623
+      ],
+      "paired_mean_delta": 0.0009011832475048601,
+      "paired_mean_delta_ci95": [
+        -0.0004910672750462765,
+        0.0031237625339328875
+      ],
+      "per_run_means": [
+        0.05293464549760141,
+        0.05486957398884365,
+        0.05293464549760141,
+        0.05293464549760141,
+        0.05550563324388346
+      ],
+      "relative_mean_change_percent": 1.7024450414912002,
+      "wilcoxon_statistic": 161.0,
+      "wilcoxon_p_two_sided": 0.1441721177098847,
+      "wilcoxon_pairs": 30,
+      "zero_difference_blocks": 1,
+      "wins_ties_losses_by_seed_block": [
+        11,
+        1,
+        18
+      ],
+      "bootstrap_samples": 5000,
+      "bootstrap_seed": 7401,
+      "note": "Fixed instance panel; crossed run/seed-block bootstrap. Wilcoxon conditions on these trained policies and assumes symmetric paired differences."
+    },
+    "total_tardiness": {
+      "agent_mean": 251.47128585868654,
+      "baseline_mean": 247.32660953911545,
+      "agent_std_across_training_run_means": 5.937759139327139,
+      "agent_std_across_scenario_seed_means": 126.26640242497334,
+      "baseline_std_across_scenario_seed_means": 133.94605055530437,
+      "agent_mean_ci95": [
+        208.9697275617885,
+        299.3709747531385
+      ],
+      "baseline_mean_ci95": [
+        202.77763611892024,
+        298.31023813797424
+      ],
+      "paired_mean_delta": 4.144676319571139,
+      "paired_mean_delta_ci95": [
+        -3.032395763179054,
+        15.155423589573454
+      ],
+      "per_run_means": [
+        247.32660953911545,
+        255.21945739735727,
+        247.32660953911545,
+        247.32660953911545,
+        260.1571432787292
+      ],
+      "relative_mean_change_percent": 1.6757906993083354,
+      "wins_ties_losses_by_seed_block": [
+        12,
+        1,
+        17
+      ],
+      "bootstrap_samples": 5000,
+      "bootstrap_seed": 7401,
+      "note": "Fixed instance panel; crossed run/seed-block bootstrap. Wilcoxon conditions on these trained policies and assumes symmetric paired differences."
+    },
+    "makespan": {
+      "agent_mean": 1098.880651462313,
+      "baseline_mean": 1097.9184470451514,
+      "agent_std_across_training_run_means": 1.3177785945914429,
+      "agent_std_across_scenario_seed_means": 30.986920194351562,
+      "baseline_std_across_scenario_seed_means": 32.9378125020499,
+      "agent_mean_ci95": [
+        1087.7575019736673,
+        1109.9666615184958
+      ],
+      "baseline_mean_ci95": [
+        1086.1305854140383,
+        1109.4682213390163
+      ],
+      "paired_mean_delta": 0.9622044171614422,
+      "paired_mean_delta_ci95": [
+        -1.6213371579831692,
+        4.635722177104514
+      ],
+      "per_run_means": [
+        1097.9184470451514,
+        1100.2894497961822,
+        1097.9184470451514,
+        1097.9184470451514,
+        1100.358466379928
+      ],
+      "relative_mean_change_percent": 0.08763896988442457,
+      "wins_ties_losses_by_seed_block": [
+        15,
+        0,
+        15
+      ],
+      "bootstrap_samples": 5000,
+      "bootstrap_seed": 7401,
+      "note": "Fixed instance panel; crossed run/seed-block bootstrap. Wilcoxon conditions on these trained policies and assumes symmetric paired differences."
+    }
+  },
+  "test_unchanged_models": true
+}
