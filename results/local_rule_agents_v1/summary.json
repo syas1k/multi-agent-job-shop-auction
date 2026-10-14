@@ -1,0 +1,28 @@
+{
+  "ATC_LOCAL": {
+    "scenarios": 50,
+    "makespan": 1129.9861598922105,
+    "total_tardiness": 244.49689822801602,
+    "normalized_tardiness": 0.05166132853684749,
+    "all_valid": true
+  },
+  "LOCAL_FIXED": {
+    "scenarios": 50,
+    "makespan": 1129.9861598922105,
+    "total_tardiness": 244.49689822801602,
+    "normalized_tardiness": 0.05166132853684749,
+    "all_valid": true
+  },
+  "LOCAL_RULES": {
+    "scenarios": 50,
+    "makespan": 1118.7460099885448,
+    "total_tardiness": 244.58562599182486,
+    "normalized_tardiness": 0.05154030459202718,
+    "all_valid": true
+  },
+  "diagnostics": {
+    "changed_winners_on_own_queues": 51,
+    "contested_auctions": 816,
+    "note": "Same-queue shadow comparison; not an estimate of causal improvement."
+  }
+}

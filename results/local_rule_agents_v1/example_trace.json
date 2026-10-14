@@ -1,0 +1,1388 @@
+{
+  "instance": "ft06",
+  "seed": 410000,
+  "scenario_sha256": "5098613a12761ddb0d62b6722ab4db4f1b3f65a104618c2566871c5d219c7e43",
+  "trace": [
+    {
+      "time": 7.740053088105708,
+      "announcement": {
+        "machine_id": 2,
+        "k": 3.0,
+        "mean_processing": 1.0,
+        "urgent_fraction": 0.0
+      },
+      "proposals": [
+        {
+          "job_id": 0,
+          "op_index": 0,
+          "machine_id": 2,
+          "duration": 1,
+          "slack": 8.685701452903679
+        }
+      ],
+      "offers": [
+        {
+          "proposal": {
+            "job_id": 0,
+            "op_index": 0,
+            "machine_id": 2,
+            "duration": 1,
+            "slack": 8.685701452903679
+          },
+          "log_priority": -2.89523381763456
+        }
+      ],
+      "winner_job": 0,
+      "winner_operation": 0,
+      "start": 7.740053088105708,
+      "end": 8.740053088105707,
+      "fixed_k_shadow_winner_job": 0,
+      "changed_winner": false
+    },
+    {
+      "time": 8.740053088105707,
+      "announcement": {
+        "machine_id": 0,
+        "k": 3.0,
+        "mean_processing": 3.0,
+        "urgent_fraction": 0.0
+      },
+      "proposals": [
+        {
+          "job_id": 0,
+          "op_index": 1,
+          "machine_id": 0,
+          "duration": 3,
+          "slack": 8.685701452903686
+        }
+      ],
+      "offers": [
+        {
+          "proposal": {
+            "job_id": 0,
+            "op_index": 1,
+            "machine_id": 0,
+            "duration": 3,
+            "slack": 8.685701452903686
+          },
+          "log_priority": -2.0636902278796305
+        }
+      ],
+      "winner_job": 0,
+      "winner_operation": 1,
+      "start": 8.740053088105707,
+      "end": 11.740053088105707,
+      "fixed_k_shadow_winner_job": 0,
+      "changed_winner": false
+    },
+    {
+      "time": 11.740053088105707,
+      "announcement": {
+        "machine_id": 1,
+        "k": 3.0,
+        "mean_processing": 6.0,
+        "urgent_fraction": 0.0
+      },
+      "proposals": [
+        {
+          "job_id": 0,
+          "op_index": 2,
+          "machine_id": 1,
+          "duration": 6,
+          "slack": 8.685701452903682
+        }
+      ],
+      "offers": [
+        {
+          "proposal": {
+            "job_id": 0,
+            "op_index": 2,
+            "machine_id": 1,
+            "duration": 6,
+            "slack": 8.685701452903682
+          },
+          "log_priority": -2.274298438833815
+        }
+      ],
+      "winner_job": 0,
+      "winner_operation": 2,
+      "start": 11.740053088105707,
+      "end": 17.740053088105707,
+      "fixed_k_shadow_winner_job": 0,
+      "changed_winner": false
+    },
+    {
+      "time": 17.740053088105707,
+      "announcement": {
+        "machine_id": 1,
+        "k": 3.0,
+        "mean_processing": 3.0,
+        "urgent_fraction": 0.0
+      },
+      "proposals": [
+        {
+          "job_id": 5,
+          "op_index": 0,
+          "machine_id": 1,
+          "duration": 3,
+          "slack": 19.778100299632925
+        }
+      ],
+      "offers": [
+        {
+          "proposal": {
+            "job_id": 5,
+            "op_index": 0,
+            "machine_id": 1,
+            "duration": 3,
+            "slack": 19.778100299632925
+          },
+          "log_priority": -3.2961789886273234
+        }
+      ],
+      "winner_job": 5,
+      "winner_operation": 0,
+      "start": 17.740053088105707,
+      "end": 20.740053088105707,
+      "fixed_k_shadow_winner_job": 5,
+      "changed_winner": false
+    },
+    {
+      "time": 17.740053088105707,
+      "announcement": {
+        "machine_id": 3,
+        "k": 3.0,
+        "mean_processing": 7.0,
+        "urgent_fraction": 0.0
+      },
+      "proposals": [
+        {
+          "job_id": 0,
+          "op_index": 3,
+          "machine_id": 3,
+          "duration": 7,
+          "slack": 8.685701452903682
+        }
+      ],
+      "offers": [
+        {
+          "proposal": {
+            "job_id": 0,
+            "op_index": 3,
+            "machine_id": 3,
+            "duration": 7,
+            "slack": 8.685701452903682
+          },
+          "log_priority": -2.3595149801459647
+        }
+      ],
+      "winner_job": 0,
+      "winner_operation": 3,
+      "start": 17.740053088105707,
+      "end": 24.740053088105707,
+      "fixed_k_shadow_winner_job": 0,
+      "changed_winner": false
+    },
+    {
+      "time": 19.170919650188715,
+      "announcement": {
+        "machine_id": 2,
+        "k": 3.0,
+        "mean_processing": 5.0,
+        "urgent_fraction": 0.0
+      },
+      "proposals": [
+        {
+          "job_id": 2,
+          "op_index": 0,
+          "machine_id": 2,
+          "duration": 5,
+          "slack": 36.60162553795513
+        }
+      ],
+      "offers": [
+        {
+          "proposal": {
+            "job_id": 2,
+            "op_index": 0,
+            "machine_id": 2,
+            "duration": 5,
+            "slack": 36.60162553795513
+          },
+          "log_priority": -4.049546281631109
+        }
+      ],
+      "winner_job": 2,
+      "winner_operation": 0,
+      "start": 19.170919650188715,
+      "end": 24.170919650188715,
+      "fixed_k_shadow_winner_job": 2,
+      "changed_winner": false
+    },
+    {
+      "time": 24.740053088105707,
+      "announcement": {
+        "machine_id": 3,
+        "k": 3.0,
+        "mean_processing": 3.5,
+        "urgent_fraction": 0.0
+      },
+      "proposals": [
+        {
+          "job_id": 2,
+          "op_index": 1,
+          "machine_id": 3,
+          "duration": 4,
+          "slack": 36.03249210003814
+        },
+        {
+          "job_id": 5,
+          "op_index": 1,
+          "machine_id": 3,
+          "duration": 3,
+          "slack": 15.778100299632925
+        }
+      ],
+      "offers": [
+        {
+          "proposal": {
+            "job_id": 2,
+            "op_index": 1,
+            "machine_id": 3,
+            "duration": 4,
+            "slack": 36.03249210003814
+          },
+          "log_priority": -4.817960275409237
+        },
+        {
+          "proposal": {
+            "job_id": 5,
+            "op_index": 1,
+            "machine_id": 3,
+            "duration": 3,
+            "slack": 15.778100299632925
+          },
+          "log_priority": -2.6012885076807692
+        }
+      ],
+      "winner_job": 5,
+      "winner_operation": 1,
+      "start": 24.740053088105707,
+      "end": 27.740053088105707,
+      "fixed_k_shadow_winner_job": 5,
+      "changed_winner": false
+    },
+    {
+      "time": 24.740053088105707,
+      "announcement": {
+        "machine_id": 5,
+        "k": 3.0,
+        "mean_processing": 3.0,
+        "urgent_fraction": 0.0
+      },
+      "proposals": [
+        {
+          "job_id": 0,
+          "op_index": 4,
+          "machine_id": 5,
+          "duration": 3,
+          "slack": 8.685701452903682
+        }
+      ],
+      "offers": [
+        {
+          "proposal": {
+            "job_id": 0,
+            "op_index": 4,
+            "machine_id": 5,
+            "duration": 3,
+            "slack": 8.685701452903682
+          },
+          "log_priority": -2.06369022787963
+        }
+      ],
+      "winner_job": 0,
+      "winner_operation": 4,
+      "start": 24.740053088105707,
+      "end": 27.740053088105707,
+      "fixed_k_shadow_winner_job": 0,
+      "changed_winner": false
+    },
+    {
+      "time": 26.563050166173166,
+      "announcement": {
+        "machine_id": 2,
+        "k": 3.0,
+        "mean_processing": 9.0,
+        "urgent_fraction": 0.0
+      },
+      "proposals": [
+        {
+          "job_id": 4,
+          "op_index": 0,
+          "machine_id": 2,
+          "duration": 9,
+          "slack": 17.106507976815507
+        }
+      ],
+      "offers": [
+        {
+          "proposal": {
+            "job_id": 4,
+            "op_index": 0,
+            "machine_id": 2,
+            "duration": 9,
+            "slack": 17.106507976815507
+          },
+          "log_priority": -2.830798946847905
+        }
+      ],
+      "winner_job": 4,
+      "winner_operation": 0,
+      "start": 26.563050166173166,
+      "end": 35.56305016617317,
+      "fixed_k_shadow_winner_job": 4,
+      "changed_winner": false
+    },
+    {
+      "time": 27.740053088105707,
+      "announcement": {
+        "machine_id": 3,
+        "k": 3.0,
+        "mean_processing": 4.0,
+        "urgent_fraction": 0.0
+      },
+      "proposals": [
+        {
+          "job_id": 2,
+          "op_index": 1,
+          "machine_id": 3,
+          "duration": 4,
+          "slack": 33.03249210003814
+        }
+      ],
+      "offers": [
+        {
+          "proposal": {
+            "job_id": 2,
+            "op_index": 1,
+            "machine_id": 3,
+            "duration": 4,
+            "slack": 33.03249210003814
+          },
+          "log_priority": -4.139002036123069
+        }
+      ],
+      "winner_job": 2,
+      "winner_operation": 1,
+      "start": 27.740053088105707,
+      "end": 31.740053088105707,
+      "fixed_k_shadow_winner_job": 2,
+      "changed_winner": false
+    },
+    {
+      "time": 27.740053088105707,
+      "announcement": {
+        "machine_id": 4,
+        "k": 3.0,
+        "mean_processing": 6.0,
+        "urgent_fraction": 0.0
+      },
+      "proposals": [
+        {
+          "job_id": 0,
+          "op_index": 5,
+          "machine_id": 4,
+          "duration": 6,
+          "slack": 8.685701452903682
+        }
+      ],
+      "offers": [
+        {
+          "proposal": {
+            "job_id": 0,
+            "op_index": 5,
+            "machine_id": 4,
+            "duration": 6,
+            "slack": 8.685701452903682
+          },
+          "log_priority": -2.274298438833815
+        }
+      ],
+      "winner_job": 0,
+      "winner_operation": 5,
+      "start": 27.740053088105707,
+      "end": 33.74005308810571,
+      "fixed_k_shadow_winner_job": 0,
+      "changed_winner": false
+    },
+    {
+      "time": 27.740053088105707,
+      "announcement": {
+        "machine_id": 5,
+        "k": 3.0,
+        "mean_processing": 9.0,
+        "urgent_fraction": 0.0
+      },
+      "proposals": [
+        {
+          "job_id": 5,
+          "op_index": 2,
+          "machine_id": 5,
+          "duration": 9,
+          "slack": 15.778100299632925
+        }
+      ],
+      "offers": [
+        {
+          "proposal": {
+            "job_id": 5,
+            "op_index": 2,
+            "machine_id": 5,
+            "duration": 9,
+            "slack": 15.778100299632925
+          },
+          "log_priority": -2.7815986625078093
+        }
+      ],
+      "winner_job": 5,
+      "winner_operation": 2,
+      "start": 27.740053088105707,
+      "end": 36.74005308810571,
+      "fixed_k_shadow_winner_job": 5,
+      "changed_winner": false
+    },
+    {
+      "time": 29.464349443843993,
+      "announcement": {
+        "machine_id": 1,
+        "k": 3.0,
+        "mean_processing": 5.0,
+        "urgent_fraction": 0.0
+      },
+      "proposals": [
+        {
+          "job_id": 3,
+          "op_index": 0,
+          "machine_id": 1,
+          "duration": 5,
+          "slack": 29.030492473823017
+        }
+      ],
+      "offers": [
+        {
+          "proposal": {
+            "job_id": 3,
+            "op_index": 0,
+            "machine_id": 1,
+            "duration": 5,
+            "slack": 29.030492473823017
+          },
+          "log_priority": -3.544804077355635
+        }
+      ],
+      "winner_job": 3,
+      "winner_operation": 0,
+      "start": 29.464349443843993,
+      "end": 34.46434944384399,
+      "fixed_k_shadow_winner_job": 3,
+      "changed_winner": false
+    },
+    {
+      "time": 34.46434944384399,
+      "announcement": {
+        "machine_id": 0,
+        "k": 3.0,
+        "mean_processing": 5.0,
+        "urgent_fraction": 0.0
+      },
+      "proposals": [
+        {
+          "job_id": 3,
+          "op_index": 1,
+          "machine_id": 0,
+          "duration": 5,
+          "slack": 29.03049247382301
+        }
+      ],
+      "offers": [
+        {
+          "proposal": {
+            "job_id": 3,
+            "op_index": 1,
+            "machine_id": 0,
+            "duration": 5,
+            "slack": 29.03049247382301
+          },
+          "log_priority": -3.544804077355634
+        }
+      ],
+      "winner_job": 3,
+      "winner_operation": 1,
+      "start": 34.46434944384399,
+      "end": 39.46434944384399,
+      "fixed_k_shadow_winner_job": 3,
+      "changed_winner": false
+    },
+    {
+      "time": 34.46434944384399,
+      "announcement": {
+        "machine_id": 1,
+        "k": 3.0,
+        "mean_processing": 8.0,
+        "urgent_fraction": 0.0
+      },
+      "proposals": [
+        {
+          "job_id": 1,
+          "op_index": 0,
+          "machine_id": 1,
+          "duration": 8,
+          "slack": 20.80024627193322
+        }
+      ],
+      "offers": [
+        {
+          "proposal": {
+            "job_id": 1,
+            "op_index": 0,
+            "machine_id": 1,
+            "duration": 8,
+            "slack": 20.80024627193322
+          },
+          "log_priority": -2.946118469677053
+        }
+      ],
+      "winner_job": 1,
+      "winner_operation": 0,
+      "start": 34.46434944384399,
+      "end": 42.46434944384399,
+      "fixed_k_shadow_winner_job": 1,
+      "changed_winner": false
+    },
+    {
+      "time": 36.74005308810571,
+      "announcement": {
+        "machine_id": 5,
+        "k": 3.0,
+        "mean_processing": 8.0,
+        "urgent_fraction": 0.0
+      },
+      "proposals": [
+        {
+          "job_id": 2,
+          "op_index": 2,
+          "machine_id": 5,
+          "duration": 8,
+          "slack": 28.03249210003814
+        }
+      ],
+      "offers": [
+        {
+          "proposal": {
+            "job_id": 2,
+            "op_index": 2,
+            "machine_id": 5,
+            "duration": 8,
+            "slack": 28.03249210003814
+          },
+          "log_priority": -3.2474620458480916
+        }
+      ],
+      "winner_job": 2,
+      "winner_operation": 2,
+      "start": 36.74005308810571,
+      "end": 44.74005308810571,
+      "fixed_k_shadow_winner_job": 2,
+      "changed_winner": false
+    },
+    {
+      "time": 39.46434944384399,
+      "announcement": {
+        "machine_id": 0,
+        "k": 3.0,
+        "mean_processing": 10.0,
+        "urgent_fraction": 0.0
+      },
+      "proposals": [
+        {
+          "job_id": 5,
+          "op_index": 3,
+          "machine_id": 0,
+          "duration": 10,
+          "slack": 13.053803943894643
+        }
+      ],
+      "offers": [
+        {
+          "proposal": {
+            "job_id": 5,
+            "op_index": 3,
+            "machine_id": 0,
+            "duration": 10,
+            "slack": 13.053803943894643
+          },
+          "log_priority": -2.737711891123867
+        }
+      ],
+      "winner_job": 5,
+      "winner_operation": 3,
+      "start": 39.46434944384399,
+      "end": 49.46434944384399,
+      "fixed_k_shadow_winner_job": 5,
+      "changed_winner": false
+    },
+    {
+      "time": 39.46434944384399,
+      "announcement": {
+        "machine_id": 2,
+        "k": 3.0,
+        "mean_processing": 5.0,
+        "urgent_fraction": 0.0
+      },
+      "proposals": [
+        {
+          "job_id": 3,
+          "op_index": 2,
+          "machine_id": 2,
+          "duration": 5,
+          "slack": 29.03049247382301
+        }
+      ],
+      "offers": [
+        {
+          "proposal": {
+            "job_id": 3,
+            "op_index": 2,
+            "machine_id": 2,
+            "duration": 5,
+            "slack": 29.03049247382301
+          },
+          "log_priority": -3.544804077355634
+        }
+      ],
+      "winner_job": 3,
+      "winner_operation": 2,
+      "start": 39.46434944384399,
+      "end": 44.46434944384399,
+      "fixed_k_shadow_winner_job": 3,
+      "changed_winner": false
+    },
+    {
+      "time": 42.46434944384399,
+      "announcement": {
+        "machine_id": 1,
+        "k": 3.0,
+        "mean_processing": 3.0,
+        "urgent_fraction": 0.0
+      },
+      "proposals": [
+        {
+          "job_id": 4,
+          "op_index": 1,
+          "machine_id": 1,
+          "duration": 3,
+          "slack": 10.205208699144684
+        }
+      ],
+      "offers": [
+        {
+          "proposal": {
+            "job_id": 4,
+            "op_index": 1,
+            "machine_id": 1,
+            "duration": 3,
+            "slack": 10.205208699144684
+          },
+          "log_priority": -2.2325243663508525
+        }
+      ],
+      "winner_job": 4,
+      "winner_operation": 1,
+      "start": 42.46434944384399,
+      "end": 45.46434944384399,
+      "fixed_k_shadow_winner_job": 4,
+      "changed_winner": false
+    },
+    {
+      "time": 44.46434944384399,
+      "announcement": {
+        "machine_id": 2,
+        "k": 3.0,
+        "mean_processing": 5.0,
+        "urgent_fraction": 0.0
+      },
+      "proposals": [
+        {
+          "job_id": 1,
+          "op_index": 1,
+          "machine_id": 2,
+          "duration": 5,
+          "slack": 18.80024627193321
+        }
+      ],
+      "offers": [
+        {
+          "proposal": {
+            "job_id": 1,
+            "op_index": 1,
+            "machine_id": 2,
+            "duration": 5,
+            "slack": 18.80024627193321
+          },
+          "log_priority": -2.8627876638963143
+        }
+      ],
+      "winner_job": 1,
+      "winner_operation": 1,
+      "start": 44.46434944384399,
+      "end": 49.46434944384399,
+      "fixed_k_shadow_winner_job": 1,
+      "changed_winner": false
+    },
+    {
+      "time": 44.46434944384399,
+      "announcement": {
+        "machine_id": 3,
+        "k": 3.0,
+        "mean_processing": 3.0,
+        "urgent_fraction": 0.0
+      },
+      "proposals": [
+        {
+          "job_id": 3,
+          "op_index": 3,
+          "machine_id": 3,
+          "duration": 3,
+          "slack": 29.03049247382301
+        }
+      ],
+      "offers": [
+        {
+          "proposal": {
+            "job_id": 3,
+            "op_index": 3,
+            "machine_id": 3,
+            "duration": 3,
+            "slack": 29.03049247382301
+          },
+          "log_priority": -4.324222563537333
+        }
+      ],
+      "winner_job": 3,
+      "winner_operation": 3,
+      "start": 44.46434944384399,
+      "end": 47.46434944384399,
+      "fixed_k_shadow_winner_job": 3,
+      "changed_winner": false
+    },
+    {
+      "time": 45.46434944384399,
+      "announcement": {
+        "machine_id": 4,
+        "k": 3.0,
+        "mean_processing": 5.0,
+        "urgent_fraction": 0.0
+      },
+      "proposals": [
+        {
+          "job_id": 4,
+          "op_index": 2,
+          "machine_id": 4,
+          "duration": 5,
+          "slack": 10.205208699144684
+        }
+      ],
+      "offers": [
+        {
+          "proposal": {
+            "job_id": 4,
+            "op_index": 2,
+            "machine_id": 4,
+            "duration": 5,
+            "slack": 10.205208699144684
+          },
+          "log_priority": -2.289785159043746
+        }
+      ],
+      "winner_job": 4,
+      "winner_operation": 2,
+      "start": 45.46434944384399,
+      "end": 50.46434944384399,
+      "fixed_k_shadow_winner_job": 4,
+      "changed_winner": false
+    },
+    {
+      "time": 49.46434944384399,
+      "announcement": {
+        "machine_id": 0,
+        "k": 3.0,
+        "mean_processing": 9.0,
+        "urgent_fraction": 0.0
+      },
+      "proposals": [
+        {
+          "job_id": 2,
+          "op_index": 3,
+          "machine_id": 0,
+          "duration": 9,
+          "slack": 23.30819574429986
+        }
+      ],
+      "offers": [
+        {
+          "proposal": {
+            "job_id": 2,
+            "op_index": 3,
+            "machine_id": 0,
+            "duration": 9,
+            "slack": 23.30819574429986
+          },
+          "log_priority": -3.0604910863843626
+        }
+      ],
+      "winner_job": 2,
+      "winner_operation": 3,
+      "start": 49.46434944384399,
+      "end": 58.46434944384399,
+      "fixed_k_shadow_winner_job": 2,
+      "changed_winner": false
+    },
+    {
+      "time": 50.46434944384399,
+      "announcement": {
+        "machine_id": 4,
+        "k": 3.0,
+        "mean_processing": 7.333333333333333,
+        "urgent_fraction": 0.0
+      },
+      "proposals": [
+        {
+          "job_id": 1,
+          "op_index": 2,
+          "machine_id": 4,
+          "duration": 10,
+          "slack": 17.80024627193321
+        },
+        {
+          "job_id": 3,
+          "op_index": 4,
+          "machine_id": 4,
+          "duration": 8,
+          "slack": 26.03049247382301
+        },
+        {
+          "job_id": 5,
+          "op_index": 4,
+          "machine_id": 4,
+          "duration": 4,
+          "slack": 12.053803943894643
+        }
+      ],
+      "offers": [
+        {
+          "proposal": {
+            "job_id": 1,
+            "op_index": 2,
+            "machine_id": 4,
+            "duration": 10,
+            "slack": 17.80024627193321
+          },
+          "log_priority": -3.1116871962637376
+        },
+        {
+          "proposal": {
+            "job_id": 3,
+            "op_index": 4,
+            "machine_id": 4,
+            "duration": 8,
+            "slack": 26.03049247382301
+          },
+          "log_priority": -3.262645745035427
+        },
+        {
+          "proposal": {
+            "job_id": 5,
+            "op_index": 4,
+            "machine_id": 4,
+            "duration": 4,
+            "slack": 12.053803943894643
+          },
+          "log_priority": -1.934194540387829
+        }
+      ],
+      "winner_job": 5,
+      "winner_operation": 4,
+      "start": 50.46434944384399,
+      "end": 54.46434944384399,
+      "fixed_k_shadow_winner_job": 5,
+      "changed_winner": false
+    },
+    {
+      "time": 50.46434944384399,
+      "announcement": {
+        "machine_id": 5,
+        "k": 3.0,
+        "mean_processing": 4.0,
+        "urgent_fraction": 0.0
+      },
+      "proposals": [
+        {
+          "job_id": 4,
+          "op_index": 3,
+          "machine_id": 5,
+          "duration": 4,
+          "slack": 10.205208699144684
+        }
+      ],
+      "offers": [
+        {
+          "proposal": {
+            "job_id": 4,
+            "op_index": 3,
+            "machine_id": 5,
+            "duration": 4,
+            "slack": 10.205208699144684
+          },
+          "log_priority": -2.2367284193819477
+        }
+      ],
+      "winner_job": 4,
+      "winner_operation": 3,
+      "start": 50.46434944384399,
+      "end": 54.46434944384399,
+      "fixed_k_shadow_winner_job": 4,
+      "changed_winner": false
+    },
+    {
+      "time": 54.46434944384399,
+      "announcement": {
+        "machine_id": 2,
+        "k": 3.0,
+        "mean_processing": 1.0,
+        "urgent_fraction": 0.0
+      },
+      "proposals": [
+        {
+          "job_id": 5,
+          "op_index": 5,
+          "machine_id": 2,
+          "duration": 1,
+          "slack": 12.053803943894643
+        }
+      ],
+      "offers": [
+        {
+          "proposal": {
+            "job_id": 5,
+            "op_index": 5,
+            "machine_id": 2,
+            "duration": 1,
+            "slack": 12.053803943894643
+          },
+          "log_priority": -4.017934647964881
+        }
+      ],
+      "winner_job": 5,
+      "winner_operation": 5,
+      "start": 54.46434944384399,
+      "end": 55.46434944384399,
+      "fixed_k_shadow_winner_job": 5,
+      "changed_winner": false
+    },
+    {
+      "time": 54.46434944384399,
+      "announcement": {
+        "machine_id": 4,
+        "k": 3.0,
+        "mean_processing": 9.0,
+        "urgent_fraction": 0.0
+      },
+      "proposals": [
+        {
+          "job_id": 1,
+          "op_index": 2,
+          "machine_id": 4,
+          "duration": 10,
+          "slack": 13.800246271933212
+        },
+        {
+          "job_id": 3,
+          "op_index": 4,
+          "machine_id": 4,
+          "duration": 8,
+          "slack": 22.03049247382301
+        }
+      ],
+      "offers": [
+        {
+          "proposal": {
+            "job_id": 1,
+            "op_index": 2,
+            "machine_id": 4,
+            "duration": 10,
+            "slack": 13.800246271933212
+          },
+          "log_priority": -2.8137053252878683
+        },
+        {
+          "proposal": {
+            "job_id": 3,
+            "op_index": 4,
+            "machine_id": 4,
+            "duration": 8,
+            "slack": 22.03049247382301
+          },
+          "log_priority": -2.895385707376984
+        }
+      ],
+      "winner_job": 1,
+      "winner_operation": 2,
+      "start": 54.46434944384399,
+      "end": 64.46434944384399,
+      "fixed_k_shadow_winner_job": 1,
+      "changed_winner": false
+    },
+    {
+      "time": 58.46434944384399,
+      "announcement": {
+        "machine_id": 0,
+        "k": 3.0,
+        "mean_processing": 3.0,
+        "urgent_fraction": 0.0
+      },
+      "proposals": [
+        {
+          "job_id": 4,
+          "op_index": 4,
+          "machine_id": 0,
+          "duration": 3,
+          "slack": 6.205208699144684
+        }
+      ],
+      "offers": [
+        {
+          "proposal": {
+            "job_id": 4,
+            "op_index": 4,
+            "machine_id": 0,
+            "duration": 3,
+            "slack": 6.205208699144684
+          },
+          "log_priority": -1.788079921906408
+        }
+      ],
+      "winner_job": 4,
+      "winner_operation": 4,
+      "start": 58.46434944384399,
+      "end": 61.46434944384399,
+      "fixed_k_shadow_winner_job": 4,
+      "changed_winner": false
+    },
+    {
+      "time": 58.46434944384399,
+      "announcement": {
+        "machine_id": 1,
+        "k": 3.0,
+        "mean_processing": 1.0,
+        "urgent_fraction": 0.0
+      },
+      "proposals": [
+        {
+          "job_id": 2,
+          "op_index": 4,
+          "machine_id": 1,
+          "duration": 1,
+          "slack": 23.30819574429986
+        }
+      ],
+      "offers": [
+        {
+          "proposal": {
+            "job_id": 2,
+            "op_index": 4,
+            "machine_id": 1,
+            "duration": 1,
+            "slack": 23.30819574429986
+          },
+          "log_priority": -7.769398581433286
+        }
+      ],
+      "winner_job": 2,
+      "winner_operation": 4,
+      "start": 58.46434944384399,
+      "end": 59.46434944384399,
+      "fixed_k_shadow_winner_job": 2,
+      "changed_winner": false
+    },
+    {
+      "time": 61.46434944384399,
+      "announcement": {
+        "machine_id": 3,
+        "k": 3.0,
+        "mean_processing": 1.0,
+        "urgent_fraction": 0.0
+      },
+      "proposals": [
+        {
+          "job_id": 4,
+          "op_index": 5,
+          "machine_id": 3,
+          "duration": 1,
+          "slack": 6.205208699144684
+        }
+      ],
+      "offers": [
+        {
+          "proposal": {
+            "job_id": 4,
+            "op_index": 5,
+            "machine_id": 3,
+            "duration": 1,
+            "slack": 6.205208699144684
+          },
+          "log_priority": -2.068402899714895
+        }
+      ],
+      "winner_job": 4,
+      "winner_operation": 5,
+      "start": 61.46434944384399,
+      "end": 62.46434944384399,
+      "fixed_k_shadow_winner_job": 4,
+      "changed_winner": false
+    },
+    {
+      "time": 64.46434944384399,
+      "announcement": {
+        "machine_id": 4,
+        "k": 3.0,
+        "mean_processing": 7.5,
+        "urgent_fraction": 0.0
+      },
+      "proposals": [
+        {
+          "job_id": 2,
+          "op_index": 5,
+          "machine_id": 4,
+          "duration": 7,
+          "slack": 18.308195744299866
+        },
+        {
+          "job_id": 3,
+          "op_index": 4,
+          "machine_id": 4,
+          "duration": 8,
+          "slack": 12.030492473823017
+        }
+      ],
+      "offers": [
+        {
+          "proposal": {
+            "job_id": 2,
+            "op_index": 5,
+            "machine_id": 4,
+            "duration": 7,
+            "slack": 18.308195744299866
+          },
+          "log_priority": -2.759607737690863
+        },
+        {
+          "proposal": {
+            "job_id": 3,
+            "op_index": 4,
+            "machine_id": 4,
+            "duration": 8,
+            "slack": 12.030492473823017
+          },
+          "log_priority": -2.6141300960719698
+        }
+      ],
+      "winner_job": 3,
+      "winner_operation": 4,
+      "start": 64.46434944384399,
+      "end": 72.46434944384399,
+      "fixed_k_shadow_winner_job": 3,
+      "changed_winner": false
+    },
+    {
+      "time": 64.46434944384399,
+      "announcement": {
+        "machine_id": 5,
+        "k": 3.0,
+        "mean_processing": 10.0,
+        "urgent_fraction": 0.0
+      },
+      "proposals": [
+        {
+          "job_id": 1,
+          "op_index": 3,
+          "machine_id": 5,
+          "duration": 10,
+          "slack": 13.800246271933219
+        }
+      ],
+      "offers": [
+        {
+          "proposal": {
+            "job_id": 1,
+            "op_index": 3,
+            "machine_id": 5,
+            "duration": 10,
+            "slack": 13.800246271933219
+          },
+          "log_priority": -2.7625933020584865
+        }
+      ],
+      "winner_job": 1,
+      "winner_operation": 3,
+      "start": 64.46434944384399,
+      "end": 74.46434944384399,
+      "fixed_k_shadow_winner_job": 1,
+      "changed_winner": false
+    },
+    {
+      "time": 72.46434944384399,
+      "announcement": {
+        "machine_id": 4,
+        "k": 3.0,
+        "mean_processing": 7.0,
+        "urgent_fraction": 0.0
+      },
+      "proposals": [
+        {
+          "job_id": 2,
+          "op_index": 5,
+          "machine_id": 4,
+          "duration": 7,
+          "slack": 10.308195744299866
+        }
+      ],
+      "offers": [
+        {
+          "proposal": {
+            "job_id": 2,
+            "op_index": 5,
+            "machine_id": 4,
+            "duration": 7,
+            "slack": 10.308195744299866
+          },
+          "log_priority": -2.4367766130695925
+        }
+      ],
+      "winner_job": 2,
+      "winner_operation": 5,
+      "start": 72.46434944384399,
+      "end": 79.46434944384399,
+      "fixed_k_shadow_winner_job": 2,
+      "changed_winner": false
+    },
+    {
+      "time": 74.46434944384399,
+      "announcement": {
+        "machine_id": 0,
+        "k": 3.0,
+        "mean_processing": 10.0,
+        "urgent_fraction": 0.0
+      },
+      "proposals": [
+        {
+          "job_id": 1,
+          "op_index": 4,
+          "machine_id": 0,
+          "duration": 10,
+          "slack": 13.800246271933219
+        }
+      ],
+      "offers": [
+        {
+          "proposal": {
+            "job_id": 1,
+            "op_index": 4,
+            "machine_id": 0,
+            "duration": 10,
+            "slack": 13.800246271933219
+          },
+          "log_priority": -2.7625933020584865
+        }
+      ],
+      "winner_job": 1,
+      "winner_operation": 4,
+      "start": 74.46434944384399,
+      "end": 84.46434944384399,
+      "fixed_k_shadow_winner_job": 1,
+      "changed_winner": false
+    },
+    {
+      "time": 74.46434944384399,
+      "announcement": {
+        "machine_id": 5,
+        "k": 3.0,
+        "mean_processing": 9.0,
+        "urgent_fraction": 0.0
+      },
+      "proposals": [
+        {
+          "job_id": 3,
+          "op_index": 5,
+          "machine_id": 5,
+          "duration": 9,
+          "slack": 10.030492473823017
+        }
+      ],
+      "offers": [
+        {
+          "proposal": {
+            "job_id": 3,
+            "op_index": 5,
+            "machine_id": 5,
+            "duration": 9,
+            "slack": 10.030492473823017
+          },
+          "log_priority": -2.568724298588924
+        }
+      ],
+      "winner_job": 3,
+      "winner_operation": 5,
+      "start": 74.46434944384399,
+      "end": 83.46434944384399,
+      "fixed_k_shadow_winner_job": 3,
+      "changed_winner": false
+    },
+    {
+      "time": 84.46434944384399,
+      "announcement": {
+        "machine_id": 3,
+        "k": 3.0,
+        "mean_processing": 4.0,
+        "urgent_fraction": 0.0
+      },
+      "proposals": [
+        {
+          "job_id": 1,
+          "op_index": 5,
+          "machine_id": 3,
+          "duration": 4,
+          "slack": 13.800246271933219
+        }
+      ],
+      "offers": [
+        {
+          "proposal": {
+            "job_id": 1,
+            "op_index": 5,
+            "machine_id": 3,
+            "duration": 4,
+            "slack": 13.800246271933219
+          },
+          "log_priority": -2.5363148837809923
+        }
+      ],
+      "winner_job": 1,
+      "winner_operation": 5,
+      "start": 84.46434944384399,
+      "end": 88.46434944384399,
+      "fixed_k_shadow_winner_job": 1,
+      "changed_winner": false
+    }
+  ]
+}

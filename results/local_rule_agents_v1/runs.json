@@ -1,0 +1,9602 @@
+[
+  {
+    "instance": "ft06",
+    "seed": 410000,
+    "scenario_sha256": "5098613a12761ddb0d62b6722ab4db4f1b3f65a104618c2566871c5d219c7e43",
+    "method": "ATC_LOCAL",
+    "makespan": 88.46434944384399,
+    "total_tardiness": 0.0,
+    "normalized_tardiness": 0.0,
+    "valid": true,
+    "runtime_seconds": 0.005204099999900791
+  },
+  {
+    "instance": "ft06",
+    "seed": 410000,
+    "scenario_sha256": "5098613a12761ddb0d62b6722ab4db4f1b3f65a104618c2566871c5d219c7e43",
+    "method": "LOCAL_FIXED",
+    "policy": "fixed",
+    "valid": true,
+    "makespan": 88.46434944384399,
+    "total_tardiness": 0.0,
+    "normalized_tardiness": 0.0,
+    "completed_jobs": 6,
+    "auctions": 36,
+    "contested_auctions": 4,
+    "changed_winners_vs_fixed_on_same_queue": 0,
+    "logical_message_deliveries": 164,
+    "machine_k_counts": {
+      "0": {
+        "2.0": 6
+      },
+      "1": {
+        "2.0": 6
+      },
+      "2": {
+        "2.0": 6
+      },
+      "3": {
+        "2.0": 6
+      },
+      "4": {
+        "2.0": 6
+      },
+      "5": {
+        "2.0": 6
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 6,
+        "losses": 0
+      },
+      "1": {
+        "wins": 6,
+        "losses": 1
+      },
+      "2": {
+        "wins": 6,
+        "losses": 2
+      },
+      "3": {
+        "wins": 6,
+        "losses": 2
+      },
+      "4": {
+        "wins": 6,
+        "losses": 0
+      },
+      "5": {
+        "wins": 6,
+        "losses": 0
+      }
+    },
+    "schedule_sha256": "1f6173363d4f3b59fc6f879a8363120961c05fb7898d61a22d73701298da2c03",
+    "runtime_seconds": 0.004305299999941781
+  },
+  {
+    "instance": "ft06",
+    "seed": 410000,
+    "scenario_sha256": "5098613a12761ddb0d62b6722ab4db4f1b3f65a104618c2566871c5d219c7e43",
+    "method": "LOCAL_RULES",
+    "policy": "local",
+    "valid": true,
+    "makespan": 88.46434944384399,
+    "total_tardiness": 0.0,
+    "normalized_tardiness": 0.0,
+    "completed_jobs": 6,
+    "auctions": 36,
+    "contested_auctions": 4,
+    "changed_winners_vs_fixed_on_same_queue": 0,
+    "logical_message_deliveries": 164,
+    "machine_k_counts": {
+      "0": {
+        "3.0": 6
+      },
+      "1": {
+        "3.0": 6
+      },
+      "2": {
+        "3.0": 6
+      },
+      "3": {
+        "3.0": 6
+      },
+      "4": {
+        "3.0": 6
+      },
+      "5": {
+        "3.0": 6
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 6,
+        "losses": 0
+      },
+      "1": {
+        "wins": 6,
+        "losses": 1
+      },
+      "2": {
+        "wins": 6,
+        "losses": 2
+      },
+      "3": {
+        "wins": 6,
+        "losses": 2
+      },
+      "4": {
+        "wins": 6,
+        "losses": 0
+      },
+      "5": {
+        "wins": 6,
+        "losses": 0
+      }
+    },
+    "schedule_sha256": "1f6173363d4f3b59fc6f879a8363120961c05fb7898d61a22d73701298da2c03",
+    "runtime_seconds": 0.004716300000154661
+  },
+  {
+    "instance": "ft06",
+    "seed": 410001,
+    "scenario_sha256": "173b29f3427dfda0d831f48b82df70e453a421e745973ee02de76a9be9450732",
+    "method": "ATC_LOCAL",
+    "makespan": 89.16601137670857,
+    "total_tardiness": 0.0,
+    "normalized_tardiness": 0.0,
+    "valid": true,
+    "runtime_seconds": 0.003745200000139448
+  },
+  {
+    "instance": "ft06",
+    "seed": 410001,
+    "scenario_sha256": "173b29f3427dfda0d831f48b82df70e453a421e745973ee02de76a9be9450732",
+    "method": "LOCAL_FIXED",
+    "policy": "fixed",
+    "valid": true,
+    "makespan": 89.16601137670857,
+    "total_tardiness": 0.0,
+    "normalized_tardiness": 0.0,
+    "completed_jobs": 6,
+    "auctions": 36,
+    "contested_auctions": 3,
+    "changed_winners_vs_fixed_on_same_queue": 0,
+    "logical_message_deliveries": 156,
+    "machine_k_counts": {
+      "0": {
+        "2.0": 6
+      },
+      "1": {
+        "2.0": 6
+      },
+      "2": {
+        "2.0": 6
+      },
+      "3": {
+        "2.0": 6
+      },
+      "4": {
+        "2.0": 6
+      },
+      "5": {
+        "2.0": 6
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 6,
+        "losses": 0
+      },
+      "1": {
+        "wins": 6,
+        "losses": 2
+      },
+      "2": {
+        "wins": 6,
+        "losses": 0
+      },
+      "3": {
+        "wins": 6,
+        "losses": 0
+      },
+      "4": {
+        "wins": 6,
+        "losses": 0
+      },
+      "5": {
+        "wins": 6,
+        "losses": 1
+      }
+    },
+    "schedule_sha256": "44200f936237597e3d8a8a2cd3db9306538330ef95c6eb2b2007c25da1f6f72b",
+    "runtime_seconds": 0.003983399999924586
+  },
+  {
+    "instance": "ft06",
+    "seed": 410001,
+    "scenario_sha256": "173b29f3427dfda0d831f48b82df70e453a421e745973ee02de76a9be9450732",
+    "method": "LOCAL_RULES",
+    "policy": "local",
+    "valid": true,
+    "makespan": 89.16601137670857,
+    "total_tardiness": 0.0,
+    "normalized_tardiness": 0.0,
+    "completed_jobs": 6,
+    "auctions": 36,
+    "contested_auctions": 3,
+    "changed_winners_vs_fixed_on_same_queue": 0,
+    "logical_message_deliveries": 156,
+    "machine_k_counts": {
+      "0": {
+        "3.0": 6
+      },
+      "1": {
+        "3.0": 6
+      },
+      "2": {
+        "3.0": 6
+      },
+      "3": {
+        "3.0": 6
+      },
+      "4": {
+        "3.0": 6
+      },
+      "5": {
+        "3.0": 6
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 6,
+        "losses": 0
+      },
+      "1": {
+        "wins": 6,
+        "losses": 2
+      },
+      "2": {
+        "wins": 6,
+        "losses": 0
+      },
+      "3": {
+        "wins": 6,
+        "losses": 0
+      },
+      "4": {
+        "wins": 6,
+        "losses": 0
+      },
+      "5": {
+        "wins": 6,
+        "losses": 1
+      }
+    },
+    "schedule_sha256": "44200f936237597e3d8a8a2cd3db9306538330ef95c6eb2b2007c25da1f6f72b",
+    "runtime_seconds": 0.003955599999926562
+  },
+  {
+    "instance": "ft06",
+    "seed": 410002,
+    "scenario_sha256": "4e6f921db01851ad76ee824e96bb3b4d19e90dc2669ac82cbea4efae0afb6b37",
+    "method": "ATC_LOCAL",
+    "makespan": 86.53838329632775,
+    "total_tardiness": 6.98320782776895,
+    "normalized_tardiness": 0.03544775547090838,
+    "valid": true,
+    "runtime_seconds": 0.003922099999954298
+  },
+  {
+    "instance": "ft06",
+    "seed": 410002,
+    "scenario_sha256": "4e6f921db01851ad76ee824e96bb3b4d19e90dc2669ac82cbea4efae0afb6b37",
+    "method": "LOCAL_FIXED",
+    "policy": "fixed",
+    "valid": true,
+    "makespan": 86.53838329632775,
+    "total_tardiness": 6.98320782776895,
+    "normalized_tardiness": 0.03544775547090838,
+    "completed_jobs": 6,
+    "auctions": 36,
+    "contested_auctions": 5,
+    "changed_winners_vs_fixed_on_same_queue": 0,
+    "logical_message_deliveries": 164,
+    "machine_k_counts": {
+      "0": {
+        "2.0": 6
+      },
+      "1": {
+        "2.0": 6
+      },
+      "2": {
+        "2.0": 6
+      },
+      "3": {
+        "2.0": 6
+      },
+      "4": {
+        "2.0": 6
+      },
+      "5": {
+        "2.0": 6
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 6,
+        "losses": 1
+      },
+      "1": {
+        "wins": 6,
+        "losses": 0
+      },
+      "2": {
+        "wins": 6,
+        "losses": 1
+      },
+      "3": {
+        "wins": 6,
+        "losses": 0
+      },
+      "4": {
+        "wins": 6,
+        "losses": 0
+      },
+      "5": {
+        "wins": 6,
+        "losses": 3
+      }
+    },
+    "schedule_sha256": "cdc850651ee814e963426a93da7215cf945b6f5f7cf0d202f8cc05bcceb4ddb9",
+    "runtime_seconds": 0.0038755000000492146
+  },
+  {
+    "instance": "ft06",
+    "seed": 410002,
+    "scenario_sha256": "4e6f921db01851ad76ee824e96bb3b4d19e90dc2669ac82cbea4efae0afb6b37",
+    "method": "LOCAL_RULES",
+    "policy": "local",
+    "valid": true,
+    "makespan": 88.53838329632775,
+    "total_tardiness": 5.942546161095322,
+    "normalized_tardiness": 0.030165208939570164,
+    "completed_jobs": 6,
+    "auctions": 36,
+    "contested_auctions": 3,
+    "changed_winners_vs_fixed_on_same_queue": 1,
+    "logical_message_deliveries": 156,
+    "machine_k_counts": {
+      "0": {
+        "3.0": 4,
+        "0.5": 2
+      },
+      "1": {
+        "3.0": 6
+      },
+      "2": {
+        "3.0": 6
+      },
+      "3": {
+        "3.0": 4,
+        "0.5": 2
+      },
+      "4": {
+        "3.0": 4,
+        "0.5": 2
+      },
+      "5": {
+        "3.0": 3,
+        "0.5": 3
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 6,
+        "losses": 0
+      },
+      "1": {
+        "wins": 6,
+        "losses": 1
+      },
+      "2": {
+        "wins": 6,
+        "losses": 0
+      },
+      "3": {
+        "wins": 6,
+        "losses": 1
+      },
+      "4": {
+        "wins": 6,
+        "losses": 0
+      },
+      "5": {
+        "wins": 6,
+        "losses": 1
+      }
+    },
+    "schedule_sha256": "f4f245629341f0b1e19f0d25b330cbe9f1d3f65506ccc06b07171b579060f75a",
+    "runtime_seconds": 0.0039768999999978405
+  },
+  {
+    "instance": "ft06",
+    "seed": 410003,
+    "scenario_sha256": "de1eddcd1a8befd07598ddd1208e508d6a48870286da321abcd31d0f8f79afd2",
+    "method": "ATC_LOCAL",
+    "makespan": 81.1487294308412,
+    "total_tardiness": 0.0,
+    "normalized_tardiness": 0.0,
+    "valid": true,
+    "runtime_seconds": 0.0036981000000650965
+  },
+  {
+    "instance": "ft06",
+    "seed": 410003,
+    "scenario_sha256": "de1eddcd1a8befd07598ddd1208e508d6a48870286da321abcd31d0f8f79afd2",
+    "method": "LOCAL_FIXED",
+    "policy": "fixed",
+    "valid": true,
+    "makespan": 81.1487294308412,
+    "total_tardiness": 0.0,
+    "normalized_tardiness": 0.0,
+    "completed_jobs": 6,
+    "auctions": 36,
+    "contested_auctions": 1,
+    "changed_winners_vs_fixed_on_same_queue": 0,
+    "logical_message_deliveries": 148,
+    "machine_k_counts": {
+      "0": {
+        "2.0": 6
+      },
+      "1": {
+        "2.0": 6
+      },
+      "2": {
+        "2.0": 6
+      },
+      "3": {
+        "2.0": 6
+      },
+      "4": {
+        "2.0": 6
+      },
+      "5": {
+        "2.0": 6
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 6,
+        "losses": 0
+      },
+      "1": {
+        "wins": 6,
+        "losses": 1
+      },
+      "2": {
+        "wins": 6,
+        "losses": 0
+      },
+      "3": {
+        "wins": 6,
+        "losses": 0
+      },
+      "4": {
+        "wins": 6,
+        "losses": 0
+      },
+      "5": {
+        "wins": 6,
+        "losses": 0
+      }
+    },
+    "schedule_sha256": "4d6e775af93cd46a6354f763f4fe9371a76e7ac32e0b76d90e63a7cc491af626",
+    "runtime_seconds": 0.0042739000000437954
+  },
+  {
+    "instance": "ft06",
+    "seed": 410003,
+    "scenario_sha256": "de1eddcd1a8befd07598ddd1208e508d6a48870286da321abcd31d0f8f79afd2",
+    "method": "LOCAL_RULES",
+    "policy": "local",
+    "valid": true,
+    "makespan": 81.1487294308412,
+    "total_tardiness": 0.0,
+    "normalized_tardiness": 0.0,
+    "completed_jobs": 6,
+    "auctions": 36,
+    "contested_auctions": 1,
+    "changed_winners_vs_fixed_on_same_queue": 0,
+    "logical_message_deliveries": 148,
+    "machine_k_counts": {
+      "0": {
+        "3.0": 6
+      },
+      "1": {
+        "3.0": 6
+      },
+      "2": {
+        "3.0": 6
+      },
+      "3": {
+        "3.0": 6
+      },
+      "4": {
+        "3.0": 6
+      },
+      "5": {
+        "3.0": 6
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 6,
+        "losses": 0
+      },
+      "1": {
+        "wins": 6,
+        "losses": 1
+      },
+      "2": {
+        "wins": 6,
+        "losses": 0
+      },
+      "3": {
+        "wins": 6,
+        "losses": 0
+      },
+      "4": {
+        "wins": 6,
+        "losses": 0
+      },
+      "5": {
+        "wins": 6,
+        "losses": 0
+      }
+    },
+    "schedule_sha256": "4d6e775af93cd46a6354f763f4fe9371a76e7ac32e0b76d90e63a7cc491af626",
+    "runtime_seconds": 0.0042501000000356726
+  },
+  {
+    "instance": "ft06",
+    "seed": 410004,
+    "scenario_sha256": "66e40f7440b645d9d94d6b454a8a8b2fb1a4ef3126accba8afa69a27bc0eadfa",
+    "method": "ATC_LOCAL",
+    "makespan": 81.63272989515617,
+    "total_tardiness": 0.0,
+    "normalized_tardiness": 0.0,
+    "valid": true,
+    "runtime_seconds": 0.003494400000136011
+  },
+  {
+    "instance": "ft06",
+    "seed": 410004,
+    "scenario_sha256": "66e40f7440b645d9d94d6b454a8a8b2fb1a4ef3126accba8afa69a27bc0eadfa",
+    "method": "LOCAL_FIXED",
+    "policy": "fixed",
+    "valid": true,
+    "makespan": 81.63272989515617,
+    "total_tardiness": 0.0,
+    "normalized_tardiness": 0.0,
+    "completed_jobs": 6,
+    "auctions": 36,
+    "contested_auctions": 6,
+    "changed_winners_vs_fixed_on_same_queue": 0,
+    "logical_message_deliveries": 168,
+    "machine_k_counts": {
+      "0": {
+        "2.0": 6
+      },
+      "1": {
+        "2.0": 6
+      },
+      "2": {
+        "2.0": 6
+      },
+      "3": {
+        "2.0": 6
+      },
+      "4": {
+        "2.0": 6
+      },
+      "5": {
+        "2.0": 6
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 6,
+        "losses": 0
+      },
+      "1": {
+        "wins": 6,
+        "losses": 3
+      },
+      "2": {
+        "wins": 6,
+        "losses": 0
+      },
+      "3": {
+        "wins": 6,
+        "losses": 3
+      },
+      "4": {
+        "wins": 6,
+        "losses": 0
+      },
+      "5": {
+        "wins": 6,
+        "losses": 0
+      }
+    },
+    "schedule_sha256": "8ba3144b75ea21b15e2b559e02414e96ee381cf65da81337a7898fc3436cbb3e",
+    "runtime_seconds": 0.003942499999993743
+  },
+  {
+    "instance": "ft06",
+    "seed": 410004,
+    "scenario_sha256": "66e40f7440b645d9d94d6b454a8a8b2fb1a4ef3126accba8afa69a27bc0eadfa",
+    "method": "LOCAL_RULES",
+    "policy": "local",
+    "valid": true,
+    "makespan": 81.63272989515617,
+    "total_tardiness": 0.0,
+    "normalized_tardiness": 0.0,
+    "completed_jobs": 6,
+    "auctions": 36,
+    "contested_auctions": 6,
+    "changed_winners_vs_fixed_on_same_queue": 0,
+    "logical_message_deliveries": 168,
+    "machine_k_counts": {
+      "0": {
+        "3.0": 5,
+        "0.5": 1
+      },
+      "1": {
+        "3.0": 6
+      },
+      "2": {
+        "3.0": 6
+      },
+      "3": {
+        "3.0": 6
+      },
+      "4": {
+        "3.0": 5,
+        "0.5": 1
+      },
+      "5": {
+        "3.0": 6
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 6,
+        "losses": 0
+      },
+      "1": {
+        "wins": 6,
+        "losses": 3
+      },
+      "2": {
+        "wins": 6,
+        "losses": 0
+      },
+      "3": {
+        "wins": 6,
+        "losses": 3
+      },
+      "4": {
+        "wins": 6,
+        "losses": 0
+      },
+      "5": {
+        "wins": 6,
+        "losses": 0
+      }
+    },
+    "schedule_sha256": "8ba3144b75ea21b15e2b559e02414e96ee381cf65da81337a7898fc3436cbb3e",
+    "runtime_seconds": 0.004120900000089023
+  },
+  {
+    "instance": "ft06",
+    "seed": 410005,
+    "scenario_sha256": "2715813a0b4d377694b5cd666e2d6e4e56cb2ffa8d41cc0b3ba40b73dfc0db95",
+    "method": "ATC_LOCAL",
+    "makespan": 78.8462200182316,
+    "total_tardiness": 3.2629682221425185,
+    "normalized_tardiness": 0.01656329046772852,
+    "valid": true,
+    "runtime_seconds": 0.0035417999999936
+  },
+  {
+    "instance": "ft06",
+    "seed": 410005,
+    "scenario_sha256": "2715813a0b4d377694b5cd666e2d6e4e56cb2ffa8d41cc0b3ba40b73dfc0db95",
+    "method": "LOCAL_FIXED",
+    "policy": "fixed",
+    "valid": true,
+    "makespan": 78.8462200182316,
+    "total_tardiness": 3.2629682221425185,
+    "normalized_tardiness": 0.01656329046772852,
+    "completed_jobs": 6,
+    "auctions": 36,
+    "contested_auctions": 5,
+    "changed_winners_vs_fixed_on_same_queue": 0,
+    "logical_message_deliveries": 168,
+    "machine_k_counts": {
+      "0": {
+        "2.0": 6
+      },
+      "1": {
+        "2.0": 6
+      },
+      "2": {
+        "2.0": 6
+      },
+      "3": {
+        "2.0": 6
+      },
+      "4": {
+        "2.0": 6
+      },
+      "5": {
+        "2.0": 6
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 6,
+        "losses": 3
+      },
+      "1": {
+        "wins": 6,
+        "losses": 2
+      },
+      "2": {
+        "wins": 6,
+        "losses": 0
+      },
+      "3": {
+        "wins": 6,
+        "losses": 1
+      },
+      "4": {
+        "wins": 6,
+        "losses": 0
+      },
+      "5": {
+        "wins": 6,
+        "losses": 0
+      }
+    },
+    "schedule_sha256": "568a86c14b297dd322750d05e70d7eee5b8c4246a0160dff941b2cefc1d9aba5",
+    "runtime_seconds": 0.00422500000013315
+  },
+  {
+    "instance": "ft06",
+    "seed": 410005,
+    "scenario_sha256": "2715813a0b4d377694b5cd666e2d6e4e56cb2ffa8d41cc0b3ba40b73dfc0db95",
+    "method": "LOCAL_RULES",
+    "policy": "local",
+    "valid": true,
+    "makespan": 78.8462200182316,
+    "total_tardiness": 3.2629682221425185,
+    "normalized_tardiness": 0.01656329046772852,
+    "completed_jobs": 6,
+    "auctions": 36,
+    "contested_auctions": 5,
+    "changed_winners_vs_fixed_on_same_queue": 0,
+    "logical_message_deliveries": 168,
+    "machine_k_counts": {
+      "0": {
+        "3.0": 5,
+        "0.5": 1
+      },
+      "1": {
+        "3.0": 6
+      },
+      "2": {
+        "3.0": 6
+      },
+      "3": {
+        "3.0": 6
+      },
+      "4": {
+        "3.0": 5,
+        "0.5": 1
+      },
+      "5": {
+        "3.0": 5,
+        "0.5": 1
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 6,
+        "losses": 3
+      },
+      "1": {
+        "wins": 6,
+        "losses": 2
+      },
+      "2": {
+        "wins": 6,
+        "losses": 0
+      },
+      "3": {
+        "wins": 6,
+        "losses": 1
+      },
+      "4": {
+        "wins": 6,
+        "losses": 0
+      },
+      "5": {
+        "wins": 6,
+        "losses": 0
+      }
+    },
+    "schedule_sha256": "568a86c14b297dd322750d05e70d7eee5b8c4246a0160dff941b2cefc1d9aba5",
+    "runtime_seconds": 0.004395700000031866
+  },
+  {
+    "instance": "ft06",
+    "seed": 410006,
+    "scenario_sha256": "9c6ea6a15d83df7e5ff32cae710691d1cd9e1619ea60eaf01e81cf27737787bf",
+    "method": "ATC_LOCAL",
+    "makespan": 77.03635645917566,
+    "total_tardiness": 0.0,
+    "normalized_tardiness": 0.0,
+    "valid": true,
+    "runtime_seconds": 0.005017300000190517
+  },
+  {
+    "instance": "ft06",
+    "seed": 410006,
+    "scenario_sha256": "9c6ea6a15d83df7e5ff32cae710691d1cd9e1619ea60eaf01e81cf27737787bf",
+    "method": "LOCAL_FIXED",
+    "policy": "fixed",
+    "valid": true,
+    "makespan": 77.03635645917566,
+    "total_tardiness": 0.0,
+    "normalized_tardiness": 0.0,
+    "completed_jobs": 6,
+    "auctions": 36,
+    "contested_auctions": 6,
+    "changed_winners_vs_fixed_on_same_queue": 0,
+    "logical_message_deliveries": 168,
+    "machine_k_counts": {
+      "0": {
+        "2.0": 6
+      },
+      "1": {
+        "2.0": 6
+      },
+      "2": {
+        "2.0": 6
+      },
+      "3": {
+        "2.0": 6
+      },
+      "4": {
+        "2.0": 6
+      },
+      "5": {
+        "2.0": 6
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 6,
+        "losses": 0
+      },
+      "1": {
+        "wins": 6,
+        "losses": 2
+      },
+      "2": {
+        "wins": 6,
+        "losses": 1
+      },
+      "3": {
+        "wins": 6,
+        "losses": 1
+      },
+      "4": {
+        "wins": 6,
+        "losses": 0
+      },
+      "5": {
+        "wins": 6,
+        "losses": 2
+      }
+    },
+    "schedule_sha256": "c068b7513ce279d17eb7719b18fa74d59321b8f9b6f5d59b16055417b00e86e3",
+    "runtime_seconds": 0.004185300000017378
+  },
+  {
+    "instance": "ft06",
+    "seed": 410006,
+    "scenario_sha256": "9c6ea6a15d83df7e5ff32cae710691d1cd9e1619ea60eaf01e81cf27737787bf",
+    "method": "LOCAL_RULES",
+    "policy": "local",
+    "valid": true,
+    "makespan": 77.03635645917566,
+    "total_tardiness": 0.0,
+    "normalized_tardiness": 0.0,
+    "completed_jobs": 6,
+    "auctions": 36,
+    "contested_auctions": 6,
+    "changed_winners_vs_fixed_on_same_queue": 0,
+    "logical_message_deliveries": 168,
+    "machine_k_counts": {
+      "0": {
+        "3.0": 5,
+        "0.5": 1
+      },
+      "1": {
+        "3.0": 6
+      },
+      "2": {
+        "3.0": 6
+      },
+      "3": {
+        "3.0": 6
+      },
+      "4": {
+        "3.0": 5,
+        "0.5": 1
+      },
+      "5": {
+        "3.0": 5,
+        "0.5": 1
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 6,
+        "losses": 0
+      },
+      "1": {
+        "wins": 6,
+        "losses": 2
+      },
+      "2": {
+        "wins": 6,
+        "losses": 1
+      },
+      "3": {
+        "wins": 6,
+        "losses": 1
+      },
+      "4": {
+        "wins": 6,
+        "losses": 0
+      },
+      "5": {
+        "wins": 6,
+        "losses": 2
+      }
+    },
+    "schedule_sha256": "c068b7513ce279d17eb7719b18fa74d59321b8f9b6f5d59b16055417b00e86e3",
+    "runtime_seconds": 0.004032599999845843
+  },
+  {
+    "instance": "ft06",
+    "seed": 410007,
+    "scenario_sha256": "3f67ca7a45a3204f9c045381b413f78e19b4df40bc79fe741d06751347ee95aa",
+    "method": "ATC_LOCAL",
+    "makespan": 76.14343920955505,
+    "total_tardiness": 0.0,
+    "normalized_tardiness": 0.0,
+    "valid": true,
+    "runtime_seconds": 0.006539400000065143
+  },
+  {
+    "instance": "ft06",
+    "seed": 410007,
+    "scenario_sha256": "3f67ca7a45a3204f9c045381b413f78e19b4df40bc79fe741d06751347ee95aa",
+    "method": "LOCAL_FIXED",
+    "policy": "fixed",
+    "valid": true,
+    "makespan": 76.14343920955505,
+    "total_tardiness": 0.0,
+    "normalized_tardiness": 0.0,
+    "completed_jobs": 6,
+    "auctions": 36,
+    "contested_auctions": 3,
+    "changed_winners_vs_fixed_on_same_queue": 0,
+    "logical_message_deliveries": 156,
+    "machine_k_counts": {
+      "0": {
+        "2.0": 6
+      },
+      "1": {
+        "2.0": 6
+      },
+      "2": {
+        "2.0": 6
+      },
+      "3": {
+        "2.0": 6
+      },
+      "4": {
+        "2.0": 6
+      },
+      "5": {
+        "2.0": 6
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 6,
+        "losses": 1
+      },
+      "1": {
+        "wins": 6,
+        "losses": 0
+      },
+      "2": {
+        "wins": 6,
+        "losses": 0
+      },
+      "3": {
+        "wins": 6,
+        "losses": 0
+      },
+      "4": {
+        "wins": 6,
+        "losses": 1
+      },
+      "5": {
+        "wins": 6,
+        "losses": 1
+      }
+    },
+    "schedule_sha256": "5a31db22c638a9fb96c6eaa85dc211570ff161ec1e744d8e4747b8c9b6a2b9cb",
+    "runtime_seconds": 0.006263399999852481
+  },
+  {
+    "instance": "ft06",
+    "seed": 410007,
+    "scenario_sha256": "3f67ca7a45a3204f9c045381b413f78e19b4df40bc79fe741d06751347ee95aa",
+    "method": "LOCAL_RULES",
+    "policy": "local",
+    "valid": true,
+    "makespan": 76.14343920955505,
+    "total_tardiness": 0.0,
+    "normalized_tardiness": 0.0,
+    "completed_jobs": 6,
+    "auctions": 36,
+    "contested_auctions": 3,
+    "changed_winners_vs_fixed_on_same_queue": 0,
+    "logical_message_deliveries": 156,
+    "machine_k_counts": {
+      "0": {
+        "3.0": 6
+      },
+      "1": {
+        "3.0": 6
+      },
+      "2": {
+        "3.0": 6
+      },
+      "3": {
+        "3.0": 6
+      },
+      "4": {
+        "3.0": 6
+      },
+      "5": {
+        "3.0": 6
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 6,
+        "losses": 1
+      },
+      "1": {
+        "wins": 6,
+        "losses": 0
+      },
+      "2": {
+        "wins": 6,
+        "losses": 0
+      },
+      "3": {
+        "wins": 6,
+        "losses": 0
+      },
+      "4": {
+        "wins": 6,
+        "losses": 1
+      },
+      "5": {
+        "wins": 6,
+        "losses": 1
+      }
+    },
+    "schedule_sha256": "5a31db22c638a9fb96c6eaa85dc211570ff161ec1e744d8e4747b8c9b6a2b9cb",
+    "runtime_seconds": 0.0042515000000094005
+  },
+  {
+    "instance": "ft06",
+    "seed": 410008,
+    "scenario_sha256": "21e035d21024575ef360bbd55bdd179e0fea04d3f18825ffe58e0cd9e593e60e",
+    "method": "ATC_LOCAL",
+    "makespan": 99.25127459972724,
+    "total_tardiness": 0.0,
+    "normalized_tardiness": 0.0,
+    "valid": true,
+    "runtime_seconds": 0.003768399999898975
+  },
+  {
+    "instance": "ft06",
+    "seed": 410008,
+    "scenario_sha256": "21e035d21024575ef360bbd55bdd179e0fea04d3f18825ffe58e0cd9e593e60e",
+    "method": "LOCAL_FIXED",
+    "policy": "fixed",
+    "valid": true,
+    "makespan": 99.25127459972724,
+    "total_tardiness": 0.0,
+    "normalized_tardiness": 0.0,
+    "completed_jobs": 6,
+    "auctions": 36,
+    "contested_auctions": 8,
+    "changed_winners_vs_fixed_on_same_queue": 0,
+    "logical_message_deliveries": 180,
+    "machine_k_counts": {
+      "0": {
+        "2.0": 6
+      },
+      "1": {
+        "2.0": 6
+      },
+      "2": {
+        "2.0": 6
+      },
+      "3": {
+        "2.0": 6
+      },
+      "4": {
+        "2.0": 6
+      },
+      "5": {
+        "2.0": 6
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 6,
+        "losses": 0
+      },
+      "1": {
+        "wins": 6,
+        "losses": 4
+      },
+      "2": {
+        "wins": 6,
+        "losses": 2
+      },
+      "3": {
+        "wins": 6,
+        "losses": 1
+      },
+      "4": {
+        "wins": 6,
+        "losses": 0
+      },
+      "5": {
+        "wins": 6,
+        "losses": 2
+      }
+    },
+    "schedule_sha256": "2383bae7b798353af186373a0fe048ceca0b916f139d25da8838279ca8edd91f",
+    "runtime_seconds": 0.0040793000000576285
+  },
+  {
+    "instance": "ft06",
+    "seed": 410008,
+    "scenario_sha256": "21e035d21024575ef360bbd55bdd179e0fea04d3f18825ffe58e0cd9e593e60e",
+    "method": "LOCAL_RULES",
+    "policy": "local",
+    "valid": true,
+    "makespan": 99.25127459972724,
+    "total_tardiness": 0.0,
+    "normalized_tardiness": 0.0,
+    "completed_jobs": 6,
+    "auctions": 36,
+    "contested_auctions": 8,
+    "changed_winners_vs_fixed_on_same_queue": 0,
+    "logical_message_deliveries": 180,
+    "machine_k_counts": {
+      "0": {
+        "3.0": 6
+      },
+      "1": {
+        "3.0": 6
+      },
+      "2": {
+        "3.0": 6
+      },
+      "3": {
+        "3.0": 6
+      },
+      "4": {
+        "3.0": 6
+      },
+      "5": {
+        "3.0": 6
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 6,
+        "losses": 0
+      },
+      "1": {
+        "wins": 6,
+        "losses": 4
+      },
+      "2": {
+        "wins": 6,
+        "losses": 2
+      },
+      "3": {
+        "wins": 6,
+        "losses": 1
+      },
+      "4": {
+        "wins": 6,
+        "losses": 0
+      },
+      "5": {
+        "wins": 6,
+        "losses": 2
+      }
+    },
+    "schedule_sha256": "2383bae7b798353af186373a0fe048ceca0b916f139d25da8838279ca8edd91f",
+    "runtime_seconds": 0.004009400000086316
+  },
+  {
+    "instance": "ft06",
+    "seed": 410009,
+    "scenario_sha256": "0826deb71ca72aaa539e070a6ac551be541e67af79961c6cf878eee1954b1676",
+    "method": "ATC_LOCAL",
+    "makespan": 69.31975119250971,
+    "total_tardiness": 0.0,
+    "normalized_tardiness": 0.0,
+    "valid": true,
+    "runtime_seconds": 0.004651699999840275
+  },
+  {
+    "instance": "ft06",
+    "seed": 410009,
+    "scenario_sha256": "0826deb71ca72aaa539e070a6ac551be541e67af79961c6cf878eee1954b1676",
+    "method": "LOCAL_FIXED",
+    "policy": "fixed",
+    "valid": true,
+    "makespan": 69.31975119250971,
+    "total_tardiness": 0.0,
+    "normalized_tardiness": 0.0,
+    "completed_jobs": 6,
+    "auctions": 36,
+    "contested_auctions": 5,
+    "changed_winners_vs_fixed_on_same_queue": 0,
+    "logical_message_deliveries": 164,
+    "machine_k_counts": {
+      "0": {
+        "2.0": 6
+      },
+      "1": {
+        "2.0": 6
+      },
+      "2": {
+        "2.0": 6
+      },
+      "3": {
+        "2.0": 6
+      },
+      "4": {
+        "2.0": 6
+      },
+      "5": {
+        "2.0": 6
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 6,
+        "losses": 1
+      },
+      "1": {
+        "wins": 6,
+        "losses": 1
+      },
+      "2": {
+        "wins": 6,
+        "losses": 0
+      },
+      "3": {
+        "wins": 6,
+        "losses": 1
+      },
+      "4": {
+        "wins": 6,
+        "losses": 0
+      },
+      "5": {
+        "wins": 6,
+        "losses": 2
+      }
+    },
+    "schedule_sha256": "eab7da64571c2c611b3a3699710ed1e21ba716e63517c97db72f7b73f1461923",
+    "runtime_seconds": 0.004055099999959566
+  },
+  {
+    "instance": "ft06",
+    "seed": 410009,
+    "scenario_sha256": "0826deb71ca72aaa539e070a6ac551be541e67af79961c6cf878eee1954b1676",
+    "method": "LOCAL_RULES",
+    "policy": "local",
+    "valid": true,
+    "makespan": 69.31975119250971,
+    "total_tardiness": 0.0,
+    "normalized_tardiness": 0.0,
+    "completed_jobs": 6,
+    "auctions": 36,
+    "contested_auctions": 5,
+    "changed_winners_vs_fixed_on_same_queue": 0,
+    "logical_message_deliveries": 164,
+    "machine_k_counts": {
+      "0": {
+        "3.0": 5,
+        "0.5": 1
+      },
+      "1": {
+        "3.0": 6
+      },
+      "2": {
+        "3.0": 6
+      },
+      "3": {
+        "3.0": 6
+      },
+      "4": {
+        "3.0": 5,
+        "0.5": 1
+      },
+      "5": {
+        "3.0": 6
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 6,
+        "losses": 1
+      },
+      "1": {
+        "wins": 6,
+        "losses": 1
+      },
+      "2": {
+        "wins": 6,
+        "losses": 0
+      },
+      "3": {
+        "wins": 6,
+        "losses": 1
+      },
+      "4": {
+        "wins": 6,
+        "losses": 0
+      },
+      "5": {
+        "wins": 6,
+        "losses": 2
+      }
+    },
+    "schedule_sha256": "eab7da64571c2c611b3a3699710ed1e21ba716e63517c97db72f7b73f1461923",
+    "runtime_seconds": 0.004168100000015329
+  },
+  {
+    "instance": "ft10",
+    "seed": 410000,
+    "scenario_sha256": "ca554e4c208f3ed324dae596c04468d6c478059c7c80613a65cdbddb00d73216",
+    "method": "ATC_LOCAL",
+    "makespan": 1335.6435437017522,
+    "total_tardiness": 272.98712154282396,
+    "normalized_tardiness": 0.05343259376449872,
+    "valid": true,
+    "runtime_seconds": 0.014617600000065067
+  },
+  {
+    "instance": "ft10",
+    "seed": 410000,
+    "scenario_sha256": "ca554e4c208f3ed324dae596c04468d6c478059c7c80613a65cdbddb00d73216",
+    "method": "LOCAL_FIXED",
+    "policy": "fixed",
+    "valid": true,
+    "makespan": 1335.6435437017522,
+    "total_tardiness": 272.98712154282396,
+    "normalized_tardiness": 0.05343259376449872,
+    "completed_jobs": 10,
+    "auctions": 100,
+    "contested_auctions": 14,
+    "changed_winners_vs_fixed_on_same_queue": 0,
+    "logical_message_deliveries": 472,
+    "machine_k_counts": {
+      "0": {
+        "2.0": 10
+      },
+      "1": {
+        "2.0": 10
+      },
+      "2": {
+        "2.0": 10
+      },
+      "3": {
+        "2.0": 10
+      },
+      "4": {
+        "2.0": 10
+      },
+      "5": {
+        "2.0": 10
+      },
+      "6": {
+        "2.0": 10
+      },
+      "7": {
+        "2.0": 10
+      },
+      "8": {
+        "2.0": 10
+      },
+      "9": {
+        "2.0": 10
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 10,
+        "losses": 3
+      },
+      "1": {
+        "wins": 10,
+        "losses": 0
+      },
+      "2": {
+        "wins": 10,
+        "losses": 1
+      },
+      "3": {
+        "wins": 10,
+        "losses": 1
+      },
+      "4": {
+        "wins": 10,
+        "losses": 0
+      },
+      "5": {
+        "wins": 10,
+        "losses": 5
+      },
+      "6": {
+        "wins": 10,
+        "losses": 0
+      },
+      "7": {
+        "wins": 10,
+        "losses": 0
+      },
+      "8": {
+        "wins": 10,
+        "losses": 2
+      },
+      "9": {
+        "wins": 10,
+        "losses": 6
+      }
+    },
+    "schedule_sha256": "589be8c439272cd824fbf12e89ec2575d7ed47f77ca6d1ab9aab9b85e50acd8a",
+    "runtime_seconds": 0.016270900000108668
+  },
+  {
+    "instance": "ft10",
+    "seed": 410000,
+    "scenario_sha256": "ca554e4c208f3ed324dae596c04468d6c478059c7c80613a65cdbddb00d73216",
+    "method": "LOCAL_RULES",
+    "policy": "local",
+    "valid": true,
+    "makespan": 1334.6435437017522,
+    "total_tardiness": 271.98712154282396,
+    "normalized_tardiness": 0.05323686074433822,
+    "completed_jobs": 10,
+    "auctions": 100,
+    "contested_auctions": 15,
+    "changed_winners_vs_fixed_on_same_queue": 1,
+    "logical_message_deliveries": 484,
+    "machine_k_counts": {
+      "0": {
+        "3.0": 9,
+        "0.5": 1
+      },
+      "1": {
+        "3.0": 9,
+        "0.5": 1
+      },
+      "2": {
+        "3.0": 10
+      },
+      "3": {
+        "3.0": 9,
+        "0.5": 1
+      },
+      "4": {
+        "3.0": 8,
+        "0.5": 2
+      },
+      "5": {
+        "3.0": 9,
+        "0.5": 1
+      },
+      "6": {
+        "3.0": 7,
+        "0.5": 3
+      },
+      "7": {
+        "3.0": 7,
+        "0.5": 3
+      },
+      "8": {
+        "3.0": 7,
+        "0.5": 3
+      },
+      "9": {
+        "3.0": 9,
+        "0.5": 1
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 10,
+        "losses": 4
+      },
+      "1": {
+        "wins": 10,
+        "losses": 0
+      },
+      "2": {
+        "wins": 10,
+        "losses": 1
+      },
+      "3": {
+        "wins": 10,
+        "losses": 2
+      },
+      "4": {
+        "wins": 10,
+        "losses": 1
+      },
+      "5": {
+        "wins": 10,
+        "losses": 5
+      },
+      "6": {
+        "wins": 10,
+        "losses": 0
+      },
+      "7": {
+        "wins": 10,
+        "losses": 1
+      },
+      "8": {
+        "wins": 10,
+        "losses": 4
+      },
+      "9": {
+        "wins": 10,
+        "losses": 3
+      }
+    },
+    "schedule_sha256": "88d117c549a4ad4ed0aee19f2a8dc855c135d077bd8a96d0126159f4ae8d08a0",
+    "runtime_seconds": 0.014630099999976665
+  },
+  {
+    "instance": "ft10",
+    "seed": 410001,
+    "scenario_sha256": "d0eecfc0b3320dff8a51e0dc8aac7a490f8cc8db8e5526e2be63470009c3b10d",
+    "method": "ATC_LOCAL",
+    "makespan": 1641.3168523785803,
+    "total_tardiness": 0.0,
+    "normalized_tardiness": 0.0,
+    "valid": true,
+    "runtime_seconds": 0.014313500000071144
+  },
+  {
+    "instance": "ft10",
+    "seed": 410001,
+    "scenario_sha256": "d0eecfc0b3320dff8a51e0dc8aac7a490f8cc8db8e5526e2be63470009c3b10d",
+    "method": "LOCAL_FIXED",
+    "policy": "fixed",
+    "valid": true,
+    "makespan": 1641.3168523785803,
+    "total_tardiness": 0.0,
+    "normalized_tardiness": 0.0,
+    "completed_jobs": 10,
+    "auctions": 100,
+    "contested_auctions": 13,
+    "changed_winners_vs_fixed_on_same_queue": 0,
+    "logical_message_deliveries": 488,
+    "machine_k_counts": {
+      "0": {
+        "2.0": 10
+      },
+      "1": {
+        "2.0": 10
+      },
+      "2": {
+        "2.0": 10
+      },
+      "3": {
+        "2.0": 10
+      },
+      "4": {
+        "2.0": 10
+      },
+      "5": {
+        "2.0": 10
+      },
+      "6": {
+        "2.0": 10
+      },
+      "7": {
+        "2.0": 10
+      },
+      "8": {
+        "2.0": 10
+      },
+      "9": {
+        "2.0": 10
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 10,
+        "losses": 0
+      },
+      "1": {
+        "wins": 10,
+        "losses": 2
+      },
+      "2": {
+        "wins": 10,
+        "losses": 5
+      },
+      "3": {
+        "wins": 10,
+        "losses": 6
+      },
+      "4": {
+        "wins": 10,
+        "losses": 0
+      },
+      "5": {
+        "wins": 10,
+        "losses": 1
+      },
+      "6": {
+        "wins": 10,
+        "losses": 4
+      },
+      "7": {
+        "wins": 10,
+        "losses": 0
+      },
+      "8": {
+        "wins": 10,
+        "losses": 4
+      },
+      "9": {
+        "wins": 10,
+        "losses": 0
+      }
+    },
+    "schedule_sha256": "9d8c5ed5bc12993d1fec51635460128d2eb93764e9378193cb466bef13308f71",
+    "runtime_seconds": 0.015541700000085257
+  },
+  {
+    "instance": "ft10",
+    "seed": 410001,
+    "scenario_sha256": "d0eecfc0b3320dff8a51e0dc8aac7a490f8cc8db8e5526e2be63470009c3b10d",
+    "method": "LOCAL_RULES",
+    "policy": "local",
+    "valid": true,
+    "makespan": 1641.3168523785803,
+    "total_tardiness": 0.0,
+    "normalized_tardiness": 0.0,
+    "completed_jobs": 10,
+    "auctions": 100,
+    "contested_auctions": 13,
+    "changed_winners_vs_fixed_on_same_queue": 0,
+    "logical_message_deliveries": 488,
+    "machine_k_counts": {
+      "0": {
+        "3.0": 10
+      },
+      "1": {
+        "3.0": 10
+      },
+      "2": {
+        "3.0": 10
+      },
+      "3": {
+        "3.0": 10
+      },
+      "4": {
+        "3.0": 10
+      },
+      "5": {
+        "3.0": 10
+      },
+      "6": {
+        "3.0": 10
+      },
+      "7": {
+        "3.0": 10
+      },
+      "8": {
+        "3.0": 10
+      },
+      "9": {
+        "3.0": 10
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 10,
+        "losses": 0
+      },
+      "1": {
+        "wins": 10,
+        "losses": 2
+      },
+      "2": {
+        "wins": 10,
+        "losses": 5
+      },
+      "3": {
+        "wins": 10,
+        "losses": 6
+      },
+      "4": {
+        "wins": 10,
+        "losses": 0
+      },
+      "5": {
+        "wins": 10,
+        "losses": 1
+      },
+      "6": {
+        "wins": 10,
+        "losses": 4
+      },
+      "7": {
+        "wins": 10,
+        "losses": 0
+      },
+      "8": {
+        "wins": 10,
+        "losses": 4
+      },
+      "9": {
+        "wins": 10,
+        "losses": 0
+      }
+    },
+    "schedule_sha256": "9d8c5ed5bc12993d1fec51635460128d2eb93764e9378193cb466bef13308f71",
+    "runtime_seconds": 0.016022300000031464
+  },
+  {
+    "instance": "ft10",
+    "seed": 410002,
+    "scenario_sha256": "cd890515dac5b723064f955409f28a81d2ceef0684defda9f1318917849f6f05",
+    "method": "ATC_LOCAL",
+    "makespan": 1366.3271754867915,
+    "total_tardiness": 0.0,
+    "normalized_tardiness": 0.0,
+    "valid": true,
+    "runtime_seconds": 0.01393669999993108
+  },
+  {
+    "instance": "ft10",
+    "seed": 410002,
+    "scenario_sha256": "cd890515dac5b723064f955409f28a81d2ceef0684defda9f1318917849f6f05",
+    "method": "LOCAL_FIXED",
+    "policy": "fixed",
+    "valid": true,
+    "makespan": 1366.3271754867915,
+    "total_tardiness": 0.0,
+    "normalized_tardiness": 0.0,
+    "completed_jobs": 10,
+    "auctions": 100,
+    "contested_auctions": 12,
+    "changed_winners_vs_fixed_on_same_queue": 0,
+    "logical_message_deliveries": 464,
+    "machine_k_counts": {
+      "0": {
+        "2.0": 10
+      },
+      "1": {
+        "2.0": 10
+      },
+      "2": {
+        "2.0": 10
+      },
+      "3": {
+        "2.0": 10
+      },
+      "4": {
+        "2.0": 10
+      },
+      "5": {
+        "2.0": 10
+      },
+      "6": {
+        "2.0": 10
+      },
+      "7": {
+        "2.0": 10
+      },
+      "8": {
+        "2.0": 10
+      },
+      "9": {
+        "2.0": 10
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 10,
+        "losses": 1
+      },
+      "1": {
+        "wins": 10,
+        "losses": 1
+      },
+      "2": {
+        "wins": 10,
+        "losses": 2
+      },
+      "3": {
+        "wins": 10,
+        "losses": 5
+      },
+      "4": {
+        "wins": 10,
+        "losses": 0
+      },
+      "5": {
+        "wins": 10,
+        "losses": 1
+      },
+      "6": {
+        "wins": 10,
+        "losses": 1
+      },
+      "7": {
+        "wins": 10,
+        "losses": 0
+      },
+      "8": {
+        "wins": 10,
+        "losses": 5
+      },
+      "9": {
+        "wins": 10,
+        "losses": 0
+      }
+    },
+    "schedule_sha256": "3da7757ff5cd6098ab04714f6d138f44f84815f2c410347b426bbb173dd2ab9d",
+    "runtime_seconds": 0.01560820000008789
+  },
+  {
+    "instance": "ft10",
+    "seed": 410002,
+    "scenario_sha256": "cd890515dac5b723064f955409f28a81d2ceef0684defda9f1318917849f6f05",
+    "method": "LOCAL_RULES",
+    "policy": "local",
+    "valid": true,
+    "makespan": 1366.3271754867915,
+    "total_tardiness": 0.0,
+    "normalized_tardiness": 0.0,
+    "completed_jobs": 10,
+    "auctions": 100,
+    "contested_auctions": 12,
+    "changed_winners_vs_fixed_on_same_queue": 0,
+    "logical_message_deliveries": 464,
+    "machine_k_counts": {
+      "0": {
+        "3.0": 10
+      },
+      "1": {
+        "3.0": 10
+      },
+      "2": {
+        "3.0": 10
+      },
+      "3": {
+        "3.0": 9,
+        "0.5": 1
+      },
+      "4": {
+        "3.0": 10
+      },
+      "5": {
+        "3.0": 10
+      },
+      "6": {
+        "3.0": 10
+      },
+      "7": {
+        "3.0": 10
+      },
+      "8": {
+        "3.0": 10
+      },
+      "9": {
+        "3.0": 10
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 10,
+        "losses": 1
+      },
+      "1": {
+        "wins": 10,
+        "losses": 1
+      },
+      "2": {
+        "wins": 10,
+        "losses": 2
+      },
+      "3": {
+        "wins": 10,
+        "losses": 5
+      },
+      "4": {
+        "wins": 10,
+        "losses": 0
+      },
+      "5": {
+        "wins": 10,
+        "losses": 1
+      },
+      "6": {
+        "wins": 10,
+        "losses": 1
+      },
+      "7": {
+        "wins": 10,
+        "losses": 0
+      },
+      "8": {
+        "wins": 10,
+        "losses": 5
+      },
+      "9": {
+        "wins": 10,
+        "losses": 0
+      }
+    },
+    "schedule_sha256": "3da7757ff5cd6098ab04714f6d138f44f84815f2c410347b426bbb173dd2ab9d",
+    "runtime_seconds": 0.014501999999993131
+  },
+  {
+    "instance": "ft10",
+    "seed": 410003,
+    "scenario_sha256": "b28f17a5670d10616fb7a9e66123bb064baaecc2c49947355829391e94a97942",
+    "method": "ATC_LOCAL",
+    "makespan": 1433.2126926930175,
+    "total_tardiness": 6.504798698080549,
+    "normalized_tardiness": 0.0012732038947114012,
+    "valid": true,
+    "runtime_seconds": 0.018363099999987753
+  },
+  {
+    "instance": "ft10",
+    "seed": 410003,
+    "scenario_sha256": "b28f17a5670d10616fb7a9e66123bb064baaecc2c49947355829391e94a97942",
+    "method": "LOCAL_FIXED",
+    "policy": "fixed",
+    "valid": true,
+    "makespan": 1433.2126926930175,
+    "total_tardiness": 6.504798698080549,
+    "normalized_tardiness": 0.0012732038947114012,
+    "completed_jobs": 10,
+    "auctions": 100,
+    "contested_auctions": 22,
+    "changed_winners_vs_fixed_on_same_queue": 0,
+    "logical_message_deliveries": 532,
+    "machine_k_counts": {
+      "0": {
+        "2.0": 10
+      },
+      "1": {
+        "2.0": 10
+      },
+      "2": {
+        "2.0": 10
+      },
+      "3": {
+        "2.0": 10
+      },
+      "4": {
+        "2.0": 10
+      },
+      "5": {
+        "2.0": 10
+      },
+      "6": {
+        "2.0": 10
+      },
+      "7": {
+        "2.0": 10
+      },
+      "8": {
+        "2.0": 10
+      },
+      "9": {
+        "2.0": 10
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 10,
+        "losses": 6
+      },
+      "1": {
+        "wins": 10,
+        "losses": 6
+      },
+      "2": {
+        "wins": 10,
+        "losses": 5
+      },
+      "3": {
+        "wins": 10,
+        "losses": 3
+      },
+      "4": {
+        "wins": 10,
+        "losses": 0
+      },
+      "5": {
+        "wins": 10,
+        "losses": 6
+      },
+      "6": {
+        "wins": 10,
+        "losses": 1
+      },
+      "7": {
+        "wins": 10,
+        "losses": 0
+      },
+      "8": {
+        "wins": 10,
+        "losses": 4
+      },
+      "9": {
+        "wins": 10,
+        "losses": 2
+      }
+    },
+    "schedule_sha256": "3ab3db02b290505fa713b43499c0cabe55ad189e2cb316b4613634b5c4986f07",
+    "runtime_seconds": 0.021327800000108255
+  },
+  {
+    "instance": "ft10",
+    "seed": 410003,
+    "scenario_sha256": "b28f17a5670d10616fb7a9e66123bb064baaecc2c49947355829391e94a97942",
+    "method": "LOCAL_RULES",
+    "policy": "local",
+    "valid": true,
+    "makespan": 1504.2126926930175,
+    "total_tardiness": 77.50479869808055,
+    "normalized_tardiness": 0.015170248326106977,
+    "completed_jobs": 10,
+    "auctions": 100,
+    "contested_auctions": 25,
+    "changed_winners_vs_fixed_on_same_queue": 2,
+    "logical_message_deliveries": 544,
+    "machine_k_counts": {
+      "0": {
+        "3.0": 10
+      },
+      "1": {
+        "3.0": 10
+      },
+      "2": {
+        "3.0": 10
+      },
+      "3": {
+        "3.0": 9,
+        "0.5": 1
+      },
+      "4": {
+        "3.0": 8,
+        "0.5": 2
+      },
+      "5": {
+        "3.0": 10
+      },
+      "6": {
+        "3.0": 7,
+        "0.5": 3
+      },
+      "7": {
+        "3.0": 6,
+        "0.5": 4
+      },
+      "8": {
+        "3.0": 8,
+        "0.5": 2
+      },
+      "9": {
+        "3.0": 8,
+        "0.5": 2
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 10,
+        "losses": 7
+      },
+      "1": {
+        "wins": 10,
+        "losses": 8
+      },
+      "2": {
+        "wins": 10,
+        "losses": 4
+      },
+      "3": {
+        "wins": 10,
+        "losses": 3
+      },
+      "4": {
+        "wins": 10,
+        "losses": 0
+      },
+      "5": {
+        "wins": 10,
+        "losses": 6
+      },
+      "6": {
+        "wins": 10,
+        "losses": 1
+      },
+      "7": {
+        "wins": 10,
+        "losses": 0
+      },
+      "8": {
+        "wins": 10,
+        "losses": 5
+      },
+      "9": {
+        "wins": 10,
+        "losses": 2
+      }
+    },
+    "schedule_sha256": "3fb45d0c484e819ffea399930c02cf5f269b94f4e734a9eb806b28dd7fb4055c",
+    "runtime_seconds": 0.02166639999995823
+  },
+  {
+    "instance": "ft10",
+    "seed": 410004,
+    "scenario_sha256": "071d6d3ebdb07dda13ab3ad68188e2281b45798080ddb93be8420b3805f6bf8d",
+    "method": "ATC_LOCAL",
+    "makespan": 1277.9443111520718,
+    "total_tardiness": 0.0,
+    "normalized_tardiness": 0.0,
+    "valid": true,
+    "runtime_seconds": 0.01707629999987148
+  },
+  {
+    "instance": "ft10",
+    "seed": 410004,
+    "scenario_sha256": "071d6d3ebdb07dda13ab3ad68188e2281b45798080ddb93be8420b3805f6bf8d",
+    "method": "LOCAL_FIXED",
+    "policy": "fixed",
+    "valid": true,
+    "makespan": 1277.9443111520718,
+    "total_tardiness": 0.0,
+    "normalized_tardiness": 0.0,
+    "completed_jobs": 10,
+    "auctions": 100,
+    "contested_auctions": 18,
+    "changed_winners_vs_fixed_on_same_queue": 0,
+    "logical_message_deliveries": 480,
+    "machine_k_counts": {
+      "0": {
+        "2.0": 10
+      },
+      "1": {
+        "2.0": 10
+      },
+      "2": {
+        "2.0": 10
+      },
+      "3": {
+        "2.0": 10
+      },
+      "4": {
+        "2.0": 10
+      },
+      "5": {
+        "2.0": 10
+      },
+      "6": {
+        "2.0": 10
+      },
+      "7": {
+        "2.0": 10
+      },
+      "8": {
+        "2.0": 10
+      },
+      "9": {
+        "2.0": 10
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 10,
+        "losses": 3
+      },
+      "1": {
+        "wins": 10,
+        "losses": 1
+      },
+      "2": {
+        "wins": 10,
+        "losses": 3
+      },
+      "3": {
+        "wins": 10,
+        "losses": 1
+      },
+      "4": {
+        "wins": 10,
+        "losses": 1
+      },
+      "5": {
+        "wins": 10,
+        "losses": 1
+      },
+      "6": {
+        "wins": 10,
+        "losses": 3
+      },
+      "7": {
+        "wins": 10,
+        "losses": 1
+      },
+      "8": {
+        "wins": 10,
+        "losses": 6
+      },
+      "9": {
+        "wins": 10,
+        "losses": 0
+      }
+    },
+    "schedule_sha256": "527451b2998845a085fc33577d8808cc256cfa66b97727b888b003bb35654e8a",
+    "runtime_seconds": 0.016931099999965227
+  },
+  {
+    "instance": "ft10",
+    "seed": 410004,
+    "scenario_sha256": "071d6d3ebdb07dda13ab3ad68188e2281b45798080ddb93be8420b3805f6bf8d",
+    "method": "LOCAL_RULES",
+    "policy": "local",
+    "valid": true,
+    "makespan": 1267.9443111520718,
+    "total_tardiness": 0.0,
+    "normalized_tardiness": 0.0,
+    "completed_jobs": 10,
+    "auctions": 100,
+    "contested_auctions": 23,
+    "changed_winners_vs_fixed_on_same_queue": 2,
+    "logical_message_deliveries": 504,
+    "machine_k_counts": {
+      "0": {
+        "3.0": 10
+      },
+      "1": {
+        "3.0": 10
+      },
+      "2": {
+        "3.0": 10
+      },
+      "3": {
+        "3.0": 9,
+        "0.5": 1
+      },
+      "4": {
+        "3.0": 9,
+        "0.5": 1
+      },
+      "5": {
+        "3.0": 10
+      },
+      "6": {
+        "3.0": 10
+      },
+      "7": {
+        "3.0": 9,
+        "0.5": 1
+      },
+      "8": {
+        "3.0": 9,
+        "0.5": 1
+      },
+      "9": {
+        "3.0": 10
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 10,
+        "losses": 0
+      },
+      "1": {
+        "wins": 10,
+        "losses": 2
+      },
+      "2": {
+        "wins": 10,
+        "losses": 4
+      },
+      "3": {
+        "wins": 10,
+        "losses": 0
+      },
+      "4": {
+        "wins": 10,
+        "losses": 2
+      },
+      "5": {
+        "wins": 10,
+        "losses": 3
+      },
+      "6": {
+        "wins": 10,
+        "losses": 4
+      },
+      "7": {
+        "wins": 10,
+        "losses": 2
+      },
+      "8": {
+        "wins": 10,
+        "losses": 8
+      },
+      "9": {
+        "wins": 10,
+        "losses": 1
+      }
+    },
+    "schedule_sha256": "8eb9611f6cc23141116a6d87c4883ca64a402dab173b526762b395f85e32e777",
+    "runtime_seconds": 0.016868899999963105
+  },
+  {
+    "instance": "ft10",
+    "seed": 410005,
+    "scenario_sha256": "2f13d09aeec0f268f741f4e875225f62dcf4e88d69b8e5c286286ec5319dbf0a",
+    "method": "ATC_LOCAL",
+    "makespan": 1431.1255064035693,
+    "total_tardiness": 575.7468019032362,
+    "normalized_tardiness": 0.11269266038427016,
+    "valid": true,
+    "runtime_seconds": 0.014454500000056214
+  },
+  {
+    "instance": "ft10",
+    "seed": 410005,
+    "scenario_sha256": "2f13d09aeec0f268f741f4e875225f62dcf4e88d69b8e5c286286ec5319dbf0a",
+    "method": "LOCAL_FIXED",
+    "policy": "fixed",
+    "valid": true,
+    "makespan": 1431.1255064035693,
+    "total_tardiness": 575.7468019032362,
+    "normalized_tardiness": 0.11269266038427016,
+    "completed_jobs": 10,
+    "auctions": 100,
+    "contested_auctions": 24,
+    "changed_winners_vs_fixed_on_same_queue": 0,
+    "logical_message_deliveries": 520,
+    "machine_k_counts": {
+      "0": {
+        "2.0": 10
+      },
+      "1": {
+        "2.0": 10
+      },
+      "2": {
+        "2.0": 10
+      },
+      "3": {
+        "2.0": 10
+      },
+      "4": {
+        "2.0": 10
+      },
+      "5": {
+        "2.0": 10
+      },
+      "6": {
+        "2.0": 10
+      },
+      "7": {
+        "2.0": 10
+      },
+      "8": {
+        "2.0": 10
+      },
+      "9": {
+        "2.0": 10
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 10,
+        "losses": 7
+      },
+      "1": {
+        "wins": 10,
+        "losses": 0
+      },
+      "2": {
+        "wins": 10,
+        "losses": 5
+      },
+      "3": {
+        "wins": 10,
+        "losses": 0
+      },
+      "4": {
+        "wins": 10,
+        "losses": 6
+      },
+      "5": {
+        "wins": 10,
+        "losses": 0
+      },
+      "6": {
+        "wins": 10,
+        "losses": 4
+      },
+      "7": {
+        "wins": 10,
+        "losses": 5
+      },
+      "8": {
+        "wins": 10,
+        "losses": 3
+      },
+      "9": {
+        "wins": 10,
+        "losses": 0
+      }
+    },
+    "schedule_sha256": "31a16f1b6de31842eeea0f2617dd43bdccc761516ec45177192e4ea9ba7a62ea",
+    "runtime_seconds": 0.015366800000037983
+  },
+  {
+    "instance": "ft10",
+    "seed": 410005,
+    "scenario_sha256": "2f13d09aeec0f268f741f4e875225f62dcf4e88d69b8e5c286286ec5319dbf0a",
+    "method": "LOCAL_RULES",
+    "policy": "local",
+    "valid": true,
+    "makespan": 1360.1255064035693,
+    "total_tardiness": 189.31303473005482,
+    "normalized_tardiness": 0.03705481204346346,
+    "completed_jobs": 10,
+    "auctions": 100,
+    "contested_auctions": 20,
+    "changed_winners_vs_fixed_on_same_queue": 3,
+    "logical_message_deliveries": 492,
+    "machine_k_counts": {
+      "0": {
+        "3.0": 9,
+        "0.5": 1
+      },
+      "1": {
+        "3.0": 10
+      },
+      "2": {
+        "3.0": 9,
+        "0.5": 1
+      },
+      "3": {
+        "3.0": 7,
+        "0.5": 3
+      },
+      "4": {
+        "3.0": 9,
+        "0.5": 1
+      },
+      "5": {
+        "3.0": 8,
+        "0.5": 2
+      },
+      "6": {
+        "3.0": 9,
+        "0.5": 1
+      },
+      "7": {
+        "0.5": 3,
+        "3.0": 7
+      },
+      "8": {
+        "3.0": 9,
+        "0.5": 1
+      },
+      "9": {
+        "3.0": 9,
+        "0.5": 1
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 10,
+        "losses": 2
+      },
+      "1": {
+        "wins": 10,
+        "losses": 0
+      },
+      "2": {
+        "wins": 10,
+        "losses": 7
+      },
+      "3": {
+        "wins": 10,
+        "losses": 0
+      },
+      "4": {
+        "wins": 10,
+        "losses": 4
+      },
+      "5": {
+        "wins": 10,
+        "losses": 0
+      },
+      "6": {
+        "wins": 10,
+        "losses": 2
+      },
+      "7": {
+        "wins": 10,
+        "losses": 3
+      },
+      "8": {
+        "wins": 10,
+        "losses": 0
+      },
+      "9": {
+        "wins": 10,
+        "losses": 5
+      }
+    },
+    "schedule_sha256": "acbdf7b6c2def92a70093d13e8f2e225ffb3469f48836e84dfd81c49b62855cc",
+    "runtime_seconds": 0.014969000000064625
+  },
+  {
+    "instance": "ft10",
+    "seed": 410006,
+    "scenario_sha256": "923749ad6f4c00affa2d8ff7a570426ead57b8ef69faa2774eaf000a05b81bd1",
+    "method": "ATC_LOCAL",
+    "makespan": 1370.1652452908336,
+    "total_tardiness": 0.0,
+    "normalized_tardiness": 0.0,
+    "valid": true,
+    "runtime_seconds": 0.016392400000086127
+  },
+  {
+    "instance": "ft10",
+    "seed": 410006,
+    "scenario_sha256": "923749ad6f4c00affa2d8ff7a570426ead57b8ef69faa2774eaf000a05b81bd1",
+    "method": "LOCAL_FIXED",
+    "policy": "fixed",
+    "valid": true,
+    "makespan": 1370.1652452908336,
+    "total_tardiness": 0.0,
+    "normalized_tardiness": 0.0,
+    "completed_jobs": 10,
+    "auctions": 100,
+    "contested_auctions": 17,
+    "changed_winners_vs_fixed_on_same_queue": 0,
+    "logical_message_deliveries": 492,
+    "machine_k_counts": {
+      "0": {
+        "2.0": 10
+      },
+      "1": {
+        "2.0": 10
+      },
+      "2": {
+        "2.0": 10
+      },
+      "3": {
+        "2.0": 10
+      },
+      "4": {
+        "2.0": 10
+      },
+      "5": {
+        "2.0": 10
+      },
+      "6": {
+        "2.0": 10
+      },
+      "7": {
+        "2.0": 10
+      },
+      "8": {
+        "2.0": 10
+      },
+      "9": {
+        "2.0": 10
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 10,
+        "losses": 2
+      },
+      "1": {
+        "wins": 10,
+        "losses": 5
+      },
+      "2": {
+        "wins": 10,
+        "losses": 4
+      },
+      "3": {
+        "wins": 10,
+        "losses": 7
+      },
+      "4": {
+        "wins": 10,
+        "losses": 3
+      },
+      "5": {
+        "wins": 10,
+        "losses": 0
+      },
+      "6": {
+        "wins": 10,
+        "losses": 0
+      },
+      "7": {
+        "wins": 10,
+        "losses": 0
+      },
+      "8": {
+        "wins": 10,
+        "losses": 1
+      },
+      "9": {
+        "wins": 10,
+        "losses": 1
+      }
+    },
+    "schedule_sha256": "15e75bf804c890bc5c29fa69115c80531a8dc354fa8fd2def82b8d371eb2bed7",
+    "runtime_seconds": 0.01571790000002693
+  },
+  {
+    "instance": "ft10",
+    "seed": 410006,
+    "scenario_sha256": "923749ad6f4c00affa2d8ff7a570426ead57b8ef69faa2774eaf000a05b81bd1",
+    "method": "LOCAL_RULES",
+    "policy": "local",
+    "valid": true,
+    "makespan": 1370.1652452908336,
+    "total_tardiness": 0.0,
+    "normalized_tardiness": 0.0,
+    "completed_jobs": 10,
+    "auctions": 100,
+    "contested_auctions": 18,
+    "changed_winners_vs_fixed_on_same_queue": 1,
+    "logical_message_deliveries": 500,
+    "machine_k_counts": {
+      "0": {
+        "3.0": 10
+      },
+      "1": {
+        "3.0": 10
+      },
+      "2": {
+        "3.0": 10
+      },
+      "3": {
+        "3.0": 10
+      },
+      "4": {
+        "3.0": 9,
+        "0.5": 1
+      },
+      "5": {
+        "3.0": 10
+      },
+      "6": {
+        "3.0": 10
+      },
+      "7": {
+        "0.5": 1,
+        "3.0": 9
+      },
+      "8": {
+        "3.0": 9,
+        "0.5": 1
+      },
+      "9": {
+        "3.0": 10
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 10,
+        "losses": 2
+      },
+      "1": {
+        "wins": 10,
+        "losses": 5
+      },
+      "2": {
+        "wins": 10,
+        "losses": 5
+      },
+      "3": {
+        "wins": 10,
+        "losses": 8
+      },
+      "4": {
+        "wins": 10,
+        "losses": 3
+      },
+      "5": {
+        "wins": 10,
+        "losses": 0
+      },
+      "6": {
+        "wins": 10,
+        "losses": 0
+      },
+      "7": {
+        "wins": 10,
+        "losses": 0
+      },
+      "8": {
+        "wins": 10,
+        "losses": 1
+      },
+      "9": {
+        "wins": 10,
+        "losses": 1
+      }
+    },
+    "schedule_sha256": "be0311dc1e2422bc6c621a5e306846b329083247ca5087112c2cc523c25563cc",
+    "runtime_seconds": 0.014730099999951562
+  },
+  {
+    "instance": "ft10",
+    "seed": 410007,
+    "scenario_sha256": "45c237631a429befd384168a39e648ff560b21eee93bec6f5dc7063e8eba87f2",
+    "method": "ATC_LOCAL",
+    "makespan": 1360.8932244847447,
+    "total_tardiness": 188.02522709628602,
+    "normalized_tardiness": 0.03680274556592014,
+    "valid": true,
+    "runtime_seconds": 0.013796499999898515
+  },
+  {
+    "instance": "ft10",
+    "seed": 410007,
+    "scenario_sha256": "45c237631a429befd384168a39e648ff560b21eee93bec6f5dc7063e8eba87f2",
+    "method": "LOCAL_FIXED",
+    "policy": "fixed",
+    "valid": true,
+    "makespan": 1360.8932244847447,
+    "total_tardiness": 188.02522709628602,
+    "normalized_tardiness": 0.03680274556592014,
+    "completed_jobs": 10,
+    "auctions": 100,
+    "contested_auctions": 13,
+    "changed_winners_vs_fixed_on_same_queue": 0,
+    "logical_message_deliveries": 464,
+    "machine_k_counts": {
+      "0": {
+        "2.0": 10
+      },
+      "1": {
+        "2.0": 10
+      },
+      "2": {
+        "2.0": 10
+      },
+      "3": {
+        "2.0": 10
+      },
+      "4": {
+        "2.0": 10
+      },
+      "5": {
+        "2.0": 10
+      },
+      "6": {
+        "2.0": 10
+      },
+      "7": {
+        "2.0": 10
+      },
+      "8": {
+        "2.0": 10
+      },
+      "9": {
+        "2.0": 10
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 10,
+        "losses": 0
+      },
+      "1": {
+        "wins": 10,
+        "losses": 0
+      },
+      "2": {
+        "wins": 10,
+        "losses": 3
+      },
+      "3": {
+        "wins": 10,
+        "losses": 1
+      },
+      "4": {
+        "wins": 10,
+        "losses": 0
+      },
+      "5": {
+        "wins": 10,
+        "losses": 6
+      },
+      "6": {
+        "wins": 10,
+        "losses": 1
+      },
+      "7": {
+        "wins": 10,
+        "losses": 2
+      },
+      "8": {
+        "wins": 10,
+        "losses": 1
+      },
+      "9": {
+        "wins": 10,
+        "losses": 2
+      }
+    },
+    "schedule_sha256": "474f1152d89c869aab6abdfe91a02b70bbdf9b246537addc8e561578c1ccd2c5",
+    "runtime_seconds": 0.015258200000062061
+  },
+  {
+    "instance": "ft10",
+    "seed": 410007,
+    "scenario_sha256": "45c237631a429befd384168a39e648ff560b21eee93bec6f5dc7063e8eba87f2",
+    "method": "LOCAL_RULES",
+    "policy": "local",
+    "valid": true,
+    "makespan": 1294.8932244847447,
+    "total_tardiness": 176.13102521412657,
+    "normalized_tardiness": 0.03447465750912636,
+    "completed_jobs": 10,
+    "auctions": 100,
+    "contested_auctions": 12,
+    "changed_winners_vs_fixed_on_same_queue": 2,
+    "logical_message_deliveries": 456,
+    "machine_k_counts": {
+      "0": {
+        "3.0": 9,
+        "0.5": 1
+      },
+      "1": {
+        "3.0": 9,
+        "0.5": 1
+      },
+      "2": {
+        "3.0": 9,
+        "0.5": 1
+      },
+      "3": {
+        "3.0": 7,
+        "0.5": 3
+      },
+      "4": {
+        "3.0": 7,
+        "0.5": 3
+      },
+      "5": {
+        "3.0": 7,
+        "0.5": 3
+      },
+      "6": {
+        "3.0": 9,
+        "0.5": 1
+      },
+      "7": {
+        "3.0": 6,
+        "0.5": 4
+      },
+      "8": {
+        "3.0": 5,
+        "0.5": 5
+      },
+      "9": {
+        "3.0": 7,
+        "0.5": 3
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 10,
+        "losses": 0
+      },
+      "1": {
+        "wins": 10,
+        "losses": 1
+      },
+      "2": {
+        "wins": 10,
+        "losses": 3
+      },
+      "3": {
+        "wins": 10,
+        "losses": 3
+      },
+      "4": {
+        "wins": 10,
+        "losses": 0
+      },
+      "5": {
+        "wins": 10,
+        "losses": 1
+      },
+      "6": {
+        "wins": 10,
+        "losses": 0
+      },
+      "7": {
+        "wins": 10,
+        "losses": 1
+      },
+      "8": {
+        "wins": 10,
+        "losses": 2
+      },
+      "9": {
+        "wins": 10,
+        "losses": 3
+      }
+    },
+    "schedule_sha256": "5d55a85a70569faae90a518d87b43d0db6cfd5cd9ed496a78ad50a362d98fd78",
+    "runtime_seconds": 0.01414569999997184
+  },
+  {
+    "instance": "ft10",
+    "seed": 410008,
+    "scenario_sha256": "85ddd9aacaf761f17b36ec6c0fd0904ee5b070653c819c5b694ffe0c3474246c",
+    "method": "ATC_LOCAL",
+    "makespan": 1416.5807353732666,
+    "total_tardiness": 72.2153536645452,
+    "normalized_tardiness": 0.014134929274720142,
+    "valid": true,
+    "runtime_seconds": 0.013839299999972354
+  },
+  {
+    "instance": "ft10",
+    "seed": 410008,
+    "scenario_sha256": "85ddd9aacaf761f17b36ec6c0fd0904ee5b070653c819c5b694ffe0c3474246c",
+    "method": "LOCAL_FIXED",
+    "policy": "fixed",
+    "valid": true,
+    "makespan": 1416.5807353732666,
+    "total_tardiness": 72.2153536645452,
+    "normalized_tardiness": 0.014134929274720142,
+    "completed_jobs": 10,
+    "auctions": 100,
+    "contested_auctions": 15,
+    "changed_winners_vs_fixed_on_same_queue": 0,
+    "logical_message_deliveries": 472,
+    "machine_k_counts": {
+      "0": {
+        "2.0": 10
+      },
+      "1": {
+        "2.0": 10
+      },
+      "2": {
+        "2.0": 10
+      },
+      "3": {
+        "2.0": 10
+      },
+      "4": {
+        "2.0": 10
+      },
+      "5": {
+        "2.0": 10
+      },
+      "6": {
+        "2.0": 10
+      },
+      "7": {
+        "2.0": 10
+      },
+      "8": {
+        "2.0": 10
+      },
+      "9": {
+        "2.0": 10
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 10,
+        "losses": 0
+      },
+      "1": {
+        "wins": 10,
+        "losses": 0
+      },
+      "2": {
+        "wins": 10,
+        "losses": 2
+      },
+      "3": {
+        "wins": 10,
+        "losses": 2
+      },
+      "4": {
+        "wins": 10,
+        "losses": 1
+      },
+      "5": {
+        "wins": 10,
+        "losses": 2
+      },
+      "6": {
+        "wins": 10,
+        "losses": 0
+      },
+      "7": {
+        "wins": 10,
+        "losses": 7
+      },
+      "8": {
+        "wins": 10,
+        "losses": 4
+      },
+      "9": {
+        "wins": 10,
+        "losses": 0
+      }
+    },
+    "schedule_sha256": "7f3a42dcd9674bcfe9c718c7493e05be7c3b13cf0c12b225d9dda76fdf16e42c",
+    "runtime_seconds": 0.014307999999800813
+  },
+  {
+    "instance": "ft10",
+    "seed": 410008,
+    "scenario_sha256": "85ddd9aacaf761f17b36ec6c0fd0904ee5b070653c819c5b694ffe0c3474246c",
+    "method": "LOCAL_RULES",
+    "policy": "local",
+    "valid": true,
+    "makespan": 1427.5807353732666,
+    "total_tardiness": 83.2153536645452,
+    "normalized_tardiness": 0.016287992496485652,
+    "completed_jobs": 10,
+    "auctions": 100,
+    "contested_auctions": 16,
+    "changed_winners_vs_fixed_on_same_queue": 1,
+    "logical_message_deliveries": 476,
+    "machine_k_counts": {
+      "0": {
+        "3.0": 9,
+        "0.5": 1
+      },
+      "1": {
+        "3.0": 10
+      },
+      "2": {
+        "3.0": 9,
+        "0.5": 1
+      },
+      "3": {
+        "3.0": 9,
+        "0.5": 1
+      },
+      "4": {
+        "3.0": 7,
+        "0.5": 3
+      },
+      "5": {
+        "3.0": 8,
+        "0.5": 2
+      },
+      "6": {
+        "3.0": 9,
+        "0.5": 1
+      },
+      "7": {
+        "3.0": 9,
+        "0.5": 1
+      },
+      "8": {
+        "3.0": 8,
+        "0.5": 2
+      },
+      "9": {
+        "3.0": 9,
+        "0.5": 1
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 10,
+        "losses": 0
+      },
+      "1": {
+        "wins": 10,
+        "losses": 0
+      },
+      "2": {
+        "wins": 10,
+        "losses": 2
+      },
+      "3": {
+        "wins": 10,
+        "losses": 2
+      },
+      "4": {
+        "wins": 10,
+        "losses": 1
+      },
+      "5": {
+        "wins": 10,
+        "losses": 2
+      },
+      "6": {
+        "wins": 10,
+        "losses": 0
+      },
+      "7": {
+        "wins": 10,
+        "losses": 8
+      },
+      "8": {
+        "wins": 10,
+        "losses": 4
+      },
+      "9": {
+        "wins": 10,
+        "losses": 0
+      }
+    },
+    "schedule_sha256": "1d810799dcaf75c452010067ae41d58f22b09e1d5a63dfdc5b3415b44b84b599",
+    "runtime_seconds": 0.015828299999839146
+  },
+  {
+    "instance": "ft10",
+    "seed": 410009,
+    "scenario_sha256": "709306d3ec924924d31a918a4b831ebb9ccb16c56638067cfb289fd94291297c",
+    "method": "ATC_LOCAL",
+    "makespan": 1443.3873668274955,
+    "total_tardiness": 83.48839242553606,
+    "normalized_tardiness": 0.016341435197795275,
+    "valid": true,
+    "runtime_seconds": 0.014004500000055486
+  },
+  {
+    "instance": "ft10",
+    "seed": 410009,
+    "scenario_sha256": "709306d3ec924924d31a918a4b831ebb9ccb16c56638067cfb289fd94291297c",
+    "method": "LOCAL_FIXED",
+    "policy": "fixed",
+    "valid": true,
+    "makespan": 1443.3873668274955,
+    "total_tardiness": 83.48839242553606,
+    "normalized_tardiness": 0.016341435197795275,
+    "completed_jobs": 10,
+    "auctions": 100,
+    "contested_auctions": 22,
+    "changed_winners_vs_fixed_on_same_queue": 0,
+    "logical_message_deliveries": 540,
+    "machine_k_counts": {
+      "0": {
+        "2.0": 10
+      },
+      "1": {
+        "2.0": 10
+      },
+      "2": {
+        "2.0": 10
+      },
+      "3": {
+        "2.0": 10
+      },
+      "4": {
+        "2.0": 10
+      },
+      "5": {
+        "2.0": 10
+      },
+      "6": {
+        "2.0": 10
+      },
+      "7": {
+        "2.0": 10
+      },
+      "8": {
+        "2.0": 10
+      },
+      "9": {
+        "2.0": 10
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 10,
+        "losses": 0
+      },
+      "1": {
+        "wins": 10,
+        "losses": 5
+      },
+      "2": {
+        "wins": 10,
+        "losses": 6
+      },
+      "3": {
+        "wins": 10,
+        "losses": 4
+      },
+      "4": {
+        "wins": 10,
+        "losses": 4
+      },
+      "5": {
+        "wins": 10,
+        "losses": 5
+      },
+      "6": {
+        "wins": 10,
+        "losses": 4
+      },
+      "7": {
+        "wins": 10,
+        "losses": 2
+      },
+      "8": {
+        "wins": 10,
+        "losses": 5
+      },
+      "9": {
+        "wins": 10,
+        "losses": 0
+      }
+    },
+    "schedule_sha256": "abda4caae5aff048efbd4a708ab07724bfb242f8c3be2ab3e26c5882a40eeb45",
+    "runtime_seconds": 0.015023899999960122
+  },
+  {
+    "instance": "ft10",
+    "seed": 410009,
+    "scenario_sha256": "709306d3ec924924d31a918a4b831ebb9ccb16c56638067cfb289fd94291297c",
+    "method": "LOCAL_RULES",
+    "policy": "local",
+    "valid": true,
+    "makespan": 1443.3873668274955,
+    "total_tardiness": 83.48839242553606,
+    "normalized_tardiness": 0.016341435197795275,
+    "completed_jobs": 10,
+    "auctions": 100,
+    "contested_auctions": 22,
+    "changed_winners_vs_fixed_on_same_queue": 0,
+    "logical_message_deliveries": 540,
+    "machine_k_counts": {
+      "0": {
+        "3.0": 10
+      },
+      "1": {
+        "3.0": 10
+      },
+      "2": {
+        "3.0": 8,
+        "0.5": 2
+      },
+      "3": {
+        "3.0": 8,
+        "0.5": 2
+      },
+      "4": {
+        "3.0": 8,
+        "0.5": 2
+      },
+      "5": {
+        "3.0": 8,
+        "0.5": 2
+      },
+      "6": {
+        "3.0": 9,
+        "0.5": 1
+      },
+      "7": {
+        "3.0": 7,
+        "0.5": 3
+      },
+      "8": {
+        "3.0": 7,
+        "0.5": 3
+      },
+      "9": {
+        "3.0": 8,
+        "0.5": 2
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 10,
+        "losses": 0
+      },
+      "1": {
+        "wins": 10,
+        "losses": 5
+      },
+      "2": {
+        "wins": 10,
+        "losses": 6
+      },
+      "3": {
+        "wins": 10,
+        "losses": 4
+      },
+      "4": {
+        "wins": 10,
+        "losses": 4
+      },
+      "5": {
+        "wins": 10,
+        "losses": 5
+      },
+      "6": {
+        "wins": 10,
+        "losses": 4
+      },
+      "7": {
+        "wins": 10,
+        "losses": 2
+      },
+      "8": {
+        "wins": 10,
+        "losses": 5
+      },
+      "9": {
+        "wins": 10,
+        "losses": 0
+      }
+    },
+    "schedule_sha256": "abda4caae5aff048efbd4a708ab07724bfb242f8c3be2ab3e26c5882a40eeb45",
+    "runtime_seconds": 0.015516100000013466
+  },
+  {
+    "instance": "ft20",
+    "seed": 410000,
+    "scenario_sha256": "084af0870097e284743442a168713aa97a880787d261508f7b2bf8168ba66683",
+    "method": "ATC_LOCAL",
+    "makespan": 1625.8150686327353,
+    "total_tardiness": 883.3157408317738,
+    "normalized_tardiness": 0.17289405770831354,
+    "valid": true,
+    "runtime_seconds": 0.020001300000103583
+  },
+  {
+    "instance": "ft20",
+    "seed": 410000,
+    "scenario_sha256": "084af0870097e284743442a168713aa97a880787d261508f7b2bf8168ba66683",
+    "method": "LOCAL_FIXED",
+    "policy": "fixed",
+    "valid": true,
+    "makespan": 1625.8150686327353,
+    "total_tardiness": 883.3157408317738,
+    "normalized_tardiness": 0.17289405770831354,
+    "completed_jobs": 20,
+    "auctions": 100,
+    "contested_auctions": 30,
+    "changed_winners_vs_fixed_on_same_queue": 0,
+    "logical_message_deliveries": 588,
+    "machine_k_counts": {
+      "0": {
+        "2.0": 20
+      },
+      "1": {
+        "2.0": 20
+      },
+      "2": {
+        "2.0": 20
+      },
+      "3": {
+        "2.0": 20
+      },
+      "4": {
+        "2.0": 20
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 5,
+        "losses": 1
+      },
+      "1": {
+        "wins": 5,
+        "losses": 5
+      },
+      "2": {
+        "wins": 5,
+        "losses": 7
+      },
+      "3": {
+        "wins": 5,
+        "losses": 0
+      },
+      "4": {
+        "wins": 5,
+        "losses": 0
+      },
+      "5": {
+        "wins": 5,
+        "losses": 0
+      },
+      "6": {
+        "wins": 5,
+        "losses": 1
+      },
+      "7": {
+        "wins": 5,
+        "losses": 2
+      },
+      "8": {
+        "wins": 5,
+        "losses": 6
+      },
+      "9": {
+        "wins": 5,
+        "losses": 4
+      },
+      "10": {
+        "wins": 5,
+        "losses": 0
+      },
+      "11": {
+        "wins": 5,
+        "losses": 0
+      },
+      "12": {
+        "wins": 5,
+        "losses": 0
+      },
+      "13": {
+        "wins": 5,
+        "losses": 5
+      },
+      "14": {
+        "wins": 5,
+        "losses": 0
+      },
+      "15": {
+        "wins": 5,
+        "losses": 1
+      },
+      "16": {
+        "wins": 5,
+        "losses": 1
+      },
+      "17": {
+        "wins": 5,
+        "losses": 8
+      },
+      "18": {
+        "wins": 5,
+        "losses": 6
+      },
+      "19": {
+        "wins": 5,
+        "losses": 0
+      }
+    },
+    "schedule_sha256": "1a35a5b08dc67b7258e8f7c4e2d64ef207471a10b1c1c67d832c680b2b2529df",
+    "runtime_seconds": 0.019458799999938492
+  },
+  {
+    "instance": "ft20",
+    "seed": 410000,
+    "scenario_sha256": "084af0870097e284743442a168713aa97a880787d261508f7b2bf8168ba66683",
+    "method": "LOCAL_RULES",
+    "policy": "local",
+    "valid": true,
+    "makespan": 1625.8150686327353,
+    "total_tardiness": 1143.91555176909,
+    "normalized_tardiness": 0.22390204575633,
+    "completed_jobs": 20,
+    "auctions": 100,
+    "contested_auctions": 32,
+    "changed_winners_vs_fixed_on_same_queue": 2,
+    "logical_message_deliveries": 604,
+    "machine_k_counts": {
+      "0": {
+        "3.0": 14,
+        "0.5": 6
+      },
+      "1": {
+        "3.0": 14,
+        "0.5": 6
+      },
+      "2": {
+        "3.0": 10,
+        "0.5": 10
+      },
+      "3": {
+        "3.0": 9,
+        "0.5": 11
+      },
+      "4": {
+        "3.0": 8,
+        "0.5": 12
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 5,
+        "losses": 1
+      },
+      "1": {
+        "wins": 5,
+        "losses": 5
+      },
+      "2": {
+        "wins": 5,
+        "losses": 5
+      },
+      "3": {
+        "wins": 5,
+        "losses": 0
+      },
+      "4": {
+        "wins": 5,
+        "losses": 0
+      },
+      "5": {
+        "wins": 5,
+        "losses": 0
+      },
+      "6": {
+        "wins": 5,
+        "losses": 1
+      },
+      "7": {
+        "wins": 5,
+        "losses": 2
+      },
+      "8": {
+        "wins": 5,
+        "losses": 4
+      },
+      "9": {
+        "wins": 5,
+        "losses": 7
+      },
+      "10": {
+        "wins": 5,
+        "losses": 0
+      },
+      "11": {
+        "wins": 5,
+        "losses": 1
+      },
+      "12": {
+        "wins": 5,
+        "losses": 0
+      },
+      "13": {
+        "wins": 5,
+        "losses": 5
+      },
+      "14": {
+        "wins": 5,
+        "losses": 0
+      },
+      "15": {
+        "wins": 5,
+        "losses": 2
+      },
+      "16": {
+        "wins": 5,
+        "losses": 1
+      },
+      "17": {
+        "wins": 5,
+        "losses": 8
+      },
+      "18": {
+        "wins": 5,
+        "losses": 8
+      },
+      "19": {
+        "wins": 5,
+        "losses": 1
+      }
+    },
+    "schedule_sha256": "1b37b11c5be15aa8fc191365b468049449c88921652468f9c1e42efc5817f0a7",
+    "runtime_seconds": 0.020126099999970393
+  },
+  {
+    "instance": "ft20",
+    "seed": 410001,
+    "scenario_sha256": "4a9355f5bf29b1a6075892a16a8c42825f1254a2635deadb5d2ad279a5a8403e",
+    "method": "ATC_LOCAL",
+    "makespan": 1713.8404097007606,
+    "total_tardiness": 319.87235462677563,
+    "normalized_tardiness": 0.06260958203694962,
+    "valid": true,
+    "runtime_seconds": 0.027357900000197333
+  },
+  {
+    "instance": "ft20",
+    "seed": 410001,
+    "scenario_sha256": "4a9355f5bf29b1a6075892a16a8c42825f1254a2635deadb5d2ad279a5a8403e",
+    "method": "LOCAL_FIXED",
+    "policy": "fixed",
+    "valid": true,
+    "makespan": 1713.8404097007606,
+    "total_tardiness": 319.87235462677563,
+    "normalized_tardiness": 0.06260958203694962,
+    "completed_jobs": 20,
+    "auctions": 100,
+    "contested_auctions": 29,
+    "changed_winners_vs_fixed_on_same_queue": 0,
+    "logical_message_deliveries": 568,
+    "machine_k_counts": {
+      "0": {
+        "2.0": 20
+      },
+      "1": {
+        "2.0": 20
+      },
+      "2": {
+        "2.0": 20
+      },
+      "3": {
+        "2.0": 20
+      },
+      "4": {
+        "2.0": 20
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 5,
+        "losses": 0
+      },
+      "1": {
+        "wins": 5,
+        "losses": 2
+      },
+      "2": {
+        "wins": 5,
+        "losses": 0
+      },
+      "3": {
+        "wins": 5,
+        "losses": 0
+      },
+      "4": {
+        "wins": 5,
+        "losses": 0
+      },
+      "5": {
+        "wins": 5,
+        "losses": 1
+      },
+      "6": {
+        "wins": 5,
+        "losses": 5
+      },
+      "7": {
+        "wins": 5,
+        "losses": 1
+      },
+      "8": {
+        "wins": 5,
+        "losses": 3
+      },
+      "9": {
+        "wins": 5,
+        "losses": 6
+      },
+      "10": {
+        "wins": 5,
+        "losses": 0
+      },
+      "11": {
+        "wins": 5,
+        "losses": 2
+      },
+      "12": {
+        "wins": 5,
+        "losses": 0
+      },
+      "13": {
+        "wins": 5,
+        "losses": 8
+      },
+      "14": {
+        "wins": 5,
+        "losses": 1
+      },
+      "15": {
+        "wins": 5,
+        "losses": 6
+      },
+      "16": {
+        "wins": 5,
+        "losses": 0
+      },
+      "17": {
+        "wins": 5,
+        "losses": 5
+      },
+      "18": {
+        "wins": 5,
+        "losses": 1
+      },
+      "19": {
+        "wins": 5,
+        "losses": 1
+      }
+    },
+    "schedule_sha256": "32e40de127a51e4df3cf582260c48a7a9ff428d1e23836adcd1437d47a716f06",
+    "runtime_seconds": 0.021249599999919155
+  },
+  {
+    "instance": "ft20",
+    "seed": 410001,
+    "scenario_sha256": "4a9355f5bf29b1a6075892a16a8c42825f1254a2635deadb5d2ad279a5a8403e",
+    "method": "LOCAL_RULES",
+    "policy": "local",
+    "valid": true,
+    "makespan": 1732.3514564321451,
+    "total_tardiness": 364.983816635061,
+    "normalized_tardiness": 0.07143938473968701,
+    "completed_jobs": 20,
+    "auctions": 100,
+    "contested_auctions": 29,
+    "changed_winners_vs_fixed_on_same_queue": 1,
+    "logical_message_deliveries": 568,
+    "machine_k_counts": {
+      "0": {
+        "3.0": 16,
+        "0.5": 4
+      },
+      "1": {
+        "3.0": 17,
+        "0.5": 3
+      },
+      "2": {
+        "3.0": 15,
+        "0.5": 5
+      },
+      "3": {
+        "3.0": 13,
+        "0.5": 7
+      },
+      "4": {
+        "3.0": 14,
+        "0.5": 6
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 5,
+        "losses": 0
+      },
+      "1": {
+        "wins": 5,
+        "losses": 2
+      },
+      "2": {
+        "wins": 5,
+        "losses": 0
+      },
+      "3": {
+        "wins": 5,
+        "losses": 0
+      },
+      "4": {
+        "wins": 5,
+        "losses": 0
+      },
+      "5": {
+        "wins": 5,
+        "losses": 1
+      },
+      "6": {
+        "wins": 5,
+        "losses": 6
+      },
+      "7": {
+        "wins": 5,
+        "losses": 1
+      },
+      "8": {
+        "wins": 5,
+        "losses": 3
+      },
+      "9": {
+        "wins": 5,
+        "losses": 5
+      },
+      "10": {
+        "wins": 5,
+        "losses": 0
+      },
+      "11": {
+        "wins": 5,
+        "losses": 2
+      },
+      "12": {
+        "wins": 5,
+        "losses": 0
+      },
+      "13": {
+        "wins": 5,
+        "losses": 9
+      },
+      "14": {
+        "wins": 5,
+        "losses": 1
+      },
+      "15": {
+        "wins": 5,
+        "losses": 5
+      },
+      "16": {
+        "wins": 5,
+        "losses": 0
+      },
+      "17": {
+        "wins": 5,
+        "losses": 5
+      },
+      "18": {
+        "wins": 5,
+        "losses": 1
+      },
+      "19": {
+        "wins": 5,
+        "losses": 1
+      }
+    },
+    "schedule_sha256": "5f316a287a5edb304d60ddf852d05f0e4e9a704fcba3f1d9a8112b6d34f15f6d",
+    "runtime_seconds": 0.020919800000001487
+  },
+  {
+    "instance": "ft20",
+    "seed": 410002,
+    "scenario_sha256": "b14c53aaca86071257df70a8ebc73df993d81a719033b0d8063894248a2dd242",
+    "method": "ATC_LOCAL",
+    "makespan": 1678.3047205869225,
+    "total_tardiness": 1108.2024127165337,
+    "normalized_tardiness": 0.21691180519016123,
+    "valid": true,
+    "runtime_seconds": 0.02291689999992741
+  },
+  {
+    "instance": "ft20",
+    "seed": 410002,
+    "scenario_sha256": "b14c53aaca86071257df70a8ebc73df993d81a719033b0d8063894248a2dd242",
+    "method": "LOCAL_FIXED",
+    "policy": "fixed",
+    "valid": true,
+    "makespan": 1678.3047205869225,
+    "total_tardiness": 1108.2024127165337,
+    "normalized_tardiness": 0.21691180519016123,
+    "completed_jobs": 20,
+    "auctions": 100,
+    "contested_auctions": 49,
+    "changed_winners_vs_fixed_on_same_queue": 0,
+    "logical_message_deliveries": 732,
+    "machine_k_counts": {
+      "0": {
+        "2.0": 20
+      },
+      "1": {
+        "2.0": 20
+      },
+      "2": {
+        "2.0": 20
+      },
+      "3": {
+        "2.0": 20
+      },
+      "4": {
+        "2.0": 20
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 5,
+        "losses": 1
+      },
+      "1": {
+        "wins": 5,
+        "losses": 3
+      },
+      "2": {
+        "wins": 5,
+        "losses": 9
+      },
+      "3": {
+        "wins": 5,
+        "losses": 0
+      },
+      "4": {
+        "wins": 5,
+        "losses": 0
+      },
+      "5": {
+        "wins": 5,
+        "losses": 4
+      },
+      "6": {
+        "wins": 5,
+        "losses": 4
+      },
+      "7": {
+        "wins": 5,
+        "losses": 3
+      },
+      "8": {
+        "wins": 5,
+        "losses": 10
+      },
+      "9": {
+        "wins": 5,
+        "losses": 4
+      },
+      "10": {
+        "wins": 5,
+        "losses": 4
+      },
+      "11": {
+        "wins": 5,
+        "losses": 2
+      },
+      "12": {
+        "wins": 5,
+        "losses": 1
+      },
+      "13": {
+        "wins": 5,
+        "losses": 9
+      },
+      "14": {
+        "wins": 5,
+        "losses": 0
+      },
+      "15": {
+        "wins": 5,
+        "losses": 5
+      },
+      "16": {
+        "wins": 5,
+        "losses": 4
+      },
+      "17": {
+        "wins": 5,
+        "losses": 9
+      },
+      "18": {
+        "wins": 5,
+        "losses": 11
+      },
+      "19": {
+        "wins": 5,
+        "losses": 0
+      }
+    },
+    "schedule_sha256": "4068549a0e2dfb683304f64d2063b855bea6d6fd5b65b06f6d7eb05769ab0479",
+    "runtime_seconds": 0.023517699999956676
+  },
+  {
+    "instance": "ft20",
+    "seed": 410002,
+    "scenario_sha256": "b14c53aaca86071257df70a8ebc73df993d81a719033b0d8063894248a2dd242",
+    "method": "LOCAL_RULES",
+    "policy": "local",
+    "valid": true,
+    "makespan": 1678.3047205869225,
+    "total_tardiness": 1239.8563749921432,
+    "normalized_tardiness": 0.24268083284246295,
+    "completed_jobs": 20,
+    "auctions": 100,
+    "contested_auctions": 46,
+    "changed_winners_vs_fixed_on_same_queue": 5,
+    "logical_message_deliveries": 708,
+    "machine_k_counts": {
+      "0": {
+        "3.0": 15,
+        "0.5": 5
+      },
+      "1": {
+        "3.0": 15,
+        "0.5": 5
+      },
+      "2": {
+        "3.0": 13,
+        "0.5": 7
+      },
+      "3": {
+        "3.0": 7,
+        "0.5": 13
+      },
+      "4": {
+        "3.0": 7,
+        "0.5": 13
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 5,
+        "losses": 1
+      },
+      "1": {
+        "wins": 5,
+        "losses": 3
+      },
+      "2": {
+        "wins": 5,
+        "losses": 8
+      },
+      "3": {
+        "wins": 5,
+        "losses": 0
+      },
+      "4": {
+        "wins": 5,
+        "losses": 0
+      },
+      "5": {
+        "wins": 5,
+        "losses": 6
+      },
+      "6": {
+        "wins": 5,
+        "losses": 2
+      },
+      "7": {
+        "wins": 5,
+        "losses": 3
+      },
+      "8": {
+        "wins": 5,
+        "losses": 8
+      },
+      "9": {
+        "wins": 5,
+        "losses": 4
+      },
+      "10": {
+        "wins": 5,
+        "losses": 3
+      },
+      "11": {
+        "wins": 5,
+        "losses": 0
+      },
+      "12": {
+        "wins": 5,
+        "losses": 1
+      },
+      "13": {
+        "wins": 5,
+        "losses": 8
+      },
+      "14": {
+        "wins": 5,
+        "losses": 0
+      },
+      "15": {
+        "wins": 5,
+        "losses": 7
+      },
+      "16": {
+        "wins": 5,
+        "losses": 4
+      },
+      "17": {
+        "wins": 5,
+        "losses": 7
+      },
+      "18": {
+        "wins": 5,
+        "losses": 12
+      },
+      "19": {
+        "wins": 5,
+        "losses": 0
+      }
+    },
+    "schedule_sha256": "6c96afc3a2baf43be0c78a75063f960bee0ad5d897e01e7bb7fd22c261636f63",
+    "runtime_seconds": 0.02335610000000088
+  },
+  {
+    "instance": "ft20",
+    "seed": 410003,
+    "scenario_sha256": "8746ead3c49504742de8d81e5b80cf68b90329174d31067c85f0b89d564273e2",
+    "method": "ATC_LOCAL",
+    "makespan": 1831.0978082193083,
+    "total_tardiness": 292.6641181359896,
+    "normalized_tardiness": 0.057284031735366926,
+    "valid": true,
+    "runtime_seconds": 0.021347300000115865
+  },
+  {
+    "instance": "ft20",
+    "seed": 410003,
+    "scenario_sha256": "8746ead3c49504742de8d81e5b80cf68b90329174d31067c85f0b89d564273e2",
+    "method": "LOCAL_FIXED",
+    "policy": "fixed",
+    "valid": true,
+    "makespan": 1831.0978082193083,
+    "total_tardiness": 292.6641181359896,
+    "normalized_tardiness": 0.057284031735366926,
+    "completed_jobs": 20,
+    "auctions": 100,
+    "contested_auctions": 33,
+    "changed_winners_vs_fixed_on_same_queue": 0,
+    "logical_message_deliveries": 596,
+    "machine_k_counts": {
+      "0": {
+        "2.0": 20
+      },
+      "1": {
+        "2.0": 20
+      },
+      "2": {
+        "2.0": 20
+      },
+      "3": {
+        "2.0": 20
+      },
+      "4": {
+        "2.0": 20
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 5,
+        "losses": 1
+      },
+      "1": {
+        "wins": 5,
+        "losses": 0
+      },
+      "2": {
+        "wins": 5,
+        "losses": 5
+      },
+      "3": {
+        "wins": 5,
+        "losses": 0
+      },
+      "4": {
+        "wins": 5,
+        "losses": 0
+      },
+      "5": {
+        "wins": 5,
+        "losses": 4
+      },
+      "6": {
+        "wins": 5,
+        "losses": 3
+      },
+      "7": {
+        "wins": 5,
+        "losses": 2
+      },
+      "8": {
+        "wins": 5,
+        "losses": 11
+      },
+      "9": {
+        "wins": 5,
+        "losses": 7
+      },
+      "10": {
+        "wins": 5,
+        "losses": 0
+      },
+      "11": {
+        "wins": 5,
+        "losses": 1
+      },
+      "12": {
+        "wins": 5,
+        "losses": 3
+      },
+      "13": {
+        "wins": 5,
+        "losses": 3
+      },
+      "14": {
+        "wins": 5,
+        "losses": 5
+      },
+      "15": {
+        "wins": 5,
+        "losses": 1
+      },
+      "16": {
+        "wins": 5,
+        "losses": 1
+      },
+      "17": {
+        "wins": 5,
+        "losses": 0
+      },
+      "18": {
+        "wins": 5,
+        "losses": 1
+      },
+      "19": {
+        "wins": 5,
+        "losses": 1
+      }
+    },
+    "schedule_sha256": "67c541cc07e35c3d61b1ce27c71d8b1775cd42f1441103792455a35967bbc098",
+    "runtime_seconds": 0.020534900000029666
+  },
+  {
+    "instance": "ft20",
+    "seed": 410003,
+    "scenario_sha256": "8746ead3c49504742de8d81e5b80cf68b90329174d31067c85f0b89d564273e2",
+    "method": "LOCAL_RULES",
+    "policy": "local",
+    "valid": true,
+    "makespan": 1811.0978082193083,
+    "total_tardiness": 292.4548794758339,
+    "normalized_tardiness": 0.057243076820480306,
+    "completed_jobs": 20,
+    "auctions": 100,
+    "contested_auctions": 33,
+    "changed_winners_vs_fixed_on_same_queue": 2,
+    "logical_message_deliveries": 600,
+    "machine_k_counts": {
+      "0": {
+        "3.0": 20
+      },
+      "1": {
+        "3.0": 19,
+        "0.5": 1
+      },
+      "2": {
+        "3.0": 18,
+        "0.5": 2
+      },
+      "3": {
+        "3.0": 10,
+        "0.5": 10
+      },
+      "4": {
+        "3.0": 13,
+        "0.5": 7
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 5,
+        "losses": 1
+      },
+      "1": {
+        "wins": 5,
+        "losses": 0
+      },
+      "2": {
+        "wins": 5,
+        "losses": 6
+      },
+      "3": {
+        "wins": 5,
+        "losses": 0
+      },
+      "4": {
+        "wins": 5,
+        "losses": 0
+      },
+      "5": {
+        "wins": 5,
+        "losses": 5
+      },
+      "6": {
+        "wins": 5,
+        "losses": 3
+      },
+      "7": {
+        "wins": 5,
+        "losses": 2
+      },
+      "8": {
+        "wins": 5,
+        "losses": 9
+      },
+      "9": {
+        "wins": 5,
+        "losses": 7
+      },
+      "10": {
+        "wins": 5,
+        "losses": 0
+      },
+      "11": {
+        "wins": 5,
+        "losses": 1
+      },
+      "12": {
+        "wins": 5,
+        "losses": 2
+      },
+      "13": {
+        "wins": 5,
+        "losses": 3
+      },
+      "14": {
+        "wins": 5,
+        "losses": 7
+      },
+      "15": {
+        "wins": 5,
+        "losses": 1
+      },
+      "16": {
+        "wins": 5,
+        "losses": 1
+      },
+      "17": {
+        "wins": 5,
+        "losses": 0
+      },
+      "18": {
+        "wins": 5,
+        "losses": 1
+      },
+      "19": {
+        "wins": 5,
+        "losses": 1
+      }
+    },
+    "schedule_sha256": "1c0a4841e7e1bb7ac59fa8b7745a047a9ab3eee0eaba3dd39d4fef9a81ae4ac7",
+    "runtime_seconds": 0.02042580000011185
+  },
+  {
+    "instance": "ft20",
+    "seed": 410004,
+    "scenario_sha256": "932b490e955771c1b81ca37cab032a36cac433020bb77bc00a9c18213ddc03d1",
+    "method": "ATC_LOCAL",
+    "makespan": 1783.287613606923,
+    "total_tardiness": 1517.2800272171498,
+    "normalized_tardiness": 0.29698180215642,
+    "valid": true,
+    "runtime_seconds": 0.020727000000078988
+  },
+  {
+    "instance": "ft20",
+    "seed": 410004,
+    "scenario_sha256": "932b490e955771c1b81ca37cab032a36cac433020bb77bc00a9c18213ddc03d1",
+    "method": "LOCAL_FIXED",
+    "policy": "fixed",
+    "valid": true,
+    "makespan": 1783.287613606923,
+    "total_tardiness": 1517.2800272171498,
+    "normalized_tardiness": 0.29698180215642,
+    "completed_jobs": 20,
+    "auctions": 100,
+    "contested_auctions": 45,
+    "changed_winners_vs_fixed_on_same_queue": 0,
+    "logical_message_deliveries": 708,
+    "machine_k_counts": {
+      "0": {
+        "2.0": 20
+      },
+      "1": {
+        "2.0": 20
+      },
+      "2": {
+        "2.0": 20
+      },
+      "3": {
+        "2.0": 20
+      },
+      "4": {
+        "2.0": 20
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 5,
+        "losses": 2
+      },
+      "1": {
+        "wins": 5,
+        "losses": 5
+      },
+      "2": {
+        "wins": 5,
+        "losses": 3
+      },
+      "3": {
+        "wins": 5,
+        "losses": 4
+      },
+      "4": {
+        "wins": 5,
+        "losses": 1
+      },
+      "5": {
+        "wins": 5,
+        "losses": 5
+      },
+      "6": {
+        "wins": 5,
+        "losses": 3
+      },
+      "7": {
+        "wins": 5,
+        "losses": 2
+      },
+      "8": {
+        "wins": 5,
+        "losses": 11
+      },
+      "9": {
+        "wins": 5,
+        "losses": 2
+      },
+      "10": {
+        "wins": 5,
+        "losses": 2
+      },
+      "11": {
+        "wins": 5,
+        "losses": 0
+      },
+      "12": {
+        "wins": 5,
+        "losses": 3
+      },
+      "13": {
+        "wins": 5,
+        "losses": 8
+      },
+      "14": {
+        "wins": 5,
+        "losses": 1
+      },
+      "15": {
+        "wins": 5,
+        "losses": 9
+      },
+      "16": {
+        "wins": 5,
+        "losses": 4
+      },
+      "17": {
+        "wins": 5,
+        "losses": 3
+      },
+      "18": {
+        "wins": 5,
+        "losses": 8
+      },
+      "19": {
+        "wins": 5,
+        "losses": 1
+      }
+    },
+    "schedule_sha256": "972b7ad6494d93a1bb55a5e5c21d24ea2a1a15696506b7be0254804d45d07fa6",
+    "runtime_seconds": 0.02179030000002058
+  },
+  {
+    "instance": "ft20",
+    "seed": 410004,
+    "scenario_sha256": "932b490e955771c1b81ca37cab032a36cac433020bb77bc00a9c18213ddc03d1",
+    "method": "LOCAL_RULES",
+    "policy": "local",
+    "valid": true,
+    "makespan": 1789.287613606923,
+    "total_tardiness": 1468.656415372377,
+    "normalized_tardiness": 0.2874645557589307,
+    "completed_jobs": 20,
+    "auctions": 100,
+    "contested_auctions": 48,
+    "changed_winners_vs_fixed_on_same_queue": 2,
+    "logical_message_deliveries": 728,
+    "machine_k_counts": {
+      "0": {
+        "3.0": 17,
+        "0.5": 3
+      },
+      "1": {
+        "3.0": 15,
+        "0.5": 5
+      },
+      "2": {
+        "3.0": 12,
+        "0.5": 8
+      },
+      "3": {
+        "3.0": 4,
+        "0.5": 16
+      },
+      "4": {
+        "3.0": 5,
+        "0.5": 15
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 5,
+        "losses": 3
+      },
+      "1": {
+        "wins": 5,
+        "losses": 6
+      },
+      "2": {
+        "wins": 5,
+        "losses": 3
+      },
+      "3": {
+        "wins": 5,
+        "losses": 4
+      },
+      "4": {
+        "wins": 5,
+        "losses": 1
+      },
+      "5": {
+        "wins": 5,
+        "losses": 5
+      },
+      "6": {
+        "wins": 5,
+        "losses": 4
+      },
+      "7": {
+        "wins": 5,
+        "losses": 3
+      },
+      "8": {
+        "wins": 5,
+        "losses": 11
+      },
+      "9": {
+        "wins": 5,
+        "losses": 2
+      },
+      "10": {
+        "wins": 5,
+        "losses": 2
+      },
+      "11": {
+        "wins": 5,
+        "losses": 0
+      },
+      "12": {
+        "wins": 5,
+        "losses": 3
+      },
+      "13": {
+        "wins": 5,
+        "losses": 8
+      },
+      "14": {
+        "wins": 5,
+        "losses": 2
+      },
+      "15": {
+        "wins": 5,
+        "losses": 9
+      },
+      "16": {
+        "wins": 5,
+        "losses": 9
+      },
+      "17": {
+        "wins": 5,
+        "losses": 3
+      },
+      "18": {
+        "wins": 5,
+        "losses": 2
+      },
+      "19": {
+        "wins": 5,
+        "losses": 2
+      }
+    },
+    "schedule_sha256": "0790d3bcae4e061faf5a10d9d45c972012a1f690154c415728476e220e967fbc",
+    "runtime_seconds": 0.024191900000005262
+  },
+  {
+    "instance": "ft20",
+    "seed": 410005,
+    "scenario_sha256": "40fc4c60785197876e78b45c2e45d8b31b00c7416854fc81bbabb9d5d2215aa4",
+    "method": "ATC_LOCAL",
+    "makespan": 1750.9961882120701,
+    "total_tardiness": 913.3802104770032,
+    "normalized_tardiness": 0.17877866715149798,
+    "valid": true,
+    "runtime_seconds": 0.02088210000010804
+  },
+  {
+    "instance": "ft20",
+    "seed": 410005,
+    "scenario_sha256": "40fc4c60785197876e78b45c2e45d8b31b00c7416854fc81bbabb9d5d2215aa4",
+    "method": "LOCAL_FIXED",
+    "policy": "fixed",
+    "valid": true,
+    "makespan": 1750.9961882120701,
+    "total_tardiness": 913.3802104770032,
+    "normalized_tardiness": 0.17877866715149798,
+    "completed_jobs": 20,
+    "auctions": 100,
+    "contested_auctions": 32,
+    "changed_winners_vs_fixed_on_same_queue": 0,
+    "logical_message_deliveries": 652,
+    "machine_k_counts": {
+      "0": {
+        "2.0": 20
+      },
+      "1": {
+        "2.0": 20
+      },
+      "2": {
+        "2.0": 20
+      },
+      "3": {
+        "2.0": 20
+      },
+      "4": {
+        "2.0": 20
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 5,
+        "losses": 1
+      },
+      "1": {
+        "wins": 5,
+        "losses": 0
+      },
+      "2": {
+        "wins": 5,
+        "losses": 5
+      },
+      "3": {
+        "wins": 5,
+        "losses": 2
+      },
+      "4": {
+        "wins": 5,
+        "losses": 0
+      },
+      "5": {
+        "wins": 5,
+        "losses": 0
+      },
+      "6": {
+        "wins": 5,
+        "losses": 0
+      },
+      "7": {
+        "wins": 5,
+        "losses": 0
+      },
+      "8": {
+        "wins": 5,
+        "losses": 6
+      },
+      "9": {
+        "wins": 5,
+        "losses": 8
+      },
+      "10": {
+        "wins": 5,
+        "losses": 0
+      },
+      "11": {
+        "wins": 5,
+        "losses": 4
+      },
+      "12": {
+        "wins": 5,
+        "losses": 0
+      },
+      "13": {
+        "wins": 5,
+        "losses": 8
+      },
+      "14": {
+        "wins": 5,
+        "losses": 7
+      },
+      "15": {
+        "wins": 5,
+        "losses": 0
+      },
+      "16": {
+        "wins": 5,
+        "losses": 7
+      },
+      "17": {
+        "wins": 5,
+        "losses": 10
+      },
+      "18": {
+        "wins": 5,
+        "losses": 4
+      },
+      "19": {
+        "wins": 5,
+        "losses": 1
+      }
+    },
+    "schedule_sha256": "a23425b1cfcdbf76c56c4691b61326e8c67db4ac85e2bace856f1b90cbaf5b2e",
+    "runtime_seconds": 0.020805699999982608
+  },
+  {
+    "instance": "ft20",
+    "seed": 410005,
+    "scenario_sha256": "40fc4c60785197876e78b45c2e45d8b31b00c7416854fc81bbabb9d5d2215aa4",
+    "method": "LOCAL_RULES",
+    "policy": "local",
+    "valid": true,
+    "makespan": 1728.9961882120701,
+    "total_tardiness": 894.8518493634167,
+    "normalized_tardiness": 0.17515205507211132,
+    "completed_jobs": 20,
+    "auctions": 100,
+    "contested_auctions": 31,
+    "changed_winners_vs_fixed_on_same_queue": 3,
+    "logical_message_deliveries": 620,
+    "machine_k_counts": {
+      "0": {
+        "3.0": 14,
+        "0.5": 6
+      },
+      "1": {
+        "3.0": 15,
+        "0.5": 5
+      },
+      "2": {
+        "3.0": 12,
+        "0.5": 8
+      },
+      "3": {
+        "3.0": 8,
+        "0.5": 12
+      },
+      "4": {
+        "3.0": 9,
+        "0.5": 11
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 5,
+        "losses": 3
+      },
+      "1": {
+        "wins": 5,
+        "losses": 0
+      },
+      "2": {
+        "wins": 5,
+        "losses": 8
+      },
+      "3": {
+        "wins": 5,
+        "losses": 2
+      },
+      "4": {
+        "wins": 5,
+        "losses": 0
+      },
+      "5": {
+        "wins": 5,
+        "losses": 0
+      },
+      "6": {
+        "wins": 5,
+        "losses": 0
+      },
+      "7": {
+        "wins": 5,
+        "losses": 0
+      },
+      "8": {
+        "wins": 5,
+        "losses": 2
+      },
+      "9": {
+        "wins": 5,
+        "losses": 9
+      },
+      "10": {
+        "wins": 5,
+        "losses": 0
+      },
+      "11": {
+        "wins": 5,
+        "losses": 4
+      },
+      "12": {
+        "wins": 5,
+        "losses": 0
+      },
+      "13": {
+        "wins": 5,
+        "losses": 6
+      },
+      "14": {
+        "wins": 5,
+        "losses": 3
+      },
+      "15": {
+        "wins": 5,
+        "losses": 0
+      },
+      "16": {
+        "wins": 5,
+        "losses": 5
+      },
+      "17": {
+        "wins": 5,
+        "losses": 8
+      },
+      "18": {
+        "wins": 5,
+        "losses": 4
+      },
+      "19": {
+        "wins": 5,
+        "losses": 1
+      }
+    },
+    "schedule_sha256": "2c4b9403fd07f4dcae849bbf7a6ac6e81d8e050e2a542232ebab357c74281d61",
+    "runtime_seconds": 0.01952720000008412
+  },
+  {
+    "instance": "ft20",
+    "seed": 410006,
+    "scenario_sha256": "5474066a740bd9ef26cf18252414e9ecdf84166aecab50908928a9836573fac9",
+    "method": "ATC_LOCAL",
+    "makespan": 1647.5912856983916,
+    "total_tardiness": 524.620111287818,
+    "normalized_tardiness": 0.10268547881930279,
+    "valid": true,
+    "runtime_seconds": 0.02193529999999555
+  },
+  {
+    "instance": "ft20",
+    "seed": 410006,
+    "scenario_sha256": "5474066a740bd9ef26cf18252414e9ecdf84166aecab50908928a9836573fac9",
+    "method": "LOCAL_FIXED",
+    "policy": "fixed",
+    "valid": true,
+    "makespan": 1647.5912856983916,
+    "total_tardiness": 524.620111287818,
+    "normalized_tardiness": 0.10268547881930279,
+    "completed_jobs": 20,
+    "auctions": 100,
+    "contested_auctions": 27,
+    "changed_winners_vs_fixed_on_same_queue": 0,
+    "logical_message_deliveries": 536,
+    "machine_k_counts": {
+      "0": {
+        "2.0": 20
+      },
+      "1": {
+        "2.0": 20
+      },
+      "2": {
+        "2.0": 20
+      },
+      "3": {
+        "2.0": 20
+      },
+      "4": {
+        "2.0": 20
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 5,
+        "losses": 1
+      },
+      "1": {
+        "wins": 5,
+        "losses": 0
+      },
+      "2": {
+        "wins": 5,
+        "losses": 7
+      },
+      "3": {
+        "wins": 5,
+        "losses": 4
+      },
+      "4": {
+        "wins": 5,
+        "losses": 0
+      },
+      "5": {
+        "wins": 5,
+        "losses": 0
+      },
+      "6": {
+        "wins": 5,
+        "losses": 2
+      },
+      "7": {
+        "wins": 5,
+        "losses": 1
+      },
+      "8": {
+        "wins": 5,
+        "losses": 1
+      },
+      "9": {
+        "wins": 5,
+        "losses": 1
+      },
+      "10": {
+        "wins": 5,
+        "losses": 0
+      },
+      "11": {
+        "wins": 5,
+        "losses": 0
+      },
+      "12": {
+        "wins": 5,
+        "losses": 0
+      },
+      "13": {
+        "wins": 5,
+        "losses": 4
+      },
+      "14": {
+        "wins": 5,
+        "losses": 5
+      },
+      "15": {
+        "wins": 5,
+        "losses": 5
+      },
+      "16": {
+        "wins": 5,
+        "losses": 0
+      },
+      "17": {
+        "wins": 5,
+        "losses": 2
+      },
+      "18": {
+        "wins": 5,
+        "losses": 0
+      },
+      "19": {
+        "wins": 5,
+        "losses": 1
+      }
+    },
+    "schedule_sha256": "d21e28dfc818ba037e0ee9b29f7a170465ab672fd19ea4eb6877cf02439a89f6",
+    "runtime_seconds": 0.021414900000081616
+  },
+  {
+    "instance": "ft20",
+    "seed": 410006,
+    "scenario_sha256": "5474066a740bd9ef26cf18252414e9ecdf84166aecab50908928a9836573fac9",
+    "method": "LOCAL_RULES",
+    "policy": "local",
+    "valid": true,
+    "makespan": 1647.5912856983916,
+    "total_tardiness": 524.620111287818,
+    "normalized_tardiness": 0.10268547881930279,
+    "completed_jobs": 20,
+    "auctions": 100,
+    "contested_auctions": 27,
+    "changed_winners_vs_fixed_on_same_queue": 1,
+    "logical_message_deliveries": 536,
+    "machine_k_counts": {
+      "0": {
+        "3.0": 15,
+        "0.5": 5
+      },
+      "1": {
+        "3.0": 17,
+        "0.5": 3
+      },
+      "2": {
+        "3.0": 15,
+        "0.5": 5
+      },
+      "3": {
+        "3.0": 14,
+        "0.5": 6
+      },
+      "4": {
+        "3.0": 13,
+        "0.5": 7
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 5,
+        "losses": 2
+      },
+      "1": {
+        "wins": 5,
+        "losses": 0
+      },
+      "2": {
+        "wins": 5,
+        "losses": 7
+      },
+      "3": {
+        "wins": 5,
+        "losses": 4
+      },
+      "4": {
+        "wins": 5,
+        "losses": 0
+      },
+      "5": {
+        "wins": 5,
+        "losses": 0
+      },
+      "6": {
+        "wins": 5,
+        "losses": 2
+      },
+      "7": {
+        "wins": 5,
+        "losses": 1
+      },
+      "8": {
+        "wins": 5,
+        "losses": 1
+      },
+      "9": {
+        "wins": 5,
+        "losses": 1
+      },
+      "10": {
+        "wins": 5,
+        "losses": 0
+      },
+      "11": {
+        "wins": 5,
+        "losses": 0
+      },
+      "12": {
+        "wins": 5,
+        "losses": 0
+      },
+      "13": {
+        "wins": 5,
+        "losses": 4
+      },
+      "14": {
+        "wins": 5,
+        "losses": 5
+      },
+      "15": {
+        "wins": 5,
+        "losses": 4
+      },
+      "16": {
+        "wins": 5,
+        "losses": 0
+      },
+      "17": {
+        "wins": 5,
+        "losses": 2
+      },
+      "18": {
+        "wins": 5,
+        "losses": 0
+      },
+      "19": {
+        "wins": 5,
+        "losses": 1
+      }
+    },
+    "schedule_sha256": "808467dd77ceba1b1d18d448bc5c40daefcc6753d2eac7c3bcece5165bff7256",
+    "runtime_seconds": 0.019780399999945075
+  },
+  {
+    "instance": "ft20",
+    "seed": 410007,
+    "scenario_sha256": "4551b9a66b3ef5fe4a6d2c68474caec974cdf6b0400ada6e139dd8c91ad13211",
+    "method": "ATC_LOCAL",
+    "makespan": 1613.5347822678245,
+    "total_tardiness": 1796.084533578084,
+    "normalized_tardiness": 0.35155305022080324,
+    "valid": true,
+    "runtime_seconds": 0.023893400000133624
+  },
+  {
+    "instance": "ft20",
+    "seed": 410007,
+    "scenario_sha256": "4551b9a66b3ef5fe4a6d2c68474caec974cdf6b0400ada6e139dd8c91ad13211",
+    "method": "LOCAL_FIXED",
+    "policy": "fixed",
+    "valid": true,
+    "makespan": 1613.5347822678245,
+    "total_tardiness": 1796.084533578084,
+    "normalized_tardiness": 0.35155305022080324,
+    "completed_jobs": 20,
+    "auctions": 100,
+    "contested_auctions": 44,
+    "changed_winners_vs_fixed_on_same_queue": 0,
+    "logical_message_deliveries": 728,
+    "machine_k_counts": {
+      "0": {
+        "2.0": 20
+      },
+      "1": {
+        "2.0": 20
+      },
+      "2": {
+        "2.0": 20
+      },
+      "3": {
+        "2.0": 20
+      },
+      "4": {
+        "2.0": 20
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 5,
+        "losses": 10
+      },
+      "1": {
+        "wins": 5,
+        "losses": 1
+      },
+      "2": {
+        "wins": 5,
+        "losses": 0
+      },
+      "3": {
+        "wins": 5,
+        "losses": 10
+      },
+      "4": {
+        "wins": 5,
+        "losses": 6
+      },
+      "5": {
+        "wins": 5,
+        "losses": 1
+      },
+      "6": {
+        "wins": 5,
+        "losses": 3
+      },
+      "7": {
+        "wins": 5,
+        "losses": 0
+      },
+      "8": {
+        "wins": 5,
+        "losses": 4
+      },
+      "9": {
+        "wins": 5,
+        "losses": 14
+      },
+      "10": {
+        "wins": 5,
+        "losses": 4
+      },
+      "11": {
+        "wins": 5,
+        "losses": 0
+      },
+      "12": {
+        "wins": 5,
+        "losses": 11
+      },
+      "13": {
+        "wins": 5,
+        "losses": 11
+      },
+      "14": {
+        "wins": 5,
+        "losses": 1
+      },
+      "15": {
+        "wins": 5,
+        "losses": 2
+      },
+      "16": {
+        "wins": 5,
+        "losses": 0
+      },
+      "17": {
+        "wins": 5,
+        "losses": 0
+      },
+      "18": {
+        "wins": 5,
+        "losses": 2
+      },
+      "19": {
+        "wins": 5,
+        "losses": 2
+      }
+    },
+    "schedule_sha256": "fe1726f60978fc8e589b1de5fb92af248953855b22a0a1b00a88c16ede5cc670",
+    "runtime_seconds": 0.024111299999958646
+  },
+  {
+    "instance": "ft20",
+    "seed": 410007,
+    "scenario_sha256": "4551b9a66b3ef5fe4a6d2c68474caec974cdf6b0400ada6e139dd8c91ad13211",
+    "method": "LOCAL_RULES",
+    "policy": "local",
+    "valid": true,
+    "makespan": 1613.5347822678245,
+    "total_tardiness": 1773.084533578084,
+    "normalized_tardiness": 0.3470511907571117,
+    "completed_jobs": 20,
+    "auctions": 100,
+    "contested_auctions": 44,
+    "changed_winners_vs_fixed_on_same_queue": 4,
+    "logical_message_deliveries": 744,
+    "machine_k_counts": {
+      "0": {
+        "3.0": 15,
+        "0.5": 5
+      },
+      "1": {
+        "3.0": 15,
+        "0.5": 5
+      },
+      "2": {
+        "3.0": 8,
+        "0.5": 12
+      },
+      "3": {
+        "0.5": 14,
+        "3.0": 6
+      },
+      "4": {
+        "3.0": 7,
+        "0.5": 13
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 5,
+        "losses": 9
+      },
+      "1": {
+        "wins": 5,
+        "losses": 2
+      },
+      "2": {
+        "wins": 5,
+        "losses": 0
+      },
+      "3": {
+        "wins": 5,
+        "losses": 10
+      },
+      "4": {
+        "wins": 5,
+        "losses": 7
+      },
+      "5": {
+        "wins": 5,
+        "losses": 3
+      },
+      "6": {
+        "wins": 5,
+        "losses": 3
+      },
+      "7": {
+        "wins": 5,
+        "losses": 0
+      },
+      "8": {
+        "wins": 5,
+        "losses": 4
+      },
+      "9": {
+        "wins": 5,
+        "losses": 12
+      },
+      "10": {
+        "wins": 5,
+        "losses": 5
+      },
+      "11": {
+        "wins": 5,
+        "losses": 0
+      },
+      "12": {
+        "wins": 5,
+        "losses": 12
+      },
+      "13": {
+        "wins": 5,
+        "losses": 11
+      },
+      "14": {
+        "wins": 5,
+        "losses": 1
+      },
+      "15": {
+        "wins": 5,
+        "losses": 3
+      },
+      "16": {
+        "wins": 5,
+        "losses": 0
+      },
+      "17": {
+        "wins": 5,
+        "losses": 0
+      },
+      "18": {
+        "wins": 5,
+        "losses": 2
+      },
+      "19": {
+        "wins": 5,
+        "losses": 2
+      }
+    },
+    "schedule_sha256": "05d6ca376b3bf8841ceb1224504d759a3711b3b36b995c5529d2ec70b513095c",
+    "runtime_seconds": 0.02281330000005255
+  },
+  {
+    "instance": "ft20",
+    "seed": 410008,
+    "scenario_sha256": "8fd154d683fa0b59fc1e8e3e17c1082a3422a3aef18066e023f9a1c3af11ce20",
+    "method": "ATC_LOCAL",
+    "makespan": 1739.0255956164867,
+    "total_tardiness": 1124.8733724502515,
+    "normalized_tardiness": 0.22017486248781593,
+    "valid": true,
+    "runtime_seconds": 0.020456299999978
+  },
+  {
+    "instance": "ft20",
+    "seed": 410008,
+    "scenario_sha256": "8fd154d683fa0b59fc1e8e3e17c1082a3422a3aef18066e023f9a1c3af11ce20",
+    "method": "LOCAL_FIXED",
+    "policy": "fixed",
+    "valid": true,
+    "makespan": 1739.0255956164867,
+    "total_tardiness": 1124.8733724502515,
+    "normalized_tardiness": 0.22017486248781593,
+    "completed_jobs": 20,
+    "auctions": 100,
+    "contested_auctions": 37,
+    "changed_winners_vs_fixed_on_same_queue": 0,
+    "logical_message_deliveries": 680,
+    "machine_k_counts": {
+      "0": {
+        "2.0": 20
+      },
+      "1": {
+        "2.0": 20
+      },
+      "2": {
+        "2.0": 20
+      },
+      "3": {
+        "2.0": 20
+      },
+      "4": {
+        "2.0": 20
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 5,
+        "losses": 1
+      },
+      "1": {
+        "wins": 5,
+        "losses": 10
+      },
+      "2": {
+        "wins": 5,
+        "losses": 0
+      },
+      "3": {
+        "wins": 5,
+        "losses": 5
+      },
+      "4": {
+        "wins": 5,
+        "losses": 0
+      },
+      "5": {
+        "wins": 5,
+        "losses": 2
+      },
+      "6": {
+        "wins": 5,
+        "losses": 2
+      },
+      "7": {
+        "wins": 5,
+        "losses": 0
+      },
+      "8": {
+        "wins": 5,
+        "losses": 7
+      },
+      "9": {
+        "wins": 5,
+        "losses": 6
+      },
+      "10": {
+        "wins": 5,
+        "losses": 7
+      },
+      "11": {
+        "wins": 5,
+        "losses": 6
+      },
+      "12": {
+        "wins": 5,
+        "losses": 9
+      },
+      "13": {
+        "wins": 5,
+        "losses": 2
+      },
+      "14": {
+        "wins": 5,
+        "losses": 3
+      },
+      "15": {
+        "wins": 5,
+        "losses": 1
+      },
+      "16": {
+        "wins": 5,
+        "losses": 0
+      },
+      "17": {
+        "wins": 5,
+        "losses": 8
+      },
+      "18": {
+        "wins": 5,
+        "losses": 0
+      },
+      "19": {
+        "wins": 5,
+        "losses": 1
+      }
+    },
+    "schedule_sha256": "09d0addc5d5a4e2be6ff0403705ac329b79dfe06585c31a29dbfa3f3006b7242",
+    "runtime_seconds": 0.02088030000004437
+  },
+  {
+    "instance": "ft20",
+    "seed": 410008,
+    "scenario_sha256": "8fd154d683fa0b59fc1e8e3e17c1082a3422a3aef18066e023f9a1c3af11ce20",
+    "method": "LOCAL_RULES",
+    "policy": "local",
+    "valid": true,
+    "makespan": 1689.0255956164867,
+    "total_tardiness": 1183.006465780954,
+    "normalized_tardiness": 0.2315534284167066,
+    "completed_jobs": 20,
+    "auctions": 100,
+    "contested_auctions": 38,
+    "changed_winners_vs_fixed_on_same_queue": 3,
+    "logical_message_deliveries": 692,
+    "machine_k_counts": {
+      "0": {
+        "3.0": 16,
+        "0.5": 4
+      },
+      "1": {
+        "3.0": 11,
+        "0.5": 9
+      },
+      "2": {
+        "3.0": 11,
+        "0.5": 9
+      },
+      "3": {
+        "3.0": 7,
+        "0.5": 13
+      },
+      "4": {
+        "3.0": 7,
+        "0.5": 13
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 5,
+        "losses": 1
+      },
+      "1": {
+        "wins": 5,
+        "losses": 12
+      },
+      "2": {
+        "wins": 5,
+        "losses": 0
+      },
+      "3": {
+        "wins": 5,
+        "losses": 5
+      },
+      "4": {
+        "wins": 5,
+        "losses": 0
+      },
+      "5": {
+        "wins": 5,
+        "losses": 2
+      },
+      "6": {
+        "wins": 5,
+        "losses": 2
+      },
+      "7": {
+        "wins": 5,
+        "losses": 0
+      },
+      "8": {
+        "wins": 5,
+        "losses": 7
+      },
+      "9": {
+        "wins": 5,
+        "losses": 3
+      },
+      "10": {
+        "wins": 5,
+        "losses": 8
+      },
+      "11": {
+        "wins": 5,
+        "losses": 7
+      },
+      "12": {
+        "wins": 5,
+        "losses": 9
+      },
+      "13": {
+        "wins": 5,
+        "losses": 2
+      },
+      "14": {
+        "wins": 5,
+        "losses": 2
+      },
+      "15": {
+        "wins": 5,
+        "losses": 1
+      },
+      "16": {
+        "wins": 5,
+        "losses": 0
+      },
+      "17": {
+        "wins": 5,
+        "losses": 11
+      },
+      "18": {
+        "wins": 5,
+        "losses": 0
+      },
+      "19": {
+        "wins": 5,
+        "losses": 1
+      }
+    },
+    "schedule_sha256": "99b54e6e152537b04551faa83e963e6d5f2089bb2b8d0e313058809eed13bafb",
+    "runtime_seconds": 0.02135309999994206
+  },
+  {
+    "instance": "ft20",
+    "seed": 410009,
+    "scenario_sha256": "5fb43abb4d1561d635583a6161fddcfcdd63c30fb5adc1b8c397503af26e159a",
+    "method": "ATC_LOCAL",
+    "makespan": 1508.3783720734707,
+    "total_tardiness": 889.6827981198716,
+    "normalized_tardiness": 0.17414030106084782,
+    "valid": true,
+    "runtime_seconds": 0.0234659999998712
+  },
+  {
+    "instance": "ft20",
+    "seed": 410009,
+    "scenario_sha256": "5fb43abb4d1561d635583a6161fddcfcdd63c30fb5adc1b8c397503af26e159a",
+    "method": "LOCAL_FIXED",
+    "policy": "fixed",
+    "valid": true,
+    "makespan": 1508.3783720734707,
+    "total_tardiness": 889.6827981198716,
+    "normalized_tardiness": 0.17414030106084782,
+    "completed_jobs": 20,
+    "auctions": 100,
+    "contested_auctions": 31,
+    "changed_winners_vs_fixed_on_same_queue": 0,
+    "logical_message_deliveries": 632,
+    "machine_k_counts": {
+      "0": {
+        "2.0": 20
+      },
+      "1": {
+        "2.0": 20
+      },
+      "2": {
+        "2.0": 20
+      },
+      "3": {
+        "2.0": 20
+      },
+      "4": {
+        "2.0": 20
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 5,
+        "losses": 1
+      },
+      "1": {
+        "wins": 5,
+        "losses": 1
+      },
+      "2": {
+        "wins": 5,
+        "losses": 4
+      },
+      "3": {
+        "wins": 5,
+        "losses": 0
+      },
+      "4": {
+        "wins": 5,
+        "losses": 0
+      },
+      "5": {
+        "wins": 5,
+        "losses": 3
+      },
+      "6": {
+        "wins": 5,
+        "losses": 0
+      },
+      "7": {
+        "wins": 5,
+        "losses": 1
+      },
+      "8": {
+        "wins": 5,
+        "losses": 4
+      },
+      "9": {
+        "wins": 5,
+        "losses": 4
+      },
+      "10": {
+        "wins": 5,
+        "losses": 4
+      },
+      "11": {
+        "wins": 5,
+        "losses": 7
+      },
+      "12": {
+        "wins": 5,
+        "losses": 0
+      },
+      "13": {
+        "wins": 5,
+        "losses": 5
+      },
+      "14": {
+        "wins": 5,
+        "losses": 0
+      },
+      "15": {
+        "wins": 5,
+        "losses": 6
+      },
+      "16": {
+        "wins": 5,
+        "losses": 0
+      },
+      "17": {
+        "wins": 5,
+        "losses": 3
+      },
+      "18": {
+        "wins": 5,
+        "losses": 11
+      },
+      "19": {
+        "wins": 5,
+        "losses": 4
+      }
+    },
+    "schedule_sha256": "fb1f2447324f9b049ee2a0c0d503a740d4b1fbd40e6db55d93aa4f751dedf77f",
+    "runtime_seconds": 0.028944800000090254
+  },
+  {
+    "instance": "ft20",
+    "seed": 410009,
+    "scenario_sha256": "5fb43abb4d1561d635583a6161fddcfcdd63c30fb5adc1b8c397503af26e159a",
+    "method": "LOCAL_RULES",
+    "policy": "local",
+    "valid": true,
+    "makespan": 1482.3029405529874,
+    "total_tardiness": 933.13593612446,
+    "normalized_tardiness": 0.182645514997937,
+    "completed_jobs": 20,
+    "auctions": 100,
+    "contested_auctions": 32,
+    "changed_winners_vs_fixed_on_same_queue": 4,
+    "logical_message_deliveries": 624,
+    "machine_k_counts": {
+      "0": {
+        "3.0": 14,
+        "0.5": 6
+      },
+      "1": {
+        "3.0": 16,
+        "0.5": 4
+      },
+      "2": {
+        "3.0": 15,
+        "0.5": 5
+      },
+      "3": {
+        "3.0": 12,
+        "0.5": 8
+      },
+      "4": {
+        "3.0": 10,
+        "0.5": 10
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 5,
+        "losses": 1
+      },
+      "1": {
+        "wins": 5,
+        "losses": 2
+      },
+      "2": {
+        "wins": 5,
+        "losses": 4
+      },
+      "3": {
+        "wins": 5,
+        "losses": 0
+      },
+      "4": {
+        "wins": 5,
+        "losses": 1
+      },
+      "5": {
+        "wins": 5,
+        "losses": 3
+      },
+      "6": {
+        "wins": 5,
+        "losses": 0
+      },
+      "7": {
+        "wins": 5,
+        "losses": 1
+      },
+      "8": {
+        "wins": 5,
+        "losses": 4
+      },
+      "9": {
+        "wins": 5,
+        "losses": 4
+      },
+      "10": {
+        "wins": 5,
+        "losses": 4
+      },
+      "11": {
+        "wins": 5,
+        "losses": 9
+      },
+      "12": {
+        "wins": 5,
+        "losses": 0
+      },
+      "13": {
+        "wins": 5,
+        "losses": 5
+      },
+      "14": {
+        "wins": 5,
+        "losses": 0
+      },
+      "15": {
+        "wins": 5,
+        "losses": 2
+      },
+      "16": {
+        "wins": 5,
+        "losses": 0
+      },
+      "17": {
+        "wins": 5,
+        "losses": 3
+      },
+      "18": {
+        "wins": 5,
+        "losses": 9
+      },
+      "19": {
+        "wins": 5,
+        "losses": 4
+      }
+    },
+    "schedule_sha256": "e4496102bf6ed7d0304980b0796f56109ff10c190c8bf320eea9c190941a21fc",
+    "runtime_seconds": 0.030612499999961074
+  },
+  {
+    "instance": "la01",
+    "seed": 410000,
+    "scenario_sha256": "05b5f46c52731bab472bf5203b13f858d191a5764768e27abd2e7fc41c39d0c3",
+    "method": "ATC_LOCAL",
+    "makespan": 1091.0102859611625,
+    "total_tardiness": 23.091349536594407,
+    "normalized_tardiness": 0.00810507179241643,
+    "valid": true,
+    "runtime_seconds": 0.010793400000011388
+  },
+  {
+    "instance": "la01",
+    "seed": 410000,
+    "scenario_sha256": "05b5f46c52731bab472bf5203b13f858d191a5764768e27abd2e7fc41c39d0c3",
+    "method": "LOCAL_FIXED",
+    "policy": "fixed",
+    "valid": true,
+    "makespan": 1091.0102859611625,
+    "total_tardiness": 23.091349536594407,
+    "normalized_tardiness": 0.00810507179241643,
+    "completed_jobs": 10,
+    "auctions": 50,
+    "contested_auctions": 7,
+    "changed_winners_vs_fixed_on_same_queue": 0,
+    "logical_message_deliveries": 228,
+    "machine_k_counts": {
+      "0": {
+        "2.0": 10
+      },
+      "1": {
+        "2.0": 10
+      },
+      "2": {
+        "2.0": 10
+      },
+      "3": {
+        "2.0": 10
+      },
+      "4": {
+        "2.0": 10
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 5,
+        "losses": 1
+      },
+      "1": {
+        "wins": 5,
+        "losses": 1
+      },
+      "2": {
+        "wins": 5,
+        "losses": 0
+      },
+      "3": {
+        "wins": 5,
+        "losses": 1
+      },
+      "4": {
+        "wins": 5,
+        "losses": 0
+      },
+      "5": {
+        "wins": 5,
+        "losses": 1
+      },
+      "6": {
+        "wins": 5,
+        "losses": 3
+      },
+      "7": {
+        "wins": 5,
+        "losses": 0
+      },
+      "8": {
+        "wins": 5,
+        "losses": 0
+      },
+      "9": {
+        "wins": 5,
+        "losses": 0
+      }
+    },
+    "schedule_sha256": "5c9e13f722da9f6f8e89c8f0e81a10167dbb11afac5d1f4e659c1afb72975ca7",
+    "runtime_seconds": 0.007121699999970588
+  },
+  {
+    "instance": "la01",
+    "seed": 410000,
+    "scenario_sha256": "05b5f46c52731bab472bf5203b13f858d191a5764768e27abd2e7fc41c39d0c3",
+    "method": "LOCAL_RULES",
+    "policy": "local",
+    "valid": true,
+    "makespan": 1091.0102859611625,
+    "total_tardiness": 23.091349536594407,
+    "normalized_tardiness": 0.00810507179241643,
+    "completed_jobs": 10,
+    "auctions": 50,
+    "contested_auctions": 7,
+    "changed_winners_vs_fixed_on_same_queue": 0,
+    "logical_message_deliveries": 228,
+    "machine_k_counts": {
+      "0": {
+        "3.0": 9,
+        "0.5": 1
+      },
+      "1": {
+        "3.0": 8,
+        "0.5": 2
+      },
+      "2": {
+        "3.0": 8,
+        "0.5": 2
+      },
+      "3": {
+        "3.0": 9,
+        "0.5": 1
+      },
+      "4": {
+        "3.0": 9,
+        "0.5": 1
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 5,
+        "losses": 1
+      },
+      "1": {
+        "wins": 5,
+        "losses": 1
+      },
+      "2": {
+        "wins": 5,
+        "losses": 0
+      },
+      "3": {
+        "wins": 5,
+        "losses": 1
+      },
+      "4": {
+        "wins": 5,
+        "losses": 0
+      },
+      "5": {
+        "wins": 5,
+        "losses": 1
+      },
+      "6": {
+        "wins": 5,
+        "losses": 3
+      },
+      "7": {
+        "wins": 5,
+        "losses": 0
+      },
+      "8": {
+        "wins": 5,
+        "losses": 0
+      },
+      "9": {
+        "wins": 5,
+        "losses": 0
+      }
+    },
+    "schedule_sha256": "5c9e13f722da9f6f8e89c8f0e81a10167dbb11afac5d1f4e659c1afb72975ca7",
+    "runtime_seconds": 0.007008799999994153
+  },
+  {
+    "instance": "la01",
+    "seed": 410001,
+    "scenario_sha256": "8c8deae49cff33755be6dd7abfd2a7c7630675f0b5f8f9037b13d36969a307fe",
+    "method": "ATC_LOCAL",
+    "makespan": 928.7699586785734,
+    "total_tardiness": 0.0,
+    "normalized_tardiness": 0.0,
+    "valid": true,
+    "runtime_seconds": 0.0072428999999374355
+  },
+  {
+    "instance": "la01",
+    "seed": 410001,
+    "scenario_sha256": "8c8deae49cff33755be6dd7abfd2a7c7630675f0b5f8f9037b13d36969a307fe",
+    "method": "LOCAL_FIXED",
+    "policy": "fixed",
+    "valid": true,
+    "makespan": 928.7699586785734,
+    "total_tardiness": 0.0,
+    "normalized_tardiness": 0.0,
+    "completed_jobs": 10,
+    "auctions": 50,
+    "contested_auctions": 12,
+    "changed_winners_vs_fixed_on_same_queue": 0,
+    "logical_message_deliveries": 252,
+    "machine_k_counts": {
+      "0": {
+        "2.0": 10
+      },
+      "1": {
+        "2.0": 10
+      },
+      "2": {
+        "2.0": 10
+      },
+      "3": {
+        "2.0": 10
+      },
+      "4": {
+        "2.0": 10
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 5,
+        "losses": 1
+      },
+      "1": {
+        "wins": 5,
+        "losses": 2
+      },
+      "2": {
+        "wins": 5,
+        "losses": 1
+      },
+      "3": {
+        "wins": 5,
+        "losses": 2
+      },
+      "4": {
+        "wins": 5,
+        "losses": 3
+      },
+      "5": {
+        "wins": 5,
+        "losses": 0
+      },
+      "6": {
+        "wins": 5,
+        "losses": 0
+      },
+      "7": {
+        "wins": 5,
+        "losses": 0
+      },
+      "8": {
+        "wins": 5,
+        "losses": 0
+      },
+      "9": {
+        "wins": 5,
+        "losses": 4
+      }
+    },
+    "schedule_sha256": "d04bec8253ef1bb31a6d53c150ff616a7de9ef2effa37a3e00dc815940a14149",
+    "runtime_seconds": 0.007575099999939994
+  },
+  {
+    "instance": "la01",
+    "seed": 410001,
+    "scenario_sha256": "8c8deae49cff33755be6dd7abfd2a7c7630675f0b5f8f9037b13d36969a307fe",
+    "method": "LOCAL_RULES",
+    "policy": "local",
+    "valid": true,
+    "makespan": 928.7699586785734,
+    "total_tardiness": 0.0,
+    "normalized_tardiness": 0.0,
+    "completed_jobs": 10,
+    "auctions": 50,
+    "contested_auctions": 12,
+    "changed_winners_vs_fixed_on_same_queue": 0,
+    "logical_message_deliveries": 252,
+    "machine_k_counts": {
+      "0": {
+        "3.0": 10
+      },
+      "1": {
+        "3.0": 10
+      },
+      "2": {
+        "3.0": 10
+      },
+      "3": {
+        "3.0": 10
+      },
+      "4": {
+        "3.0": 10
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 5,
+        "losses": 1
+      },
+      "1": {
+        "wins": 5,
+        "losses": 2
+      },
+      "2": {
+        "wins": 5,
+        "losses": 1
+      },
+      "3": {
+        "wins": 5,
+        "losses": 2
+      },
+      "4": {
+        "wins": 5,
+        "losses": 3
+      },
+      "5": {
+        "wins": 5,
+        "losses": 0
+      },
+      "6": {
+        "wins": 5,
+        "losses": 0
+      },
+      "7": {
+        "wins": 5,
+        "losses": 0
+      },
+      "8": {
+        "wins": 5,
+        "losses": 0
+      },
+      "9": {
+        "wins": 5,
+        "losses": 4
+      }
+    },
+    "schedule_sha256": "d04bec8253ef1bb31a6d53c150ff616a7de9ef2effa37a3e00dc815940a14149",
+    "runtime_seconds": 0.007706299999881594
+  },
+  {
+    "instance": "la01",
+    "seed": 410002,
+    "scenario_sha256": "c550ef5ebbedb6b6e2d042e195c882a491838944d19f433f22bbd60632c2df2c",
+    "method": "ATC_LOCAL",
+    "makespan": 1092.4434410247977,
+    "total_tardiness": 132.48384483006163,
+    "normalized_tardiness": 0.04650187603722767,
+    "valid": true,
+    "runtime_seconds": 0.0068913999998585496
+  },
+  {
+    "instance": "la01",
+    "seed": 410002,
+    "scenario_sha256": "c550ef5ebbedb6b6e2d042e195c882a491838944d19f433f22bbd60632c2df2c",
+    "method": "LOCAL_FIXED",
+    "policy": "fixed",
+    "valid": true,
+    "makespan": 1092.4434410247977,
+    "total_tardiness": 132.48384483006163,
+    "normalized_tardiness": 0.04650187603722767,
+    "completed_jobs": 10,
+    "auctions": 50,
+    "contested_auctions": 6,
+    "changed_winners_vs_fixed_on_same_queue": 0,
+    "logical_message_deliveries": 228,
+    "machine_k_counts": {
+      "0": {
+        "2.0": 10
+      },
+      "1": {
+        "2.0": 10
+      },
+      "2": {
+        "2.0": 10
+      },
+      "3": {
+        "2.0": 10
+      },
+      "4": {
+        "2.0": 10
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 5,
+        "losses": 1
+      },
+      "1": {
+        "wins": 5,
+        "losses": 0
+      },
+      "2": {
+        "wins": 5,
+        "losses": 1
+      },
+      "3": {
+        "wins": 5,
+        "losses": 0
+      },
+      "4": {
+        "wins": 5,
+        "losses": 0
+      },
+      "5": {
+        "wins": 5,
+        "losses": 1
+      },
+      "6": {
+        "wins": 5,
+        "losses": 1
+      },
+      "7": {
+        "wins": 5,
+        "losses": 2
+      },
+      "8": {
+        "wins": 5,
+        "losses": 0
+      },
+      "9": {
+        "wins": 5,
+        "losses": 1
+      }
+    },
+    "schedule_sha256": "d1ca7814ba822c4f1aa4ce3a0aa367e903358fbdda19b4fdf3d45e89e6726bb1",
+    "runtime_seconds": 0.007305399999950168
+  },
+  {
+    "instance": "la01",
+    "seed": 410002,
+    "scenario_sha256": "c550ef5ebbedb6b6e2d042e195c882a491838944d19f433f22bbd60632c2df2c",
+    "method": "LOCAL_RULES",
+    "policy": "local",
+    "valid": true,
+    "makespan": 1092.4434410247977,
+    "total_tardiness": 132.48384483006163,
+    "normalized_tardiness": 0.04650187603722767,
+    "completed_jobs": 10,
+    "auctions": 50,
+    "contested_auctions": 6,
+    "changed_winners_vs_fixed_on_same_queue": 0,
+    "logical_message_deliveries": 228,
+    "machine_k_counts": {
+      "0": {
+        "3.0": 7,
+        "0.5": 3
+      },
+      "1": {
+        "3.0": 7,
+        "0.5": 3
+      },
+      "2": {
+        "3.0": 6,
+        "0.5": 4
+      },
+      "3": {
+        "3.0": 9,
+        "0.5": 1
+      },
+      "4": {
+        "3.0": 4,
+        "0.5": 6
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 5,
+        "losses": 1
+      },
+      "1": {
+        "wins": 5,
+        "losses": 0
+      },
+      "2": {
+        "wins": 5,
+        "losses": 1
+      },
+      "3": {
+        "wins": 5,
+        "losses": 0
+      },
+      "4": {
+        "wins": 5,
+        "losses": 0
+      },
+      "5": {
+        "wins": 5,
+        "losses": 1
+      },
+      "6": {
+        "wins": 5,
+        "losses": 1
+      },
+      "7": {
+        "wins": 5,
+        "losses": 2
+      },
+      "8": {
+        "wins": 5,
+        "losses": 0
+      },
+      "9": {
+        "wins": 5,
+        "losses": 1
+      }
+    },
+    "schedule_sha256": "d1ca7814ba822c4f1aa4ce3a0aa367e903358fbdda19b4fdf3d45e89e6726bb1",
+    "runtime_seconds": 0.007860400000026857
+  },
+  {
+    "instance": "la01",
+    "seed": 410003,
+    "scenario_sha256": "59d7862f17c4254464292f900920f41b46ab9a9dc7012b9c661a506b30c4436e",
+    "method": "ATC_LOCAL",
+    "makespan": 1048.1588470566912,
+    "total_tardiness": 119.82464138037699,
+    "normalized_tardiness": 0.042058491183003505,
+    "valid": true,
+    "runtime_seconds": 0.007390499999928579
+  },
+  {
+    "instance": "la01",
+    "seed": 410003,
+    "scenario_sha256": "59d7862f17c4254464292f900920f41b46ab9a9dc7012b9c661a506b30c4436e",
+    "method": "LOCAL_FIXED",
+    "policy": "fixed",
+    "valid": true,
+    "makespan": 1048.1588470566912,
+    "total_tardiness": 119.82464138037699,
+    "normalized_tardiness": 0.042058491183003505,
+    "completed_jobs": 10,
+    "auctions": 50,
+    "contested_auctions": 6,
+    "changed_winners_vs_fixed_on_same_queue": 0,
+    "logical_message_deliveries": 232,
+    "machine_k_counts": {
+      "0": {
+        "2.0": 10
+      },
+      "1": {
+        "2.0": 10
+      },
+      "2": {
+        "2.0": 10
+      },
+      "3": {
+        "2.0": 10
+      },
+      "4": {
+        "2.0": 10
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 5,
+        "losses": 0
+      },
+      "1": {
+        "wins": 5,
+        "losses": 1
+      },
+      "2": {
+        "wins": 5,
+        "losses": 0
+      },
+      "3": {
+        "wins": 5,
+        "losses": 0
+      },
+      "4": {
+        "wins": 5,
+        "losses": 0
+      },
+      "5": {
+        "wins": 5,
+        "losses": 4
+      },
+      "6": {
+        "wins": 5,
+        "losses": 1
+      },
+      "7": {
+        "wins": 5,
+        "losses": 0
+      },
+      "8": {
+        "wins": 5,
+        "losses": 0
+      },
+      "9": {
+        "wins": 5,
+        "losses": 2
+      }
+    },
+    "schedule_sha256": "5e1ec1ef75aa2ebce39120a2e7b4593b9e5db052ad22bad7317dff6094113f80",
+    "runtime_seconds": 0.00925979999988158
+  },
+  {
+    "instance": "la01",
+    "seed": 410003,
+    "scenario_sha256": "59d7862f17c4254464292f900920f41b46ab9a9dc7012b9c661a506b30c4436e",
+    "method": "LOCAL_RULES",
+    "policy": "local",
+    "valid": true,
+    "makespan": 1048.1588470566912,
+    "total_tardiness": 119.82464138037699,
+    "normalized_tardiness": 0.042058491183003505,
+    "completed_jobs": 10,
+    "auctions": 50,
+    "contested_auctions": 6,
+    "changed_winners_vs_fixed_on_same_queue": 0,
+    "logical_message_deliveries": 232,
+    "machine_k_counts": {
+      "0": {
+        "3.0": 8,
+        "0.5": 2
+      },
+      "1": {
+        "3.0": 9,
+        "0.5": 1
+      },
+      "2": {
+        "3.0": 9,
+        "0.5": 1
+      },
+      "3": {
+        "3.0": 9,
+        "0.5": 1
+      },
+      "4": {
+        "3.0": 9,
+        "0.5": 1
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 5,
+        "losses": 0
+      },
+      "1": {
+        "wins": 5,
+        "losses": 1
+      },
+      "2": {
+        "wins": 5,
+        "losses": 0
+      },
+      "3": {
+        "wins": 5,
+        "losses": 0
+      },
+      "4": {
+        "wins": 5,
+        "losses": 0
+      },
+      "5": {
+        "wins": 5,
+        "losses": 4
+      },
+      "6": {
+        "wins": 5,
+        "losses": 1
+      },
+      "7": {
+        "wins": 5,
+        "losses": 0
+      },
+      "8": {
+        "wins": 5,
+        "losses": 0
+      },
+      "9": {
+        "wins": 5,
+        "losses": 2
+      }
+    },
+    "schedule_sha256": "5e1ec1ef75aa2ebce39120a2e7b4593b9e5db052ad22bad7317dff6094113f80",
+    "runtime_seconds": 0.007982099999935599
+  },
+  {
+    "instance": "la01",
+    "seed": 410004,
+    "scenario_sha256": "af7dfb2934421d8568b5a250e6a51ecc2abb5b61d0554a66df5a9c21ca6d605f",
+    "method": "ATC_LOCAL",
+    "makespan": 1013.2125986200542,
+    "total_tardiness": 0.0,
+    "normalized_tardiness": 0.0,
+    "valid": true,
+    "runtime_seconds": 0.0077212999999574095
+  },
+  {
+    "instance": "la01",
+    "seed": 410004,
+    "scenario_sha256": "af7dfb2934421d8568b5a250e6a51ecc2abb5b61d0554a66df5a9c21ca6d605f",
+    "method": "LOCAL_FIXED",
+    "policy": "fixed",
+    "valid": true,
+    "makespan": 1013.2125986200542,
+    "total_tardiness": 0.0,
+    "normalized_tardiness": 0.0,
+    "completed_jobs": 10,
+    "auctions": 50,
+    "contested_auctions": 8,
+    "changed_winners_vs_fixed_on_same_queue": 0,
+    "logical_message_deliveries": 236,
+    "machine_k_counts": {
+      "0": {
+        "2.0": 10
+      },
+      "1": {
+        "2.0": 10
+      },
+      "2": {
+        "2.0": 10
+      },
+      "3": {
+        "2.0": 10
+      },
+      "4": {
+        "2.0": 10
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 5,
+        "losses": 1
+      },
+      "1": {
+        "wins": 5,
+        "losses": 1
+      },
+      "2": {
+        "wins": 5,
+        "losses": 0
+      },
+      "3": {
+        "wins": 5,
+        "losses": 1
+      },
+      "4": {
+        "wins": 5,
+        "losses": 0
+      },
+      "5": {
+        "wins": 5,
+        "losses": 0
+      },
+      "6": {
+        "wins": 5,
+        "losses": 0
+      },
+      "7": {
+        "wins": 5,
+        "losses": 3
+      },
+      "8": {
+        "wins": 5,
+        "losses": 2
+      },
+      "9": {
+        "wins": 5,
+        "losses": 1
+      }
+    },
+    "schedule_sha256": "d0a049b3028bc6862da7275de31b0d08e6c54af12df18b7165e5d159e72ef1fc",
+    "runtime_seconds": 0.00703350000003411
+  },
+  {
+    "instance": "la01",
+    "seed": 410004,
+    "scenario_sha256": "af7dfb2934421d8568b5a250e6a51ecc2abb5b61d0554a66df5a9c21ca6d605f",
+    "method": "LOCAL_RULES",
+    "policy": "local",
+    "valid": true,
+    "makespan": 958.2125986200542,
+    "total_tardiness": 0.0,
+    "normalized_tardiness": 0.0,
+    "completed_jobs": 10,
+    "auctions": 50,
+    "contested_auctions": 7,
+    "changed_winners_vs_fixed_on_same_queue": 1,
+    "logical_message_deliveries": 232,
+    "machine_k_counts": {
+      "0": {
+        "3.0": 9,
+        "0.5": 1
+      },
+      "1": {
+        "3.0": 9,
+        "0.5": 1
+      },
+      "2": {
+        "3.0": 9,
+        "0.5": 1
+      },
+      "3": {
+        "3.0": 10
+      },
+      "4": {
+        "3.0": 9,
+        "0.5": 1
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 5,
+        "losses": 1
+      },
+      "1": {
+        "wins": 5,
+        "losses": 0
+      },
+      "2": {
+        "wins": 5,
+        "losses": 1
+      },
+      "3": {
+        "wins": 5,
+        "losses": 1
+      },
+      "4": {
+        "wins": 5,
+        "losses": 0
+      },
+      "5": {
+        "wins": 5,
+        "losses": 0
+      },
+      "6": {
+        "wins": 5,
+        "losses": 0
+      },
+      "7": {
+        "wins": 5,
+        "losses": 3
+      },
+      "8": {
+        "wins": 5,
+        "losses": 2
+      },
+      "9": {
+        "wins": 5,
+        "losses": 0
+      }
+    },
+    "schedule_sha256": "83b9b5cffb81eb41457d008e372bbbbd7d0535170467899a3414a9276700ecd9",
+    "runtime_seconds": 0.007267099999808124
+  },
+  {
+    "instance": "la01",
+    "seed": 410005,
+    "scenario_sha256": "0d5f21bec99c0385daac17ed77717b7dc14c52c9637aa35021106c10cf7d2705",
+    "method": "ATC_LOCAL",
+    "makespan": 1267.6080136299952,
+    "total_tardiness": 174.656777802379,
+    "normalized_tardiness": 0.06130459031322534,
+    "valid": true,
+    "runtime_seconds": 0.008784900000136986
+  },
+  {
+    "instance": "la01",
+    "seed": 410005,
+    "scenario_sha256": "0d5f21bec99c0385daac17ed77717b7dc14c52c9637aa35021106c10cf7d2705",
+    "method": "LOCAL_FIXED",
+    "policy": "fixed",
+    "valid": true,
+    "makespan": 1267.6080136299952,
+    "total_tardiness": 174.656777802379,
+    "normalized_tardiness": 0.06130459031322534,
+    "completed_jobs": 10,
+    "auctions": 50,
+    "contested_auctions": 11,
+    "changed_winners_vs_fixed_on_same_queue": 0,
+    "logical_message_deliveries": 260,
+    "machine_k_counts": {
+      "0": {
+        "2.0": 10
+      },
+      "1": {
+        "2.0": 10
+      },
+      "2": {
+        "2.0": 10
+      },
+      "3": {
+        "2.0": 10
+      },
+      "4": {
+        "2.0": 10
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 5,
+        "losses": 2
+      },
+      "1": {
+        "wins": 5,
+        "losses": 1
+      },
+      "2": {
+        "wins": 5,
+        "losses": 0
+      },
+      "3": {
+        "wins": 5,
+        "losses": 0
+      },
+      "4": {
+        "wins": 5,
+        "losses": 0
+      },
+      "5": {
+        "wins": 5,
+        "losses": 1
+      },
+      "6": {
+        "wins": 5,
+        "losses": 6
+      },
+      "7": {
+        "wins": 5,
+        "losses": 3
+      },
+      "8": {
+        "wins": 5,
+        "losses": 0
+      },
+      "9": {
+        "wins": 5,
+        "losses": 2
+      }
+    },
+    "schedule_sha256": "41f3c62d0c8929cac0388b271f57cb46a80b329dda8468d6fd4c54eead37b83c",
+    "runtime_seconds": 0.00927400000000489
+  },
+  {
+    "instance": "la01",
+    "seed": 410005,
+    "scenario_sha256": "0d5f21bec99c0385daac17ed77717b7dc14c52c9637aa35021106c10cf7d2705",
+    "method": "LOCAL_RULES",
+    "policy": "local",
+    "valid": true,
+    "makespan": 1267.6080136299952,
+    "total_tardiness": 174.656777802379,
+    "normalized_tardiness": 0.06130459031322534,
+    "completed_jobs": 10,
+    "auctions": 50,
+    "contested_auctions": 11,
+    "changed_winners_vs_fixed_on_same_queue": 1,
+    "logical_message_deliveries": 264,
+    "machine_k_counts": {
+      "0": {
+        "3.0": 7,
+        "0.5": 3
+      },
+      "1": {
+        "3.0": 8,
+        "0.5": 2
+      },
+      "2": {
+        "3.0": 7,
+        "0.5": 3
+      },
+      "3": {
+        "3.0": 8,
+        "0.5": 2
+      },
+      "4": {
+        "3.0": 6,
+        "0.5": 4
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 5,
+        "losses": 2
+      },
+      "1": {
+        "wins": 5,
+        "losses": 2
+      },
+      "2": {
+        "wins": 5,
+        "losses": 0
+      },
+      "3": {
+        "wins": 5,
+        "losses": 0
+      },
+      "4": {
+        "wins": 5,
+        "losses": 0
+      },
+      "5": {
+        "wins": 5,
+        "losses": 1
+      },
+      "6": {
+        "wins": 5,
+        "losses": 6
+      },
+      "7": {
+        "wins": 5,
+        "losses": 3
+      },
+      "8": {
+        "wins": 5,
+        "losses": 0
+      },
+      "9": {
+        "wins": 5,
+        "losses": 2
+      }
+    },
+    "schedule_sha256": "3b165c3046d487d560d9179837b00fdacbde9ee2c3841affb7a90c36e449221b",
+    "runtime_seconds": 0.009164600000076462
+  },
+  {
+    "instance": "la01",
+    "seed": 410006,
+    "scenario_sha256": "9bc8259b2598ebc54063100474f90831f327d6ba452ed67bb70cbacc61d306d2",
+    "method": "ATC_LOCAL",
+    "makespan": 1031.5411295439953,
+    "total_tardiness": 50.15498127469942,
+    "normalized_tardiness": 0.01760441603183553,
+    "valid": true,
+    "runtime_seconds": 0.007787000000007538
+  },
+  {
+    "instance": "la01",
+    "seed": 410006,
+    "scenario_sha256": "9bc8259b2598ebc54063100474f90831f327d6ba452ed67bb70cbacc61d306d2",
+    "method": "LOCAL_FIXED",
+    "policy": "fixed",
+    "valid": true,
+    "makespan": 1031.5411295439953,
+    "total_tardiness": 50.15498127469942,
+    "normalized_tardiness": 0.01760441603183553,
+    "completed_jobs": 10,
+    "auctions": 50,
+    "contested_auctions": 8,
+    "changed_winners_vs_fixed_on_same_queue": 0,
+    "logical_message_deliveries": 232,
+    "machine_k_counts": {
+      "0": {
+        "2.0": 10
+      },
+      "1": {
+        "2.0": 10
+      },
+      "2": {
+        "2.0": 10
+      },
+      "3": {
+        "2.0": 10
+      },
+      "4": {
+        "2.0": 10
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 5,
+        "losses": 1
+      },
+      "1": {
+        "wins": 5,
+        "losses": 0
+      },
+      "2": {
+        "wins": 5,
+        "losses": 1
+      },
+      "3": {
+        "wins": 5,
+        "losses": 0
+      },
+      "4": {
+        "wins": 5,
+        "losses": 1
+      },
+      "5": {
+        "wins": 5,
+        "losses": 2
+      },
+      "6": {
+        "wins": 5,
+        "losses": 0
+      },
+      "7": {
+        "wins": 5,
+        "losses": 0
+      },
+      "8": {
+        "wins": 5,
+        "losses": 1
+      },
+      "9": {
+        "wins": 5,
+        "losses": 2
+      }
+    },
+    "schedule_sha256": "930f719eecb42d87bd208aec66f5a5040148784f7fa0d94b49e482ccb14529eb",
+    "runtime_seconds": 0.007000100000141174
+  },
+  {
+    "instance": "la01",
+    "seed": 410006,
+    "scenario_sha256": "9bc8259b2598ebc54063100474f90831f327d6ba452ed67bb70cbacc61d306d2",
+    "method": "LOCAL_RULES",
+    "policy": "local",
+    "valid": true,
+    "makespan": 1031.5411295439953,
+    "total_tardiness": 50.15498127469942,
+    "normalized_tardiness": 0.01760441603183553,
+    "completed_jobs": 10,
+    "auctions": 50,
+    "contested_auctions": 8,
+    "changed_winners_vs_fixed_on_same_queue": 0,
+    "logical_message_deliveries": 232,
+    "machine_k_counts": {
+      "0": {
+        "3.0": 5,
+        "0.5": 5
+      },
+      "1": {
+        "3.0": 8,
+        "0.5": 2
+      },
+      "2": {
+        "3.0": 8,
+        "0.5": 2
+      },
+      "3": {
+        "3.0": 8,
+        "0.5": 2
+      },
+      "4": {
+        "3.0": 7,
+        "0.5": 3
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 5,
+        "losses": 1
+      },
+      "1": {
+        "wins": 5,
+        "losses": 0
+      },
+      "2": {
+        "wins": 5,
+        "losses": 1
+      },
+      "3": {
+        "wins": 5,
+        "losses": 0
+      },
+      "4": {
+        "wins": 5,
+        "losses": 1
+      },
+      "5": {
+        "wins": 5,
+        "losses": 2
+      },
+      "6": {
+        "wins": 5,
+        "losses": 0
+      },
+      "7": {
+        "wins": 5,
+        "losses": 0
+      },
+      "8": {
+        "wins": 5,
+        "losses": 1
+      },
+      "9": {
+        "wins": 5,
+        "losses": 2
+      }
+    },
+    "schedule_sha256": "930f719eecb42d87bd208aec66f5a5040148784f7fa0d94b49e482ccb14529eb",
+    "runtime_seconds": 0.0070213999999850785
+  },
+  {
+    "instance": "la01",
+    "seed": 410007,
+    "scenario_sha256": "c876c8180ad625b21219ce579317eca13ceeda9a14bb83d5f6e5231345507dd4",
+    "method": "ATC_LOCAL",
+    "makespan": 1298.5531723959725,
+    "total_tardiness": 217.83472347469944,
+    "normalized_tardiness": 0.0764600643996839,
+    "valid": true,
+    "runtime_seconds": 0.006598000000167303
+  },
+  {
+    "instance": "la01",
+    "seed": 410007,
+    "scenario_sha256": "c876c8180ad625b21219ce579317eca13ceeda9a14bb83d5f6e5231345507dd4",
+    "method": "LOCAL_FIXED",
+    "policy": "fixed",
+    "valid": true,
+    "makespan": 1298.5531723959725,
+    "total_tardiness": 217.83472347469944,
+    "normalized_tardiness": 0.0764600643996839,
+    "completed_jobs": 10,
+    "auctions": 50,
+    "contested_auctions": 9,
+    "changed_winners_vs_fixed_on_same_queue": 0,
+    "logical_message_deliveries": 252,
+    "machine_k_counts": {
+      "0": {
+        "2.0": 10
+      },
+      "1": {
+        "2.0": 10
+      },
+      "2": {
+        "2.0": 10
+      },
+      "3": {
+        "2.0": 10
+      },
+      "4": {
+        "2.0": 10
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 5,
+        "losses": 2
+      },
+      "1": {
+        "wins": 5,
+        "losses": 0
+      },
+      "2": {
+        "wins": 5,
+        "losses": 0
+      },
+      "3": {
+        "wins": 5,
+        "losses": 2
+      },
+      "4": {
+        "wins": 5,
+        "losses": 0
+      },
+      "5": {
+        "wins": 5,
+        "losses": 5
+      },
+      "6": {
+        "wins": 5,
+        "losses": 0
+      },
+      "7": {
+        "wins": 5,
+        "losses": 0
+      },
+      "8": {
+        "wins": 5,
+        "losses": 1
+      },
+      "9": {
+        "wins": 5,
+        "losses": 3
+      }
+    },
+    "schedule_sha256": "0adb405de844535f51adcda56005bdbe4e96272730c06ca0e5c1ff468c53bd0b",
+    "runtime_seconds": 0.008498200000076395
+  },
+  {
+    "instance": "la01",
+    "seed": 410007,
+    "scenario_sha256": "c876c8180ad625b21219ce579317eca13ceeda9a14bb83d5f6e5231345507dd4",
+    "method": "LOCAL_RULES",
+    "policy": "local",
+    "valid": true,
+    "makespan": 1258.5531723959725,
+    "total_tardiness": 199.83472347469944,
+    "normalized_tardiness": 0.07014205808167759,
+    "completed_jobs": 10,
+    "auctions": 50,
+    "contested_auctions": 8,
+    "changed_winners_vs_fixed_on_same_queue": 1,
+    "logical_message_deliveries": 248,
+    "machine_k_counts": {
+      "0": {
+        "3.0": 7,
+        "0.5": 3
+      },
+      "1": {
+        "3.0": 6,
+        "0.5": 4
+      },
+      "2": {
+        "3.0": 6,
+        "0.5": 4
+      },
+      "3": {
+        "3.0": 6,
+        "0.5": 4
+      },
+      "4": {
+        "0.5": 6,
+        "3.0": 4
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 5,
+        "losses": 1
+      },
+      "1": {
+        "wins": 5,
+        "losses": 0
+      },
+      "2": {
+        "wins": 5,
+        "losses": 0
+      },
+      "3": {
+        "wins": 5,
+        "losses": 2
+      },
+      "4": {
+        "wins": 5,
+        "losses": 0
+      },
+      "5": {
+        "wins": 5,
+        "losses": 5
+      },
+      "6": {
+        "wins": 5,
+        "losses": 0
+      },
+      "7": {
+        "wins": 5,
+        "losses": 0
+      },
+      "8": {
+        "wins": 5,
+        "losses": 1
+      },
+      "9": {
+        "wins": 5,
+        "losses": 3
+      }
+    },
+    "schedule_sha256": "ac3c636523e27d4d13ce796cce62806797ad6e51392e2abe53ef81712ce08a34",
+    "runtime_seconds": 0.010846500000070591
+  },
+  {
+    "instance": "la01",
+    "seed": 410008,
+    "scenario_sha256": "168e8c835e418ade9b5f2a8822bf4f4f4b45ea1ba51acd39db21a1d061be2987",
+    "method": "ATC_LOCAL",
+    "makespan": 925.3637555462371,
+    "total_tardiness": 44.072399488806695,
+    "normalized_tardiness": 0.01546942768999884,
+    "valid": true,
+    "runtime_seconds": 0.012663799999927505
+  },
+  {
+    "instance": "la01",
+    "seed": 410008,
+    "scenario_sha256": "168e8c835e418ade9b5f2a8822bf4f4f4b45ea1ba51acd39db21a1d061be2987",
+    "method": "LOCAL_FIXED",
+    "policy": "fixed",
+    "valid": true,
+    "makespan": 925.3637555462371,
+    "total_tardiness": 44.072399488806695,
+    "normalized_tardiness": 0.01546942768999884,
+    "completed_jobs": 10,
+    "auctions": 50,
+    "contested_auctions": 10,
+    "changed_winners_vs_fixed_on_same_queue": 0,
+    "logical_message_deliveries": 252,
+    "machine_k_counts": {
+      "0": {
+        "2.0": 10
+      },
+      "1": {
+        "2.0": 10
+      },
+      "2": {
+        "2.0": 10
+      },
+      "3": {
+        "2.0": 10
+      },
+      "4": {
+        "2.0": 10
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 5,
+        "losses": 1
+      },
+      "1": {
+        "wins": 5,
+        "losses": 0
+      },
+      "2": {
+        "wins": 5,
+        "losses": 1
+      },
+      "3": {
+        "wins": 5,
+        "losses": 2
+      },
+      "4": {
+        "wins": 5,
+        "losses": 2
+      },
+      "5": {
+        "wins": 5,
+        "losses": 1
+      },
+      "6": {
+        "wins": 5,
+        "losses": 2
+      },
+      "7": {
+        "wins": 5,
+        "losses": 4
+      },
+      "8": {
+        "wins": 5,
+        "losses": 0
+      },
+      "9": {
+        "wins": 5,
+        "losses": 0
+      }
+    },
+    "schedule_sha256": "ea5256dbc5f9da62ac2b00e56da42a30dca7bcdbb770d4059bfa9ecca42d924a",
+    "runtime_seconds": 0.008416900000156602
+  },
+  {
+    "instance": "la01",
+    "seed": 410008,
+    "scenario_sha256": "168e8c835e418ade9b5f2a8822bf4f4f4b45ea1ba51acd39db21a1d061be2987",
+    "method": "LOCAL_RULES",
+    "policy": "local",
+    "valid": true,
+    "makespan": 925.3637555462371,
+    "total_tardiness": 44.072399488806695,
+    "normalized_tardiness": 0.01546942768999884,
+    "completed_jobs": 10,
+    "auctions": 50,
+    "contested_auctions": 10,
+    "changed_winners_vs_fixed_on_same_queue": 0,
+    "logical_message_deliveries": 252,
+    "machine_k_counts": {
+      "0": {
+        "3.0": 8,
+        "0.5": 2
+      },
+      "1": {
+        "3.0": 9,
+        "0.5": 1
+      },
+      "2": {
+        "3.0": 8,
+        "0.5": 2
+      },
+      "3": {
+        "3.0": 9,
+        "0.5": 1
+      },
+      "4": {
+        "3.0": 8,
+        "0.5": 2
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 5,
+        "losses": 1
+      },
+      "1": {
+        "wins": 5,
+        "losses": 0
+      },
+      "2": {
+        "wins": 5,
+        "losses": 1
+      },
+      "3": {
+        "wins": 5,
+        "losses": 2
+      },
+      "4": {
+        "wins": 5,
+        "losses": 2
+      },
+      "5": {
+        "wins": 5,
+        "losses": 1
+      },
+      "6": {
+        "wins": 5,
+        "losses": 2
+      },
+      "7": {
+        "wins": 5,
+        "losses": 4
+      },
+      "8": {
+        "wins": 5,
+        "losses": 0
+      },
+      "9": {
+        "wins": 5,
+        "losses": 0
+      }
+    },
+    "schedule_sha256": "ea5256dbc5f9da62ac2b00e56da42a30dca7bcdbb770d4059bfa9ecca42d924a",
+    "runtime_seconds": 0.00936720000004243
+  },
+  {
+    "instance": "la01",
+    "seed": 410009,
+    "scenario_sha256": "a1b2e98dc4e6079fb0c3be348d4c5ee9ac8026ba9b3d5a9967f57e0243e0e3c2",
+    "method": "ATC_LOCAL",
+    "makespan": 1064.905945901344,
+    "total_tardiness": 181.2343005390543,
+    "normalized_tardiness": 0.06361330310251116,
+    "valid": true,
+    "runtime_seconds": 0.009189100000185135
+  },
+  {
+    "instance": "la01",
+    "seed": 410009,
+    "scenario_sha256": "a1b2e98dc4e6079fb0c3be348d4c5ee9ac8026ba9b3d5a9967f57e0243e0e3c2",
+    "method": "LOCAL_FIXED",
+    "policy": "fixed",
+    "valid": true,
+    "makespan": 1064.905945901344,
+    "total_tardiness": 181.2343005390543,
+    "normalized_tardiness": 0.06361330310251116,
+    "completed_jobs": 10,
+    "auctions": 50,
+    "contested_auctions": 12,
+    "changed_winners_vs_fixed_on_same_queue": 0,
+    "logical_message_deliveries": 260,
+    "machine_k_counts": {
+      "0": {
+        "2.0": 10
+      },
+      "1": {
+        "2.0": 10
+      },
+      "2": {
+        "2.0": 10
+      },
+      "3": {
+        "2.0": 10
+      },
+      "4": {
+        "2.0": 10
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 5,
+        "losses": 3
+      },
+      "1": {
+        "wins": 5,
+        "losses": 1
+      },
+      "2": {
+        "wins": 5,
+        "losses": 0
+      },
+      "3": {
+        "wins": 5,
+        "losses": 4
+      },
+      "4": {
+        "wins": 5,
+        "losses": 2
+      },
+      "5": {
+        "wins": 5,
+        "losses": 0
+      },
+      "6": {
+        "wins": 5,
+        "losses": 2
+      },
+      "7": {
+        "wins": 5,
+        "losses": 0
+      },
+      "8": {
+        "wins": 5,
+        "losses": 0
+      },
+      "9": {
+        "wins": 5,
+        "losses": 3
+      }
+    },
+    "schedule_sha256": "e58ff9249a38447a5157a4aa2a34c9b09abe883a8ca42a57fb9b3e27ee9c099b",
+    "runtime_seconds": 0.009189500000047701
+  },
+  {
+    "instance": "la01",
+    "seed": 410009,
+    "scenario_sha256": "a1b2e98dc4e6079fb0c3be348d4c5ee9ac8026ba9b3d5a9967f57e0243e0e3c2",
+    "method": "LOCAL_RULES",
+    "policy": "local",
+    "valid": true,
+    "makespan": 1064.905945901344,
+    "total_tardiness": 181.2343005390543,
+    "normalized_tardiness": 0.06361330310251116,
+    "completed_jobs": 10,
+    "auctions": 50,
+    "contested_auctions": 12,
+    "changed_winners_vs_fixed_on_same_queue": 0,
+    "logical_message_deliveries": 260,
+    "machine_k_counts": {
+      "0": {
+        "3.0": 5,
+        "0.5": 5
+      },
+      "1": {
+        "3.0": 6,
+        "0.5": 4
+      },
+      "2": {
+        "3.0": 7,
+        "0.5": 3
+      },
+      "3": {
+        "3.0": 8,
+        "0.5": 2
+      },
+      "4": {
+        "3.0": 5,
+        "0.5": 5
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 5,
+        "losses": 3
+      },
+      "1": {
+        "wins": 5,
+        "losses": 1
+      },
+      "2": {
+        "wins": 5,
+        "losses": 0
+      },
+      "3": {
+        "wins": 5,
+        "losses": 4
+      },
+      "4": {
+        "wins": 5,
+        "losses": 2
+      },
+      "5": {
+        "wins": 5,
+        "losses": 0
+      },
+      "6": {
+        "wins": 5,
+        "losses": 2
+      },
+      "7": {
+        "wins": 5,
+        "losses": 0
+      },
+      "8": {
+        "wins": 5,
+        "losses": 0
+      },
+      "9": {
+        "wins": 5,
+        "losses": 3
+      }
+    },
+    "schedule_sha256": "e58ff9249a38447a5157a4aa2a34c9b09abe883a8ca42a57fb9b3e27ee9c099b",
+    "runtime_seconds": 0.008365500000081738
+  },
+  {
+    "instance": "la16",
+    "seed": 410000,
+    "scenario_sha256": "6d1ce95c72ddefd166d027714fdd8d5e91cd21ad5d44e6637294727fa128dd32",
+    "method": "ATC_LOCAL",
+    "makespan": 1484.9324703864545,
+    "total_tardiness": 501.9978918812719,
+    "normalized_tardiness": 0.09381384636166547,
+    "valid": true,
+    "runtime_seconds": 0.015764600000011342
+  },
+  {
+    "instance": "la16",
+    "seed": 410000,
+    "scenario_sha256": "6d1ce95c72ddefd166d027714fdd8d5e91cd21ad5d44e6637294727fa128dd32",
+    "method": "LOCAL_FIXED",
+    "policy": "fixed",
+    "valid": true,
+    "makespan": 1484.9324703864545,
+    "total_tardiness": 501.9978918812719,
+    "normalized_tardiness": 0.09381384636166547,
+    "completed_jobs": 10,
+    "auctions": 100,
+    "contested_auctions": 17,
+    "changed_winners_vs_fixed_on_same_queue": 0,
+    "logical_message_deliveries": 516,
+    "machine_k_counts": {
+      "0": {
+        "2.0": 10
+      },
+      "1": {
+        "2.0": 10
+      },
+      "2": {
+        "2.0": 10
+      },
+      "3": {
+        "2.0": 10
+      },
+      "4": {
+        "2.0": 10
+      },
+      "5": {
+        "2.0": 10
+      },
+      "6": {
+        "2.0": 10
+      },
+      "7": {
+        "2.0": 10
+      },
+      "8": {
+        "2.0": 10
+      },
+      "9": {
+        "2.0": 10
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 10,
+        "losses": 0
+      },
+      "1": {
+        "wins": 10,
+        "losses": 1
+      },
+      "2": {
+        "wins": 10,
+        "losses": 4
+      },
+      "3": {
+        "wins": 10,
+        "losses": 6
+      },
+      "4": {
+        "wins": 10,
+        "losses": 2
+      },
+      "5": {
+        "wins": 10,
+        "losses": 0
+      },
+      "6": {
+        "wins": 10,
+        "losses": 3
+      },
+      "7": {
+        "wins": 10,
+        "losses": 3
+      },
+      "8": {
+        "wins": 10,
+        "losses": 7
+      },
+      "9": {
+        "wins": 10,
+        "losses": 3
+      }
+    },
+    "schedule_sha256": "d7e7b421c237119a0f372b6efcf74d444b888fd73be8418cc9a07f66c4f99cbc",
+    "runtime_seconds": 0.01578220000010333
+  },
+  {
+    "instance": "la16",
+    "seed": 410000,
+    "scenario_sha256": "6d1ce95c72ddefd166d027714fdd8d5e91cd21ad5d44e6637294727fa128dd32",
+    "method": "LOCAL_RULES",
+    "policy": "local",
+    "valid": true,
+    "makespan": 1399.9324703864545,
+    "total_tardiness": 396.2126558557418,
+    "normalized_tardiness": 0.07404460023467423,
+    "completed_jobs": 10,
+    "auctions": 100,
+    "contested_auctions": 14,
+    "changed_winners_vs_fixed_on_same_queue": 2,
+    "logical_message_deliveries": 496,
+    "machine_k_counts": {
+      "0": {
+        "3.0": 8,
+        "0.5": 2
+      },
+      "1": {
+        "3.0": 8,
+        "0.5": 2
+      },
+      "2": {
+        "3.0": 10
+      },
+      "3": {
+        "3.0": 8,
+        "0.5": 2
+      },
+      "4": {
+        "3.0": 9,
+        "0.5": 1
+      },
+      "5": {
+        "3.0": 6,
+        "0.5": 4
+      },
+      "6": {
+        "3.0": 6,
+        "0.5": 4
+      },
+      "7": {
+        "3.0": 7,
+        "0.5": 3
+      },
+      "8": {
+        "3.0": 8,
+        "0.5": 2
+      },
+      "9": {
+        "3.0": 8,
+        "0.5": 2
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 10,
+        "losses": 0
+      },
+      "1": {
+        "wins": 10,
+        "losses": 1
+      },
+      "2": {
+        "wins": 10,
+        "losses": 4
+      },
+      "3": {
+        "wins": 10,
+        "losses": 5
+      },
+      "4": {
+        "wins": 10,
+        "losses": 4
+      },
+      "5": {
+        "wins": 10,
+        "losses": 0
+      },
+      "6": {
+        "wins": 10,
+        "losses": 0
+      },
+      "7": {
+        "wins": 10,
+        "losses": 3
+      },
+      "8": {
+        "wins": 10,
+        "losses": 7
+      },
+      "9": {
+        "wins": 10,
+        "losses": 0
+      }
+    },
+    "schedule_sha256": "9d7102fe4533cd47ce0624f6ae76452803d61d31ffca88a82dadcdfac1290ee0",
+    "runtime_seconds": 0.015649700000039957
+  },
+  {
+    "instance": "la16",
+    "seed": 410001,
+    "scenario_sha256": "f91bab803d5c0ff94f018adbfb7b0e69554065b142fc6b6ec432559cff752dd9",
+    "method": "ATC_LOCAL",
+    "makespan": 1274.8922728068158,
+    "total_tardiness": 14.114266310552466,
+    "normalized_tardiness": 0.0026376875930765216,
+    "valid": true,
+    "runtime_seconds": 0.016612500000064756
+  },
+  {
+    "instance": "la16",
+    "seed": 410001,
+    "scenario_sha256": "f91bab803d5c0ff94f018adbfb7b0e69554065b142fc6b6ec432559cff752dd9",
+    "method": "LOCAL_FIXED",
+    "policy": "fixed",
+    "valid": true,
+    "makespan": 1274.8922728068158,
+    "total_tardiness": 14.114266310552466,
+    "normalized_tardiness": 0.0026376875930765216,
+    "completed_jobs": 10,
+    "auctions": 100,
+    "contested_auctions": 11,
+    "changed_winners_vs_fixed_on_same_queue": 0,
+    "logical_message_deliveries": 452,
+    "machine_k_counts": {
+      "0": {
+        "2.0": 10
+      },
+      "1": {
+        "2.0": 10
+      },
+      "2": {
+        "2.0": 10
+      },
+      "3": {
+        "2.0": 10
+      },
+      "4": {
+        "2.0": 10
+      },
+      "5": {
+        "2.0": 10
+      },
+      "6": {
+        "2.0": 10
+      },
+      "7": {
+        "2.0": 10
+      },
+      "8": {
+        "2.0": 10
+      },
+      "9": {
+        "2.0": 10
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 10,
+        "losses": 2
+      },
+      "1": {
+        "wins": 10,
+        "losses": 0
+      },
+      "2": {
+        "wins": 10,
+        "losses": 3
+      },
+      "3": {
+        "wins": 10,
+        "losses": 4
+      },
+      "4": {
+        "wins": 10,
+        "losses": 1
+      },
+      "5": {
+        "wins": 10,
+        "losses": 0
+      },
+      "6": {
+        "wins": 10,
+        "losses": 1
+      },
+      "7": {
+        "wins": 10,
+        "losses": 1
+      },
+      "8": {
+        "wins": 10,
+        "losses": 0
+      },
+      "9": {
+        "wins": 10,
+        "losses": 1
+      }
+    },
+    "schedule_sha256": "9b537ed9659b92d0ec5eb613433f30f78f7a0fa73e8ba4db84b9576bdab62779",
+    "runtime_seconds": 0.01587140000015097
+  },
+  {
+    "instance": "la16",
+    "seed": 410001,
+    "scenario_sha256": "f91bab803d5c0ff94f018adbfb7b0e69554065b142fc6b6ec432559cff752dd9",
+    "method": "LOCAL_RULES",
+    "policy": "local",
+    "valid": true,
+    "makespan": 1274.8922728068158,
+    "total_tardiness": 14.114266310552466,
+    "normalized_tardiness": 0.0026376875930765216,
+    "completed_jobs": 10,
+    "auctions": 100,
+    "contested_auctions": 11,
+    "changed_winners_vs_fixed_on_same_queue": 0,
+    "logical_message_deliveries": 452,
+    "machine_k_counts": {
+      "0": {
+        "0.5": 1,
+        "3.0": 9
+      },
+      "1": {
+        "3.0": 8,
+        "0.5": 2
+      },
+      "2": {
+        "3.0": 10
+      },
+      "3": {
+        "3.0": 9,
+        "0.5": 1
+      },
+      "4": {
+        "3.0": 9,
+        "0.5": 1
+      },
+      "5": {
+        "3.0": 9,
+        "0.5": 1
+      },
+      "6": {
+        "3.0": 8,
+        "0.5": 2
+      },
+      "7": {
+        "3.0": 7,
+        "0.5": 3
+      },
+      "8": {
+        "3.0": 8,
+        "0.5": 2
+      },
+      "9": {
+        "3.0": 9,
+        "0.5": 1
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 10,
+        "losses": 2
+      },
+      "1": {
+        "wins": 10,
+        "losses": 0
+      },
+      "2": {
+        "wins": 10,
+        "losses": 3
+      },
+      "3": {
+        "wins": 10,
+        "losses": 4
+      },
+      "4": {
+        "wins": 10,
+        "losses": 1
+      },
+      "5": {
+        "wins": 10,
+        "losses": 0
+      },
+      "6": {
+        "wins": 10,
+        "losses": 1
+      },
+      "7": {
+        "wins": 10,
+        "losses": 1
+      },
+      "8": {
+        "wins": 10,
+        "losses": 0
+      },
+      "9": {
+        "wins": 10,
+        "losses": 1
+      }
+    },
+    "schedule_sha256": "9b537ed9659b92d0ec5eb613433f30f78f7a0fa73e8ba4db84b9576bdab62779",
+    "runtime_seconds": 0.025165400000105365
+  },
+  {
+    "instance": "la16",
+    "seed": 410002,
+    "scenario_sha256": "e14029636921ebffdffa7454a2d944c8d8f57d379e4d73ba133677949f61ec76",
+    "method": "ATC_LOCAL",
+    "makespan": 1426.5694595100172,
+    "total_tardiness": 0.0,
+    "normalized_tardiness": 0.0,
+    "valid": true,
+    "runtime_seconds": 0.026149100000111503
+  },
+  {
+    "instance": "la16",
+    "seed": 410002,
+    "scenario_sha256": "e14029636921ebffdffa7454a2d944c8d8f57d379e4d73ba133677949f61ec76",
+    "method": "LOCAL_FIXED",
+    "policy": "fixed",
+    "valid": true,
+    "makespan": 1426.5694595100172,
+    "total_tardiness": 0.0,
+    "normalized_tardiness": 0.0,
+    "completed_jobs": 10,
+    "auctions": 100,
+    "contested_auctions": 21,
+    "changed_winners_vs_fixed_on_same_queue": 0,
+    "logical_message_deliveries": 504,
+    "machine_k_counts": {
+      "0": {
+        "2.0": 10
+      },
+      "1": {
+        "2.0": 10
+      },
+      "2": {
+        "2.0": 10
+      },
+      "3": {
+        "2.0": 10
+      },
+      "4": {
+        "2.0": 10
+      },
+      "5": {
+        "2.0": 10
+      },
+      "6": {
+        "2.0": 10
+      },
+      "7": {
+        "2.0": 10
+      },
+      "8": {
+        "2.0": 10
+      },
+      "9": {
+        "2.0": 10
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 10,
+        "losses": 0
+      },
+      "1": {
+        "wins": 10,
+        "losses": 4
+      },
+      "2": {
+        "wins": 10,
+        "losses": 3
+      },
+      "3": {
+        "wins": 10,
+        "losses": 7
+      },
+      "4": {
+        "wins": 10,
+        "losses": 0
+      },
+      "5": {
+        "wins": 10,
+        "losses": 2
+      },
+      "6": {
+        "wins": 10,
+        "losses": 4
+      },
+      "7": {
+        "wins": 10,
+        "losses": 3
+      },
+      "8": {
+        "wins": 10,
+        "losses": 2
+      },
+      "9": {
+        "wins": 10,
+        "losses": 1
+      }
+    },
+    "schedule_sha256": "7ae9ebb085a9e4a77d858987f9fe6e6b0b52b4f4478f087ccabf290122f18d7c",
+    "runtime_seconds": 0.017832699999871693
+  },
+  {
+    "instance": "la16",
+    "seed": 410002,
+    "scenario_sha256": "e14029636921ebffdffa7454a2d944c8d8f57d379e4d73ba133677949f61ec76",
+    "method": "LOCAL_RULES",
+    "policy": "local",
+    "valid": true,
+    "makespan": 1397.1263491158293,
+    "total_tardiness": 0.0,
+    "normalized_tardiness": 0.0,
+    "completed_jobs": 10,
+    "auctions": 100,
+    "contested_auctions": 20,
+    "changed_winners_vs_fixed_on_same_queue": 3,
+    "logical_message_deliveries": 504,
+    "machine_k_counts": {
+      "0": {
+        "3.0": 10
+      },
+      "1": {
+        "3.0": 10
+      },
+      "2": {
+        "3.0": 10
+      },
+      "3": {
+        "3.0": 10
+      },
+      "4": {
+        "3.0": 10
+      },
+      "5": {
+        "3.0": 10
+      },
+      "6": {
+        "3.0": 10
+      },
+      "7": {
+        "3.0": 10
+      },
+      "8": {
+        "3.0": 10
+      },
+      "9": {
+        "3.0": 10
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 10,
+        "losses": 1
+      },
+      "1": {
+        "wins": 10,
+        "losses": 4
+      },
+      "2": {
+        "wins": 10,
+        "losses": 2
+      },
+      "3": {
+        "wins": 10,
+        "losses": 7
+      },
+      "4": {
+        "wins": 10,
+        "losses": 0
+      },
+      "5": {
+        "wins": 10,
+        "losses": 2
+      },
+      "6": {
+        "wins": 10,
+        "losses": 5
+      },
+      "7": {
+        "wins": 10,
+        "losses": 2
+      },
+      "8": {
+        "wins": 10,
+        "losses": 2
+      },
+      "9": {
+        "wins": 10,
+        "losses": 1
+      }
+    },
+    "schedule_sha256": "dc780d9a4fed64aa758a5d7afde4ac33aa999b9db55961c754e682e299b9da99",
+    "runtime_seconds": 0.017722699999922042
+  },
+  {
+    "instance": "la16",
+    "seed": 410003,
+    "scenario_sha256": "81be5a79fa7d80d3a271eed1018c70da5f016739e39de0dc9ab05245a4981fb5",
+    "method": "ATC_LOCAL",
+    "makespan": 1292.1344334781495,
+    "total_tardiness": 0.0,
+    "normalized_tardiness": 0.0,
+    "valid": true,
+    "runtime_seconds": 0.016208300000016607
+  },
+  {
+    "instance": "la16",
+    "seed": 410003,
+    "scenario_sha256": "81be5a79fa7d80d3a271eed1018c70da5f016739e39de0dc9ab05245a4981fb5",
+    "method": "LOCAL_FIXED",
+    "policy": "fixed",
+    "valid": true,
+    "makespan": 1292.1344334781495,
+    "total_tardiness": 0.0,
+    "normalized_tardiness": 0.0,
+    "completed_jobs": 10,
+    "auctions": 100,
+    "contested_auctions": 10,
+    "changed_winners_vs_fixed_on_same_queue": 0,
+    "logical_message_deliveries": 468,
+    "machine_k_counts": {
+      "0": {
+        "2.0": 10
+      },
+      "1": {
+        "2.0": 10
+      },
+      "2": {
+        "2.0": 10
+      },
+      "3": {
+        "2.0": 10
+      },
+      "4": {
+        "2.0": 10
+      },
+      "5": {
+        "2.0": 10
+      },
+      "6": {
+        "2.0": 10
+      },
+      "7": {
+        "2.0": 10
+      },
+      "8": {
+        "2.0": 10
+      },
+      "9": {
+        "2.0": 10
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 10,
+        "losses": 1
+      },
+      "1": {
+        "wins": 10,
+        "losses": 0
+      },
+      "2": {
+        "wins": 10,
+        "losses": 4
+      },
+      "3": {
+        "wins": 10,
+        "losses": 5
+      },
+      "4": {
+        "wins": 10,
+        "losses": 3
+      },
+      "5": {
+        "wins": 10,
+        "losses": 0
+      },
+      "6": {
+        "wins": 10,
+        "losses": 3
+      },
+      "7": {
+        "wins": 10,
+        "losses": 0
+      },
+      "8": {
+        "wins": 10,
+        "losses": 0
+      },
+      "9": {
+        "wins": 10,
+        "losses": 1
+      }
+    },
+    "schedule_sha256": "5ff1cb4bdec0c809ef8b3038258631357174634d63c6dc0f635768b1c73493e0",
+    "runtime_seconds": 0.01520370000002913
+  },
+  {
+    "instance": "la16",
+    "seed": 410003,
+    "scenario_sha256": "81be5a79fa7d80d3a271eed1018c70da5f016739e39de0dc9ab05245a4981fb5",
+    "method": "LOCAL_RULES",
+    "policy": "local",
+    "valid": true,
+    "makespan": 1292.1344334781495,
+    "total_tardiness": 0.0,
+    "normalized_tardiness": 0.0,
+    "completed_jobs": 10,
+    "auctions": 100,
+    "contested_auctions": 10,
+    "changed_winners_vs_fixed_on_same_queue": 0,
+    "logical_message_deliveries": 468,
+    "machine_k_counts": {
+      "0": {
+        "3.0": 10
+      },
+      "1": {
+        "3.0": 9,
+        "0.5": 1
+      },
+      "2": {
+        "3.0": 10
+      },
+      "3": {
+        "3.0": 10
+      },
+      "4": {
+        "3.0": 10
+      },
+      "5": {
+        "3.0": 9,
+        "0.5": 1
+      },
+      "6": {
+        "3.0": 9,
+        "0.5": 1
+      },
+      "7": {
+        "3.0": 10
+      },
+      "8": {
+        "3.0": 10
+      },
+      "9": {
+        "3.0": 10
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 10,
+        "losses": 1
+      },
+      "1": {
+        "wins": 10,
+        "losses": 0
+      },
+      "2": {
+        "wins": 10,
+        "losses": 4
+      },
+      "3": {
+        "wins": 10,
+        "losses": 5
+      },
+      "4": {
+        "wins": 10,
+        "losses": 3
+      },
+      "5": {
+        "wins": 10,
+        "losses": 0
+      },
+      "6": {
+        "wins": 10,
+        "losses": 3
+      },
+      "7": {
+        "wins": 10,
+        "losses": 0
+      },
+      "8": {
+        "wins": 10,
+        "losses": 0
+      },
+      "9": {
+        "wins": 10,
+        "losses": 1
+      }
+    },
+    "schedule_sha256": "5ff1cb4bdec0c809ef8b3038258631357174634d63c6dc0f635768b1c73493e0",
+    "runtime_seconds": 0.016009799999892493
+  },
+  {
+    "instance": "la16",
+    "seed": 410004,
+    "scenario_sha256": "c1aa26bddc92e62cd911aa70dbd9fcb30c0f7c05cab9cbf9e71e75b666939e2d",
+    "method": "ATC_LOCAL",
+    "makespan": 1456.7139522828998,
+    "total_tardiness": 0.0,
+    "normalized_tardiness": 0.0,
+    "valid": true,
+    "runtime_seconds": 0.015395899999930407
+  },
+  {
+    "instance": "la16",
+    "seed": 410004,
+    "scenario_sha256": "c1aa26bddc92e62cd911aa70dbd9fcb30c0f7c05cab9cbf9e71e75b666939e2d",
+    "method": "LOCAL_FIXED",
+    "policy": "fixed",
+    "valid": true,
+    "makespan": 1456.7139522828998,
+    "total_tardiness": 0.0,
+    "normalized_tardiness": 0.0,
+    "completed_jobs": 10,
+    "auctions": 100,
+    "contested_auctions": 18,
+    "changed_winners_vs_fixed_on_same_queue": 0,
+    "logical_message_deliveries": 500,
+    "machine_k_counts": {
+      "0": {
+        "2.0": 10
+      },
+      "1": {
+        "2.0": 10
+      },
+      "2": {
+        "2.0": 10
+      },
+      "3": {
+        "2.0": 10
+      },
+      "4": {
+        "2.0": 10
+      },
+      "5": {
+        "2.0": 10
+      },
+      "6": {
+        "2.0": 10
+      },
+      "7": {
+        "2.0": 10
+      },
+      "8": {
+        "2.0": 10
+      },
+      "9": {
+        "2.0": 10
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 10,
+        "losses": 5
+      },
+      "1": {
+        "wins": 10,
+        "losses": 1
+      },
+      "2": {
+        "wins": 10,
+        "losses": 2
+      },
+      "3": {
+        "wins": 10,
+        "losses": 2
+      },
+      "4": {
+        "wins": 10,
+        "losses": 7
+      },
+      "5": {
+        "wins": 10,
+        "losses": 0
+      },
+      "6": {
+        "wins": 10,
+        "losses": 0
+      },
+      "7": {
+        "wins": 10,
+        "losses": 0
+      },
+      "8": {
+        "wins": 10,
+        "losses": 0
+      },
+      "9": {
+        "wins": 10,
+        "losses": 8
+      }
+    },
+    "schedule_sha256": "c060fac69fb2ca2bcaddaf1cc63e543bbcda4886efe4a9a2e7f481cbd89e027f",
+    "runtime_seconds": 0.015098399999942558
+  },
+  {
+    "instance": "la16",
+    "seed": 410004,
+    "scenario_sha256": "c1aa26bddc92e62cd911aa70dbd9fcb30c0f7c05cab9cbf9e71e75b666939e2d",
+    "method": "LOCAL_RULES",
+    "policy": "local",
+    "valid": true,
+    "makespan": 1456.7139522828998,
+    "total_tardiness": 0.0,
+    "normalized_tardiness": 0.0,
+    "completed_jobs": 10,
+    "auctions": 100,
+    "contested_auctions": 18,
+    "changed_winners_vs_fixed_on_same_queue": 0,
+    "logical_message_deliveries": 500,
+    "machine_k_counts": {
+      "0": {
+        "3.0": 10
+      },
+      "1": {
+        "3.0": 10
+      },
+      "2": {
+        "3.0": 10
+      },
+      "3": {
+        "3.0": 10
+      },
+      "4": {
+        "3.0": 10
+      },
+      "5": {
+        "3.0": 10
+      },
+      "6": {
+        "3.0": 10
+      },
+      "7": {
+        "3.0": 10
+      },
+      "8": {
+        "3.0": 10
+      },
+      "9": {
+        "3.0": 10
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 10,
+        "losses": 5
+      },
+      "1": {
+        "wins": 10,
+        "losses": 1
+      },
+      "2": {
+        "wins": 10,
+        "losses": 2
+      },
+      "3": {
+        "wins": 10,
+        "losses": 2
+      },
+      "4": {
+        "wins": 10,
+        "losses": 7
+      },
+      "5": {
+        "wins": 10,
+        "losses": 0
+      },
+      "6": {
+        "wins": 10,
+        "losses": 0
+      },
+      "7": {
+        "wins": 10,
+        "losses": 0
+      },
+      "8": {
+        "wins": 10,
+        "losses": 0
+      },
+      "9": {
+        "wins": 10,
+        "losses": 8
+      }
+    },
+    "schedule_sha256": "c060fac69fb2ca2bcaddaf1cc63e543bbcda4886efe4a9a2e7f481cbd89e027f",
+    "runtime_seconds": 0.01637199999981931
+  },
+  {
+    "instance": "la16",
+    "seed": 410005,
+    "scenario_sha256": "cb3535e0048506b3188c5ff4c0607979bc635b3565ed23bf8bb14e78fe9b3ecd",
+    "method": "ATC_LOCAL",
+    "makespan": 1537.2456359351988,
+    "total_tardiness": 0.0,
+    "normalized_tardiness": 0.0,
+    "valid": true,
+    "runtime_seconds": 0.01602920000004815
+  },
+  {
+    "instance": "la16",
+    "seed": 410005,
+    "scenario_sha256": "cb3535e0048506b3188c5ff4c0607979bc635b3565ed23bf8bb14e78fe9b3ecd",
+    "method": "LOCAL_FIXED",
+    "policy": "fixed",
+    "valid": true,
+    "makespan": 1537.2456359351988,
+    "total_tardiness": 0.0,
+    "normalized_tardiness": 0.0,
+    "completed_jobs": 10,
+    "auctions": 100,
+    "contested_auctions": 12,
+    "changed_winners_vs_fixed_on_same_queue": 0,
+    "logical_message_deliveries": 456,
+    "machine_k_counts": {
+      "0": {
+        "2.0": 10
+      },
+      "1": {
+        "2.0": 10
+      },
+      "2": {
+        "2.0": 10
+      },
+      "3": {
+        "2.0": 10
+      },
+      "4": {
+        "2.0": 10
+      },
+      "5": {
+        "2.0": 10
+      },
+      "6": {
+        "2.0": 10
+      },
+      "7": {
+        "2.0": 10
+      },
+      "8": {
+        "2.0": 10
+      },
+      "9": {
+        "2.0": 10
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 10,
+        "losses": 3
+      },
+      "1": {
+        "wins": 10,
+        "losses": 3
+      },
+      "2": {
+        "wins": 10,
+        "losses": 2
+      },
+      "3": {
+        "wins": 10,
+        "losses": 5
+      },
+      "4": {
+        "wins": 10,
+        "losses": 0
+      },
+      "5": {
+        "wins": 10,
+        "losses": 0
+      },
+      "6": {
+        "wins": 10,
+        "losses": 0
+      },
+      "7": {
+        "wins": 10,
+        "losses": 0
+      },
+      "8": {
+        "wins": 10,
+        "losses": 0
+      },
+      "9": {
+        "wins": 10,
+        "losses": 1
+      }
+    },
+    "schedule_sha256": "3dbd6f54073e384d2f10d8e1c0b0d738d4820562122fe131b090b21e16b28099",
+    "runtime_seconds": 0.014850999999907799
+  },
+  {
+    "instance": "la16",
+    "seed": 410005,
+    "scenario_sha256": "cb3535e0048506b3188c5ff4c0607979bc635b3565ed23bf8bb14e78fe9b3ecd",
+    "method": "LOCAL_RULES",
+    "policy": "local",
+    "valid": true,
+    "makespan": 1537.2456359351988,
+    "total_tardiness": 0.0,
+    "normalized_tardiness": 0.0,
+    "completed_jobs": 10,
+    "auctions": 100,
+    "contested_auctions": 12,
+    "changed_winners_vs_fixed_on_same_queue": 0,
+    "logical_message_deliveries": 456,
+    "machine_k_counts": {
+      "0": {
+        "3.0": 10
+      },
+      "1": {
+        "3.0": 10
+      },
+      "2": {
+        "3.0": 10
+      },
+      "3": {
+        "3.0": 10
+      },
+      "4": {
+        "3.0": 10
+      },
+      "5": {
+        "3.0": 10
+      },
+      "6": {
+        "3.0": 10
+      },
+      "7": {
+        "3.0": 10
+      },
+      "8": {
+        "3.0": 10
+      },
+      "9": {
+        "3.0": 10
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 10,
+        "losses": 3
+      },
+      "1": {
+        "wins": 10,
+        "losses": 3
+      },
+      "2": {
+        "wins": 10,
+        "losses": 2
+      },
+      "3": {
+        "wins": 10,
+        "losses": 5
+      },
+      "4": {
+        "wins": 10,
+        "losses": 0
+      },
+      "5": {
+        "wins": 10,
+        "losses": 0
+      },
+      "6": {
+        "wins": 10,
+        "losses": 0
+      },
+      "7": {
+        "wins": 10,
+        "losses": 0
+      },
+      "8": {
+        "wins": 10,
+        "losses": 0
+      },
+      "9": {
+        "wins": 10,
+        "losses": 1
+      }
+    },
+    "schedule_sha256": "3dbd6f54073e384d2f10d8e1c0b0d738d4820562122fe131b090b21e16b28099",
+    "runtime_seconds": 0.01522120000004179
+  },
+  {
+    "instance": "la16",
+    "seed": 410006,
+    "scenario_sha256": "68ded9943d1f73b7dbf5741fa19012093bb1797c16b191d3e18ba89aac06cdd6",
+    "method": "ATC_LOCAL",
+    "makespan": 1367.5223766503746,
+    "total_tardiness": 30.57981388743201,
+    "normalized_tardiness": 0.005714784878981875,
+    "valid": true,
+    "runtime_seconds": 0.015666900000042006
+  },
+  {
+    "instance": "la16",
+    "seed": 410006,
+    "scenario_sha256": "68ded9943d1f73b7dbf5741fa19012093bb1797c16b191d3e18ba89aac06cdd6",
+    "method": "LOCAL_FIXED",
+    "policy": "fixed",
+    "valid": true,
+    "makespan": 1367.5223766503746,
+    "total_tardiness": 30.57981388743201,
+    "normalized_tardiness": 0.005714784878981875,
+    "completed_jobs": 10,
+    "auctions": 100,
+    "contested_auctions": 19,
+    "changed_winners_vs_fixed_on_same_queue": 0,
+    "logical_message_deliveries": 528,
+    "machine_k_counts": {
+      "0": {
+        "2.0": 10
+      },
+      "1": {
+        "2.0": 10
+      },
+      "2": {
+        "2.0": 10
+      },
+      "3": {
+        "2.0": 10
+      },
+      "4": {
+        "2.0": 10
+      },
+      "5": {
+        "2.0": 10
+      },
+      "6": {
+        "2.0": 10
+      },
+      "7": {
+        "2.0": 10
+      },
+      "8": {
+        "2.0": 10
+      },
+      "9": {
+        "2.0": 10
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 10,
+        "losses": 2
+      },
+      "1": {
+        "wins": 10,
+        "losses": 5
+      },
+      "2": {
+        "wins": 10,
+        "losses": 0
+      },
+      "3": {
+        "wins": 10,
+        "losses": 1
+      },
+      "4": {
+        "wins": 10,
+        "losses": 7
+      },
+      "5": {
+        "wins": 10,
+        "losses": 3
+      },
+      "6": {
+        "wins": 10,
+        "losses": 1
+      },
+      "7": {
+        "wins": 10,
+        "losses": 1
+      },
+      "8": {
+        "wins": 10,
+        "losses": 3
+      },
+      "9": {
+        "wins": 10,
+        "losses": 9
+      }
+    },
+    "schedule_sha256": "1fb7977ad8afd081840c9209749f6dc917723f3a6d182dd21b2e31557608e090",
+    "runtime_seconds": 0.018409900000051493
+  },
+  {
+    "instance": "la16",
+    "seed": 410006,
+    "scenario_sha256": "68ded9943d1f73b7dbf5741fa19012093bb1797c16b191d3e18ba89aac06cdd6",
+    "method": "LOCAL_RULES",
+    "policy": "local",
+    "valid": true,
+    "makespan": 1367.5223766503746,
+    "total_tardiness": 30.57981388743201,
+    "normalized_tardiness": 0.005714784878981875,
+    "completed_jobs": 10,
+    "auctions": 100,
+    "contested_auctions": 19,
+    "changed_winners_vs_fixed_on_same_queue": 1,
+    "logical_message_deliveries": 512,
+    "machine_k_counts": {
+      "0": {
+        "3.0": 9,
+        "0.5": 1
+      },
+      "1": {
+        "3.0": 10
+      },
+      "2": {
+        "3.0": 10
+      },
+      "3": {
+        "3.0": 10
+      },
+      "4": {
+        "3.0": 9,
+        "0.5": 1
+      },
+      "5": {
+        "3.0": 9,
+        "0.5": 1
+      },
+      "6": {
+        "3.0": 9,
+        "0.5": 1
+      },
+      "7": {
+        "3.0": 9,
+        "0.5": 1
+      },
+      "8": {
+        "3.0": 10
+      },
+      "9": {
+        "3.0": 10
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 10,
+        "losses": 1
+      },
+      "1": {
+        "wins": 10,
+        "losses": 5
+      },
+      "2": {
+        "wins": 10,
+        "losses": 0
+      },
+      "3": {
+        "wins": 10,
+        "losses": 1
+      },
+      "4": {
+        "wins": 10,
+        "losses": 6
+      },
+      "5": {
+        "wins": 10,
+        "losses": 4
+      },
+      "6": {
+        "wins": 10,
+        "losses": 0
+      },
+      "7": {
+        "wins": 10,
+        "losses": 1
+      },
+      "8": {
+        "wins": 10,
+        "losses": 2
+      },
+      "9": {
+        "wins": 10,
+        "losses": 8
+      }
+    },
+    "schedule_sha256": "7e4e9ff339d907aedc8cfc6abb019ec0f92f6cbe8324597270b2030216cb3b6d",
+    "runtime_seconds": 0.019778399999950125
+  },
+  {
+    "instance": "la16",
+    "seed": 410007,
+    "scenario_sha256": "43b410d7a153b2e5436f8f0ac6fcd846d17631066aedc3fa9a17f4b002d66039",
+    "method": "ATC_LOCAL",
+    "makespan": 1307.7354834644411,
+    "total_tardiness": 72.22842390861013,
+    "normalized_tardiness": 0.013498116970399949,
+    "valid": true,
+    "runtime_seconds": 0.019424599999865677
+  },
+  {
+    "instance": "la16",
+    "seed": 410007,
+    "scenario_sha256": "43b410d7a153b2e5436f8f0ac6fcd846d17631066aedc3fa9a17f4b002d66039",
+    "method": "LOCAL_FIXED",
+    "policy": "fixed",
+    "valid": true,
+    "makespan": 1307.7354834644411,
+    "total_tardiness": 72.22842390861013,
+    "normalized_tardiness": 0.013498116970399949,
+    "completed_jobs": 10,
+    "auctions": 100,
+    "contested_auctions": 8,
+    "changed_winners_vs_fixed_on_same_queue": 0,
+    "logical_message_deliveries": 436,
+    "machine_k_counts": {
+      "0": {
+        "2.0": 10
+      },
+      "1": {
+        "2.0": 10
+      },
+      "2": {
+        "2.0": 10
+      },
+      "3": {
+        "2.0": 10
+      },
+      "4": {
+        "2.0": 10
+      },
+      "5": {
+        "2.0": 10
+      },
+      "6": {
+        "2.0": 10
+      },
+      "7": {
+        "2.0": 10
+      },
+      "8": {
+        "2.0": 10
+      },
+      "9": {
+        "2.0": 10
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 10,
+        "losses": 0
+      },
+      "1": {
+        "wins": 10,
+        "losses": 1
+      },
+      "2": {
+        "wins": 10,
+        "losses": 3
+      },
+      "3": {
+        "wins": 10,
+        "losses": 1
+      },
+      "4": {
+        "wins": 10,
+        "losses": 1
+      },
+      "5": {
+        "wins": 10,
+        "losses": 1
+      },
+      "6": {
+        "wins": 10,
+        "losses": 1
+      },
+      "7": {
+        "wins": 10,
+        "losses": 0
+      },
+      "8": {
+        "wins": 10,
+        "losses": 0
+      },
+      "9": {
+        "wins": 10,
+        "losses": 1
+      }
+    },
+    "schedule_sha256": "c153138f44f802544dca6d73658345595424cb173ff541c624f33993f61a7b64",
+    "runtime_seconds": 0.018457699999999022
+  },
+  {
+    "instance": "la16",
+    "seed": 410007,
+    "scenario_sha256": "43b410d7a153b2e5436f8f0ac6fcd846d17631066aedc3fa9a17f4b002d66039",
+    "method": "LOCAL_RULES",
+    "policy": "local",
+    "valid": true,
+    "makespan": 1307.7354834644411,
+    "total_tardiness": 72.22842390861013,
+    "normalized_tardiness": 0.013498116970399949,
+    "completed_jobs": 10,
+    "auctions": 100,
+    "contested_auctions": 8,
+    "changed_winners_vs_fixed_on_same_queue": 0,
+    "logical_message_deliveries": 436,
+    "machine_k_counts": {
+      "0": {
+        "3.0": 9,
+        "0.5": 1
+      },
+      "1": {
+        "3.0": 9,
+        "0.5": 1
+      },
+      "2": {
+        "3.0": 9,
+        "0.5": 1
+      },
+      "3": {
+        "3.0": 10
+      },
+      "4": {
+        "3.0": 10
+      },
+      "5": {
+        "3.0": 9,
+        "0.5": 1
+      },
+      "6": {
+        "3.0": 9,
+        "0.5": 1
+      },
+      "7": {
+        "3.0": 9,
+        "0.5": 1
+      },
+      "8": {
+        "3.0": 10
+      },
+      "9": {
+        "3.0": 9,
+        "0.5": 1
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 10,
+        "losses": 0
+      },
+      "1": {
+        "wins": 10,
+        "losses": 1
+      },
+      "2": {
+        "wins": 10,
+        "losses": 3
+      },
+      "3": {
+        "wins": 10,
+        "losses": 1
+      },
+      "4": {
+        "wins": 10,
+        "losses": 1
+      },
+      "5": {
+        "wins": 10,
+        "losses": 1
+      },
+      "6": {
+        "wins": 10,
+        "losses": 1
+      },
+      "7": {
+        "wins": 10,
+        "losses": 0
+      },
+      "8": {
+        "wins": 10,
+        "losses": 0
+      },
+      "9": {
+        "wins": 10,
+        "losses": 1
+      }
+    },
+    "schedule_sha256": "c153138f44f802544dca6d73658345595424cb173ff541c624f33993f61a7b64",
+    "runtime_seconds": 0.019404599999916172
+  },
+  {
+    "instance": "la16",
+    "seed": 410008,
+    "scenario_sha256": "dd5e554e36d15b0888bb5ef746529fa5cd36b8d3b051e338f8fa3e7726d3d649",
+    "method": "ATC_LOCAL",
+    "makespan": 1510.9443661673834,
+    "total_tardiness": 66.34949236102057,
+    "normalized_tardiness": 0.012399456617645405,
+    "valid": true,
+    "runtime_seconds": 0.015398400000094625
+  },
+  {
+    "instance": "la16",
+    "seed": 410008,
+    "scenario_sha256": "dd5e554e36d15b0888bb5ef746529fa5cd36b8d3b051e338f8fa3e7726d3d649",
+    "method": "LOCAL_FIXED",
+    "policy": "fixed",
+    "valid": true,
+    "makespan": 1510.9443661673834,
+    "total_tardiness": 66.34949236102057,
+    "normalized_tardiness": 0.012399456617645405,
+    "completed_jobs": 10,
+    "auctions": 100,
+    "contested_auctions": 18,
+    "changed_winners_vs_fixed_on_same_queue": 0,
+    "logical_message_deliveries": 512,
+    "machine_k_counts": {
+      "0": {
+        "2.0": 10
+      },
+      "1": {
+        "2.0": 10
+      },
+      "2": {
+        "2.0": 10
+      },
+      "3": {
+        "2.0": 10
+      },
+      "4": {
+        "2.0": 10
+      },
+      "5": {
+        "2.0": 10
+      },
+      "6": {
+        "2.0": 10
+      },
+      "7": {
+        "2.0": 10
+      },
+      "8": {
+        "2.0": 10
+      },
+      "9": {
+        "2.0": 10
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 10,
+        "losses": 1
+      },
+      "1": {
+        "wins": 10,
+        "losses": 0
+      },
+      "2": {
+        "wins": 10,
+        "losses": 3
+      },
+      "3": {
+        "wins": 10,
+        "losses": 3
+      },
+      "4": {
+        "wins": 10,
+        "losses": 6
+      },
+      "5": {
+        "wins": 10,
+        "losses": 5
+      },
+      "6": {
+        "wins": 10,
+        "losses": 2
+      },
+      "7": {
+        "wins": 10,
+        "losses": 0
+      },
+      "8": {
+        "wins": 10,
+        "losses": 2
+      },
+      "9": {
+        "wins": 10,
+        "losses": 6
+      }
+    },
+    "schedule_sha256": "249b0ee51ea852f85b1123258b6de86c1b8647665190860ea574e5eb6b20b045",
+    "runtime_seconds": 0.017188900000064677
+  },
+  {
+    "instance": "la16",
+    "seed": 410008,
+    "scenario_sha256": "dd5e554e36d15b0888bb5ef746529fa5cd36b8d3b051e338f8fa3e7726d3d649",
+    "method": "LOCAL_RULES",
+    "policy": "local",
+    "valid": true,
+    "makespan": 1315.9443661673834,
+    "total_tardiness": 64.34949236102057,
+    "normalized_tardiness": 0.012025694703984407,
+    "completed_jobs": 10,
+    "auctions": 100,
+    "contested_auctions": 19,
+    "changed_winners_vs_fixed_on_same_queue": 2,
+    "logical_message_deliveries": 512,
+    "machine_k_counts": {
+      "0": {
+        "3.0": 10
+      },
+      "1": {
+        "3.0": 10
+      },
+      "2": {
+        "3.0": 9,
+        "0.5": 1
+      },
+      "3": {
+        "3.0": 10
+      },
+      "4": {
+        "3.0": 10
+      },
+      "5": {
+        "3.0": 9,
+        "0.5": 1
+      },
+      "6": {
+        "3.0": 10
+      },
+      "7": {
+        "3.0": 10
+      },
+      "8": {
+        "3.0": 9,
+        "0.5": 1
+      },
+      "9": {
+        "3.0": 9,
+        "0.5": 1
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 10,
+        "losses": 0
+      },
+      "1": {
+        "wins": 10,
+        "losses": 0
+      },
+      "2": {
+        "wins": 10,
+        "losses": 1
+      },
+      "3": {
+        "wins": 10,
+        "losses": 5
+      },
+      "4": {
+        "wins": 10,
+        "losses": 3
+      },
+      "5": {
+        "wins": 10,
+        "losses": 5
+      },
+      "6": {
+        "wins": 10,
+        "losses": 3
+      },
+      "7": {
+        "wins": 10,
+        "losses": 0
+      },
+      "8": {
+        "wins": 10,
+        "losses": 4
+      },
+      "9": {
+        "wins": 10,
+        "losses": 7
+      }
+    },
+    "schedule_sha256": "2fc11ede6620bca70475ba9cf2192e523af43b4b1a12f650f6f09110b6733a7e",
+    "runtime_seconds": 0.0202827000000525
+  },
+  {
+    "instance": "la16",
+    "seed": 410009,
+    "scenario_sha256": "972462df4f0571cb8709a181ddcf095c7945c554520b742bcfe9244fa9f87c8e",
+    "method": "ATC_LOCAL",
+    "makespan": 1283.0346522408768,
+    "total_tardiness": 17.03245390357199,
+    "normalized_tardiness": 0.0031830412826709007,
+    "valid": true,
+    "runtime_seconds": 0.02293669999994563
+  },
+  {
+    "instance": "la16",
+    "seed": 410009,
+    "scenario_sha256": "972462df4f0571cb8709a181ddcf095c7945c554520b742bcfe9244fa9f87c8e",
+    "method": "LOCAL_FIXED",
+    "policy": "fixed",
+    "valid": true,
+    "makespan": 1283.0346522408768,
+    "total_tardiness": 17.03245390357199,
+    "normalized_tardiness": 0.0031830412826709007,
+    "completed_jobs": 10,
+    "auctions": 100,
+    "contested_auctions": 18,
+    "changed_winners_vs_fixed_on_same_queue": 0,
+    "logical_message_deliveries": 480,
+    "machine_k_counts": {
+      "0": {
+        "2.0": 10
+      },
+      "1": {
+        "2.0": 10
+      },
+      "2": {
+        "2.0": 10
+      },
+      "3": {
+        "2.0": 10
+      },
+      "4": {
+        "2.0": 10
+      },
+      "5": {
+        "2.0": 10
+      },
+      "6": {
+        "2.0": 10
+      },
+      "7": {
+        "2.0": 10
+      },
+      "8": {
+        "2.0": 10
+      },
+      "9": {
+        "2.0": 10
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 10,
+        "losses": 4
+      },
+      "1": {
+        "wins": 10,
+        "losses": 0
+      },
+      "2": {
+        "wins": 10,
+        "losses": 1
+      },
+      "3": {
+        "wins": 10,
+        "losses": 6
+      },
+      "4": {
+        "wins": 10,
+        "losses": 4
+      },
+      "5": {
+        "wins": 10,
+        "losses": 0
+      },
+      "6": {
+        "wins": 10,
+        "losses": 1
+      },
+      "7": {
+        "wins": 10,
+        "losses": 0
+      },
+      "8": {
+        "wins": 10,
+        "losses": 3
+      },
+      "9": {
+        "wins": 10,
+        "losses": 1
+      }
+    },
+    "schedule_sha256": "388fab40ad4bde898c5c7fb1dffe07b7f5cffae4cd01c8b085ef2af465a1c84e",
+    "runtime_seconds": 0.019594700000197918
+  },
+  {
+    "instance": "la16",
+    "seed": 410009,
+    "scenario_sha256": "972462df4f0571cb8709a181ddcf095c7945c554520b742bcfe9244fa9f87c8e",
+    "method": "LOCAL_RULES",
+    "policy": "local",
+    "valid": true,
+    "makespan": 1283.0346522408768,
+    "total_tardiness": 17.03245390357199,
+    "normalized_tardiness": 0.0031830412826709007,
+    "completed_jobs": 10,
+    "auctions": 100,
+    "contested_auctions": 18,
+    "changed_winners_vs_fixed_on_same_queue": 0,
+    "logical_message_deliveries": 480,
+    "machine_k_counts": {
+      "0": {
+        "3.0": 9,
+        "0.5": 1
+      },
+      "1": {
+        "3.0": 10
+      },
+      "2": {
+        "3.0": 9,
+        "0.5": 1
+      },
+      "3": {
+        "3.0": 10
+      },
+      "4": {
+        "3.0": 10
+      },
+      "5": {
+        "3.0": 8,
+        "0.5": 2
+      },
+      "6": {
+        "3.0": 9,
+        "0.5": 1
+      },
+      "7": {
+        "3.0": 9,
+        "0.5": 1
+      },
+      "8": {
+        "3.0": 9,
+        "0.5": 1
+      },
+      "9": {
+        "3.0": 9,
+        "0.5": 1
+      }
+    },
+    "job_outcomes": {
+      "0": {
+        "wins": 10,
+        "losses": 4
+      },
+      "1": {
+        "wins": 10,
+        "losses": 0
+      },
+      "2": {
+        "wins": 10,
+        "losses": 1
+      },
+      "3": {
+        "wins": 10,
+        "losses": 6
+      },
+      "4": {
+        "wins": 10,
+        "losses": 4
+      },
+      "5": {
+        "wins": 10,
+        "losses": 0
+      },
+      "6": {
+        "wins": 10,
+        "losses": 1
+      },
+      "7": {
+        "wins": 10,
+        "losses": 0
+      },
+      "8": {
+        "wins": 10,
+        "losses": 3
+      },
+      "9": {
+        "wins": 10,
+        "losses": 1
+      }
+    },
+    "schedule_sha256": "388fab40ad4bde898c5c7fb1dffe07b7f5cffae4cd01c8b085ef2af465a1c84e",
+    "runtime_seconds": 0.017380699999876015
+  }
+]

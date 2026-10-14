@@ -1,0 +1,64 @@
+{
+  "status": "exploratory pilot, not a held-out confirmatory experiment",
+  "python": "3.12.10",
+  "seed_base": 410000,
+  "seeds": 10,
+  "fixed_k": 2.0,
+  "urgent_k": 0.5,
+  "relaxed_k": 3.0,
+  "urgent_threshold": 0.5,
+  "instances": [
+    {
+      "name": "ft06",
+      "path": "data\\benchmarks\\ft06.txt",
+      "sha256": "fee212360082ab31d7a6f375e352dad79973e17e70da40d14fcce5400a721a1c"
+    },
+    {
+      "name": "ft10",
+      "path": "data\\benchmarks\\ft10.txt",
+      "sha256": "eff0a40841b2160661f64bfc94c77a3d02d3dcfdfab9c02bf39f7da1153891b7"
+    },
+    {
+      "name": "ft20",
+      "path": "data\\benchmarks\\ft20.txt",
+      "sha256": "5702cbc10318b52ad728ee94ed6fb862387008246cebb5d9cf9661f41f3ca7a9"
+    },
+    {
+      "name": "la01",
+      "path": "data\\benchmarks\\la01.txt",
+      "sha256": "37a1de180c912680b8a6ea4c7c86f5e273c79b47ba55720c824b1fd93d3457bc"
+    },
+    {
+      "name": "la16",
+      "path": "data\\benchmarks\\la16.txt",
+      "sha256": "30b4c4ef875c9847ea29bd6c42a2ba58f7e7bda58c3d7736a6efd4df58669483"
+    }
+  ],
+  "source_sha256": {
+    "src\\mas_jssp\\__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "src\\mas_jssp\\agents\\__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "src\\mas_jssp\\agents\\adaptive_atc.py": "4ce8ca7cf4df20bc82ad5d0c860a2c8178b40447e12a9586d81feed2b415d6e3",
+    "src\\mas_jssp\\agents\\agents.py": "eddc1bf47738bb7b3dfbd3d55d00bcff3e7aa09ac0ed8f24bbed0efae4a98308",
+    "src\\mas_jssp\\agents\\autonomous_auction.py": "c8da0987c53b0e7a785cba03d5734542d1c02592a6f9420a37e0eef4f8329aa2",
+    "src\\mas_jssp\\agents\\local_neural.py": "ea5b0fe57f6a971eb636cc5df95d909014d450b5541c6df8eac96e0eb6b7430d",
+    "src\\mas_jssp\\agents\\local_rule_auction.py": "272ab9757b9b5639b89041316d878b76b79f7ea3b7d8f12435f52cac200de72a",
+    "src\\mas_jssp\\auction\\__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "src\\mas_jssp\\auction\\base_auction.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "src\\mas_jssp\\auction\\english_auction.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "src\\mas_jssp\\auction\\vickrey_auction.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "src\\mas_jssp\\environment\\__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "src\\mas_jssp\\environment\\environment.py": "4e365e84e310505dce49e04fedeb4525b0fc09e9fd0ecc0ea1c0ea29002c6251",
+    "src\\mas_jssp\\environment\\heuristics.py": "99cb08b3a0ac1c5541b6c4efd09eec78dbc21f9497b626b3def7519b355109c5",
+    "src\\mas_jssp\\environment\\priority.py": "de2a0bd210515b9917cbd328d3901b620a0fff45b42453358543fda78a05a871",
+    "src\\mas_jssp\\experiments.py": "66afa5f487250f401ea7dd01b43a5f61c3378c873e28c93bf8004b51bd970d1b",
+    "src\\mas_jssp\\learning_data.py": "72c80156fc8b754bdcc12f23e2ad9d39f28e18aa9289916ecf090fb5427659da",
+    "src\\mas_jssp\\learning_statistics.py": "da0549addb7dd644f268695892b4e1ef9430f2f0f5999e5b10dcd21039ec5f2d",
+    "src\\mas_jssp\\metrics\\__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "src\\mas_jssp\\metrics\\metrics.py": "b5cbaa645125d5099ba35a5e0b0c2edc0d0be7aed5820ae26b3b30b4ca403db8",
+    "src\\mas_jssp\\metrics\\validate.py": "9528e078a99bc87f6c841b464bd1df0b3f3946584ae2f1627f72a4e1918e8051",
+    "src\\mas_jssp\\utils\\__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "src\\mas_jssp\\utils\\loaders.py": "74019da998c08259626ab3f3615599198d9ee8532f04475985623c84377cfdce",
+    "scripts\\run_local_rule_agents.py": "88499e7ab4f2a7165fee016628f9a534f296b94d71faea16056a094ff58da4df"
+  },
+  "runtime_note": "Local modes include same-queue shadow diagnostic; not a fair speed benchmark."
+}
