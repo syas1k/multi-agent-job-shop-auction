@@ -17,6 +17,7 @@ dependencies = [
 
 [project.optional-dependencies]
 learning = ["scipy>=1.9"]
+optimization = ["ortools==9.14.6206", "numpy>=2.0.2,<2.5"]
 dev = [
     "scipy>=1.9",
     "pytest",

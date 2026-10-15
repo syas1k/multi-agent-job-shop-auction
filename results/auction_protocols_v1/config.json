@@ -1,0 +1,90 @@
+{
+  "purpose": "Exploratory comparison; not validation-selected or confirmatory",
+  "python": "3.12.14",
+  "versions": {
+    "ortools": "9.14.6206",
+    "numpy": "2.4.6"
+  },
+  "parameters": {
+    "output": "results\\auction_protocols_v1",
+    "seeds": 3,
+    "seed_base": 420000,
+    "scale": 10,
+    "objective": "tardiness",
+    "cp_seconds": 0.05,
+    "offline_seconds": 3.0,
+    "credits": 1.0,
+    "price_step": 0.1,
+    "max_rounds": 1000
+  },
+  "instances": [
+    {
+      "name": "ft06",
+      "sha256": "fee212360082ab31d7a6f375e352dad79973e17e70da40d14fcce5400a721a1c"
+    },
+    {
+      "name": "ft10",
+      "sha256": "eff0a40841b2160661f64bfc94c77a3d02d3dcfdfab9c02bf39f7da1153891b7"
+    },
+    {
+      "name": "ft20",
+      "sha256": "5702cbc10318b52ad728ee94ed6fb862387008246cebb5d9cf9661f41f3ca7a9"
+    },
+    {
+      "name": "la01",
+      "sha256": "37a1de180c912680b8a6ea4c7c86f5e273c79b47ba55720c824b1fd93d3457bc"
+    },
+    {
+      "name": "la16",
+      "sha256": "30b4c4ef875c9847ea29bd6c42a2ba58f7e7bda58c3d7736a6efd4df58669483"
+    },
+    {
+      "name": "la31",
+      "sha256": "e5d8ab714f5ade645c21b004ebd8597f4221c467dee20825c9d48d971d3ce1cc"
+    },
+    {
+      "name": "abz5",
+      "sha256": "bd8afe85d188fc3ae5c2be6a328d175a5eb4f020deab786931f18460a10849f4"
+    },
+    {
+      "name": "ta51",
+      "sha256": "80be589030a44dbd2bd317e30478559a866394d34526b81d54d4bf62026e7c01"
+    },
+    {
+      "name": "ta71",
+      "sha256": "2df26386c3c4acb8729d99cb0fd3d9de59eb08c4966f8653ca310d0208418914"
+    }
+  ],
+  "source_sha256": {
+    "src\\mas_jssp\\__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "src\\mas_jssp\\agents\\__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "src\\mas_jssp\\agents\\adaptive_atc.py": "4ce8ca7cf4df20bc82ad5d0c860a2c8178b40447e12a9586d81feed2b415d6e3",
+    "src\\mas_jssp\\agents\\agents.py": "eddc1bf47738bb7b3dfbd3d55d00bcff3e7aa09ac0ed8f24bbed0efae4a98308",
+    "src\\mas_jssp\\agents\\budget_auction.py": "df1fa04ec91038ab4fd55a4b99b5bd5cd81e226cab5c9124fd4df1954d64ef1d",
+    "src\\mas_jssp\\agents\\local_rule_auction.py": "272ab9757b9b5639b89041316d878b76b79f7ea3b7d8f12435f52cac200de72a",
+    "src\\mas_jssp\\auction\\__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "src\\mas_jssp\\auction\\base_auction.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "src\\mas_jssp\\auction\\english_auction.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "src\\mas_jssp\\auction\\protocols.py": "d23ad2f82603b7deb772d53b0008608c7128a3d84f2327c67e4576383cf2bd41",
+    "src\\mas_jssp\\auction\\vickrey_auction.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "src\\mas_jssp\\cp_scheduler.py": "4cd2fea5e023a2d63f43c9fb193fe5f4b9e6fea7a32b4e9d6861507c58121393",
+    "src\\mas_jssp\\environment\\__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "src\\mas_jssp\\environment\\environment.py": "4e365e84e310505dce49e04fedeb4525b0fc09e9fd0ecc0ea1c0ea29002c6251",
+    "src\\mas_jssp\\environment\\heuristics.py": "99cb08b3a0ac1c5541b6c4efd09eec78dbc21f9497b626b3def7519b355109c5",
+    "src\\mas_jssp\\environment\\priority.py": "de2a0bd210515b9917cbd328d3901b620a0fff45b42453358543fda78a05a871",
+    "src\\mas_jssp\\experiments.py": "66afa5f487250f401ea7dd01b43a5f61c3378c873e28c93bf8004b51bd970d1b",
+    "src\\mas_jssp\\learning_data.py": "72c80156fc8b754bdcc12f23e2ad9d39f28e18aa9289916ecf090fb5427659da",
+    "src\\mas_jssp\\learning_statistics.py": "da0549addb7dd644f268695892b4e1ef9430f2f0f5999e5b10dcd21039ec5f2d",
+    "src\\mas_jssp\\metrics\\__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "src\\mas_jssp\\metrics\\metrics.py": "b5cbaa645125d5099ba35a5e0b0c2edc0d0be7aed5820ae26b3b30b4ca403db8",
+    "src\\mas_jssp\\metrics\\validate.py": "9528e078a99bc87f6c841b464bd1df0b3f3946584ae2f1627f72a4e1918e8051",
+    "src\\mas_jssp\\utils\\__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "src\\mas_jssp\\utils\\loaders.py": "74019da998c08259626ab3f3615599198d9ee8532f04475985623c84377cfdce",
+    "scripts\\run_auction_comparison.py": "485934ed6142fe399266f92aaaa0a31ebc6ea2629639e9292d4e3e3c545de3e7"
+  },
+  "time_conversion": "All methods receive identical integer ticks, floor(x*scale+0.5). Reported time metrics are divided by scale; hashes use ticks.",
+  "information": "CP_OFFLINE knows future arrivals; all other methods are online.",
+  "bidding": "Fixed common allowance/urgency policy, not equilibrium or learned bidding.",
+  "credits": "Winner-only payments are removed, not transferred to machines; no replenishment.",
+  "local_msvc_runtime_sha256": "639342ea9a67c0009122238ce070a8257e2e04d367d627509fec29f8442afb42"
+}

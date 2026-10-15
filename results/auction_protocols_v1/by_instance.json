@@ -1,0 +1,884 @@
+{
+  "ft06": {
+    "FIFO": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 82.43333333333334,
+      "total_tardiness": 9.533333333333333,
+      "normalized_tardiness": 0.048392554991539764,
+      "mean_runtime_seconds": 0.004029066667499137
+    },
+    "EDD": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 84.60000000000001,
+      "total_tardiness": 10.333333333333334,
+      "normalized_tardiness": 0.05245346869712352,
+      "mean_runtime_seconds": 0.004026566667259128
+    },
+    "SPT": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 83.76666666666667,
+      "total_tardiness": 6.7,
+      "normalized_tardiness": 0.03401015228426396,
+      "mean_runtime_seconds": 0.004047066666316823
+    },
+    "MWKR": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 77.10000000000001,
+      "total_tardiness": 15.733333333333334,
+      "normalized_tardiness": 0.07986463620981388,
+      "mean_runtime_seconds": 0.004366166665931814
+    },
+    "ATC_LOCAL": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 83.26666666666667,
+      "total_tardiness": 11.866666666666667,
+      "normalized_tardiness": 0.060236886632825726,
+      "mean_runtime_seconds": 0.0037766666664538207
+    },
+    "LOCAL_RULES": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 83.26666666666667,
+      "total_tardiness": 11.866666666666667,
+      "normalized_tardiness": 0.060236886632825726,
+      "mean_runtime_seconds": 0.004383933332064771
+    },
+    "no_payment": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 85.43333333333334,
+      "total_tardiness": 6.7,
+      "normalized_tardiness": 0.03401015228426396,
+      "mean_runtime_seconds": 0.004556333333312068
+    },
+    "first_price": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 85.43333333333334,
+      "total_tardiness": 6.7,
+      "normalized_tardiness": 0.03401015228426396,
+      "mean_runtime_seconds": 0.004336266666844797
+    },
+    "second_price": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 85.43333333333334,
+      "total_tardiness": 6.7,
+      "normalized_tardiness": 0.03401015228426396,
+      "mean_runtime_seconds": 0.004617566666638595
+    },
+    "ascending": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 80.43333333333334,
+      "total_tardiness": 6.7,
+      "normalized_tardiness": 0.03401015228426396,
+      "mean_runtime_seconds": 0.004436500000641293
+    },
+    "CP_ONLINE": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 81.60000000000001,
+      "total_tardiness": 0.03333333333333333,
+      "normalized_tardiness": 0.00016920473773265651,
+      "mean_runtime_seconds": 0.19066253333342806
+    },
+    "CP_OFFLINE": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 81.96666666666667,
+      "total_tardiness": 0.0,
+      "normalized_tardiness": 0.0,
+      "mean_runtime_seconds": 0.01396536666591904
+    }
+  },
+  "ft10": {
+    "FIFO": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 1231.0333333333335,
+      "total_tardiness": 421.76666666666665,
+      "normalized_tardiness": 0.082553663469694,
+      "mean_runtime_seconds": 0.01475909999984045
+    },
+    "EDD": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 1330.6333333333334,
+      "total_tardiness": 51.5,
+      "normalized_tardiness": 0.010080250538265806,
+      "mean_runtime_seconds": 0.01447809999990568
+    },
+    "SPT": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 1191.3,
+      "total_tardiness": 186.4,
+      "normalized_tardiness": 0.0364846349579174,
+      "mean_runtime_seconds": 0.0152935333323209
+    },
+    "MWKR": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 1233.3,
+      "total_tardiness": 566.4,
+      "normalized_tardiness": 0.11086318261890782,
+      "mean_runtime_seconds": 0.014921633333869977
+    },
+    "ATC_LOCAL": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 1310.3,
+      "total_tardiness": 44.36666666666667,
+      "normalized_tardiness": 0.008684021661120898,
+      "mean_runtime_seconds": 0.015564433332959501
+    },
+    "LOCAL_RULES": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 1301.8999999999999,
+      "total_tardiness": 98.8,
+      "normalized_tardiness": 0.01933842239185751,
+      "mean_runtime_seconds": 0.016002099999847513
+    },
+    "no_payment": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 1326.6333333333334,
+      "total_tardiness": 82.93333333333334,
+      "normalized_tardiness": 0.016232791805310887,
+      "mean_runtime_seconds": 0.016901999999997013
+    },
+    "first_price": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 1330.2333333333333,
+      "total_tardiness": 112.2,
+      "normalized_tardiness": 0.02196124486200822,
+      "mean_runtime_seconds": 0.016958833333774237
+    },
+    "second_price": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 1330.2333333333333,
+      "total_tardiness": 112.2,
+      "normalized_tardiness": 0.02196124486200822,
+      "mean_runtime_seconds": 0.017439266665557323
+    },
+    "ascending": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 1364.6333333333334,
+      "total_tardiness": 90.76666666666667,
+      "normalized_tardiness": 0.01776603379656815,
+      "mean_runtime_seconds": 0.01859360000041003
+    },
+    "CP_ONLINE": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 1257.3,
+      "total_tardiness": 425.5,
+      "normalized_tardiness": 0.0832844000782932,
+      "mean_runtime_seconds": 2.346562599999743
+    },
+    "CP_OFFLINE": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 1426.9666666666665,
+      "total_tardiness": 0.0,
+      "normalized_tardiness": 0.0,
+      "mean_runtime_seconds": 0.037825566666773135
+    }
+  },
+  "ft20": {
+    "FIFO": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 1624.4666666666665,
+      "total_tardiness": 2323.9333333333334,
+      "normalized_tardiness": 0.4548704899849938,
+      "mean_runtime_seconds": 0.024314533332775074
+    },
+    "EDD": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 1717.8,
+      "total_tardiness": 1906.3,
+      "normalized_tardiness": 0.3731258563319632,
+      "mean_runtime_seconds": 0.022674466666406563
+    },
+    "SPT": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 1683.3666666666668,
+      "total_tardiness": 1263.8333333333333,
+      "normalized_tardiness": 0.2473739153128466,
+      "mean_runtime_seconds": 0.023856866666392307
+    },
+    "MWKR": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 1649.5333333333335,
+      "total_tardiness": 4726.866666666667,
+      "normalized_tardiness": 0.9252038885626672,
+      "mean_runtime_seconds": 0.023726066666616436
+    },
+    "ATC_LOCAL": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 1653.1333333333332,
+      "total_tardiness": 1351.6000000000001,
+      "normalized_tardiness": 0.26455275004893325,
+      "mean_runtime_seconds": 0.022896566666531726
+    },
+    "LOCAL_RULES": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 1672.7333333333333,
+      "total_tardiness": 1260.9333333333334,
+      "normalized_tardiness": 0.24680628955438114,
+      "mean_runtime_seconds": 0.02281149999968572
+    },
+    "no_payment": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 1697.4666666666665,
+      "total_tardiness": 2226.3666666666663,
+      "normalized_tardiness": 0.43577347165133423,
+      "mean_runtime_seconds": 0.026340633333044632
+    },
+    "first_price": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 1687.8333333333333,
+      "total_tardiness": 2445.633333333333,
+      "normalized_tardiness": 0.47869119853852676,
+      "mean_runtime_seconds": 0.02649103333290744
+    },
+    "second_price": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 1697.1666666666667,
+      "total_tardiness": 2374.9666666666667,
+      "normalized_tardiness": 0.4648593984471847,
+      "mean_runtime_seconds": 0.02618130000034095
+    },
+    "ascending": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 1699.1333333333332,
+      "total_tardiness": 2548.3333333333335,
+      "normalized_tardiness": 0.49879297970901026,
+      "mean_runtime_seconds": 0.028417966666893335
+    },
+    "CP_ONLINE": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 1667.7333333333333,
+      "total_tardiness": 3692.5,
+      "normalized_tardiness": 0.7227441769426503,
+      "mean_runtime_seconds": 3.3293756999998245
+    },
+    "CP_OFFLINE": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 1639.3333333333333,
+      "total_tardiness": 1844.0333333333335,
+      "normalized_tardiness": 0.3609382136099693,
+      "mean_runtime_seconds": 3.0222155666670005
+    }
+  },
+  "la01": {
+    "FIFO": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 1141.4333333333334,
+      "total_tardiness": 575.1999999999999,
+      "normalized_tardiness": 0.2018954018954019,
+      "mean_runtime_seconds": 0.007528166667422435
+    },
+    "EDD": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 1032.2,
+      "total_tardiness": 320.7,
+      "normalized_tardiness": 0.11256581256581256,
+      "mean_runtime_seconds": 0.006907366666685751
+    },
+    "SPT": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 1021.0666666666666,
+      "total_tardiness": 435.5333333333333,
+      "normalized_tardiness": 0.15287235287235287,
+      "mean_runtime_seconds": 0.007336133333107379
+    },
+    "MWKR": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 1000.7333333333332,
+      "total_tardiness": 980.3333333333334,
+      "normalized_tardiness": 0.34409734409734405,
+      "mean_runtime_seconds": 0.007374099999651662
+    },
+    "ATC_LOCAL": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 1110.5333333333333,
+      "total_tardiness": 228.83333333333334,
+      "normalized_tardiness": 0.08032058032058033,
+      "mean_runtime_seconds": 0.00771830000000288
+    },
+    "LOCAL_RULES": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 1108.8666666666666,
+      "total_tardiness": 251.5,
+      "normalized_tardiness": 0.08827658827658828,
+      "mean_runtime_seconds": 0.008201633333252781
+    },
+    "no_payment": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 1066.1000000000001,
+      "total_tardiness": 498.3333333333333,
+      "normalized_tardiness": 0.17491517491517491,
+      "mean_runtime_seconds": 0.008549500000299304
+    },
+    "first_price": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 1070.1000000000001,
+      "total_tardiness": 498.86666666666673,
+      "normalized_tardiness": 0.1751023751023751,
+      "mean_runtime_seconds": 0.009528666666786497
+    },
+    "second_price": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 1076.1000000000001,
+      "total_tardiness": 443.20000000000005,
+      "normalized_tardiness": 0.15556335556335557,
+      "mean_runtime_seconds": 0.009061566666787257
+    },
+    "ascending": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 1057.1000000000001,
+      "total_tardiness": 485.1666666666667,
+      "normalized_tardiness": 0.1702936702936703,
+      "mean_runtime_seconds": 0.008551499999157386
+    },
+    "CP_ONLINE": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 1087.1333333333332,
+      "total_tardiness": 167.20000000000002,
+      "normalized_tardiness": 0.05868725868725869,
+      "mean_runtime_seconds": 0.5411067999993975
+    },
+    "CP_OFFLINE": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 1217.5333333333333,
+      "total_tardiness": 37.300000000000004,
+      "normalized_tardiness": 0.01309231309231309,
+      "mean_runtime_seconds": 0.44130123333343363
+    }
+  },
+  "la16": {
+    "FIFO": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 1396.0666666666666,
+      "total_tardiness": 328.23333333333335,
+      "normalized_tardiness": 0.06134055939699745,
+      "mean_runtime_seconds": 0.01626663333324056
+    },
+    "EDD": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 1539.8,
+      "total_tardiness": 180.23333333333335,
+      "normalized_tardiness": 0.033682177786083595,
+      "mean_runtime_seconds": 0.014917933333587522
+    },
+    "SPT": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 1338.8,
+      "total_tardiness": 257.3333333333333,
+      "normalized_tardiness": 0.04809069955771506,
+      "mean_runtime_seconds": 0.01500053333317434
+    },
+    "MWKR": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 1344.1000000000001,
+      "total_tardiness": 300.26666666666665,
+      "normalized_tardiness": 0.05611412197097116,
+      "mean_runtime_seconds": 0.015827833332878072
+    },
+    "ATC_LOCAL": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 1447.9666666666665,
+      "total_tardiness": 162.73333333333332,
+      "normalized_tardiness": 0.030411761041549867,
+      "mean_runtime_seconds": 0.01490886666700438
+    },
+    "LOCAL_RULES": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 1458.6333333333332,
+      "total_tardiness": 161.0,
+      "normalized_tardiness": 0.030087834049710337,
+      "mean_runtime_seconds": 0.01802789999965171
+    },
+    "no_payment": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 1518.5,
+      "total_tardiness": 233.23333333333335,
+      "normalized_tardiness": 0.04358686849810004,
+      "mean_runtime_seconds": 0.01756373333288745
+    },
+    "first_price": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 1490.8333333333333,
+      "total_tardiness": 237.23333333333335,
+      "normalized_tardiness": 0.044334392325422044,
+      "mean_runtime_seconds": 0.017252133332779824
+    },
+    "second_price": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 1518.5,
+      "total_tardiness": 233.23333333333335,
+      "normalized_tardiness": 0.04358686849810004,
+      "mean_runtime_seconds": 0.017051199999817374
+    },
+    "ascending": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 1523.0666666666666,
+      "total_tardiness": 184.4333333333333,
+      "normalized_tardiness": 0.03446707780477169,
+      "mean_runtime_seconds": 0.020065000000007178
+    },
+    "CP_ONLINE": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 1328.3,
+      "total_tardiness": 119.56666666666666,
+      "normalized_tardiness": 0.022344733071699995,
+      "mean_runtime_seconds": 1.5194764666666742
+    },
+    "CP_OFFLINE": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 1426.7333333333333,
+      "total_tardiness": 18.533333333333335,
+      "normalized_tardiness": 0.003463527066591914,
+      "mean_runtime_seconds": 1.0297928333329764
+    }
+  },
+  "la31": {
+    "FIFO": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 2686.9666666666667,
+      "total_tardiness": 5218.566666666667,
+      "normalized_tardiness": 0.3435301604019924,
+      "mean_runtime_seconds": 0.10347773333342047
+    },
+    "EDD": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 2825.066666666667,
+      "total_tardiness": 2330.9333333333334,
+      "normalized_tardiness": 0.15344173084940643,
+      "mean_runtime_seconds": 0.09227843333367976
+    },
+    "SPT": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 2680.9,
+      "total_tardiness": 3578.2000000000003,
+      "normalized_tardiness": 0.23554736357053518,
+      "mean_runtime_seconds": 0.09711046666719388
+    },
+    "MWKR": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 2471.2999999999997,
+      "total_tardiness": 7432.0,
+      "normalized_tardiness": 0.4892370482522546,
+      "mean_runtime_seconds": 0.10129186666623961
+    },
+    "ATC_LOCAL": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 2726.1666666666665,
+      "total_tardiness": 1843.8666666666668,
+      "normalized_tardiness": 0.12137888662146445,
+      "mean_runtime_seconds": 0.09713456666637892
+    },
+    "LOCAL_RULES": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 2756.4666666666667,
+      "total_tardiness": 2098.266666666667,
+      "normalized_tardiness": 0.13812564457024992,
+      "mean_runtime_seconds": 0.08717950000027486
+    },
+    "no_payment": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 2877.7999999999997,
+      "total_tardiness": 2768.7999999999997,
+      "normalized_tardiness": 0.18226581528536634,
+      "mean_runtime_seconds": 0.10490176666705035
+    },
+    "first_price": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 2807.633333333333,
+      "total_tardiness": 2645.8,
+      "normalized_tardiness": 0.17416891580541108,
+      "mean_runtime_seconds": 0.10289849999996174
+    },
+    "second_price": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 2811.633333333333,
+      "total_tardiness": 2573.6666666666665,
+      "normalized_tardiness": 0.16942049020253222,
+      "mean_runtime_seconds": 0.10474746666720118
+    },
+    "ascending": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 2766.366666666667,
+      "total_tardiness": 2660.133333333333,
+      "normalized_tardiness": 0.17511245693722158,
+      "mean_runtime_seconds": 0.11011446666634583
+    },
+    "CP_ONLINE": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 2609.133333333333,
+      "total_tardiness": 7593.899999999999,
+      "normalized_tardiness": 0.49989467447830954,
+      "mean_runtime_seconds": 12.413950433333715
+    },
+    "CP_OFFLINE": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 2783.933333333333,
+      "total_tardiness": 3705.3333333333335,
+      "normalized_tardiness": 0.24391635398152414,
+      "mean_runtime_seconds": 3.0568929000000935
+    }
+  },
+  "abz5": {
+    "FIFO": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 1868.6666666666667,
+      "total_tardiness": 139.5,
+      "normalized_tardiness": 0.017946738710922422,
+      "mean_runtime_seconds": 0.015396800000113823
+    },
+    "EDD": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 1778.3,
+      "total_tardiness": 39.766666666666666,
+      "normalized_tardiness": 0.005115999828466058,
+      "mean_runtime_seconds": 0.015007100000123804
+    },
+    "SPT": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 1824.3666666666668,
+      "total_tardiness": 58.0,
+      "normalized_tardiness": 0.007461726489129037,
+      "mean_runtime_seconds": 0.015231766667056945
+    },
+    "MWKR": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 1757.9666666666665,
+      "total_tardiness": 85.46666666666665,
+      "normalized_tardiness": 0.010995325700072903,
+      "mean_runtime_seconds": 0.015762699999565182
+    },
+    "ATC_LOCAL": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 1753.3,
+      "total_tardiness": 7.433333333333334,
+      "normalized_tardiness": 0.0009563017282044685,
+      "mean_runtime_seconds": 0.01582063333444239
+    },
+    "LOCAL_RULES": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 1753.3,
+      "total_tardiness": 7.433333333333334,
+      "normalized_tardiness": 0.0009563017282044685,
+      "mean_runtime_seconds": 0.015977499999886884
+    },
+    "no_payment": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 1799.5,
+      "total_tardiness": 34.833333333333336,
+      "normalized_tardiness": 0.004481324242034393,
+      "mean_runtime_seconds": 0.0164352666670311
+    },
+    "first_price": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 1799.5,
+      "total_tardiness": 34.833333333333336,
+      "normalized_tardiness": 0.004481324242034393,
+      "mean_runtime_seconds": 0.015972033332824747
+    },
+    "second_price": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 1799.5,
+      "total_tardiness": 34.833333333333336,
+      "normalized_tardiness": 0.004481324242034393,
+      "mean_runtime_seconds": 0.015887733333026215
+    },
+    "ascending": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 1833.6333333333332,
+      "total_tardiness": 34.833333333333336,
+      "normalized_tardiness": 0.004481324242034393,
+      "mean_runtime_seconds": 0.016683733332683914
+    },
+    "CP_ONLINE": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 1802.9666666666665,
+      "total_tardiness": 0.0,
+      "normalized_tardiness": 0.0,
+      "mean_runtime_seconds": 1.0705104333331594
+    },
+    "CP_OFFLINE": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 1940.1333333333332,
+      "total_tardiness": 0.0,
+      "normalized_tardiness": 0.0,
+      "mean_runtime_seconds": 0.03971030000017587
+    }
+  },
+  "ta51": {
+    "FIFO": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 4414.599999999999,
+      "total_tardiness": 14359.666666666666,
+      "normalized_tardiness": 0.37870316648205776,
+      "mean_runtime_seconds": 0.4015320666670353
+    },
+    "EDD": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 4579.733333333334,
+      "total_tardiness": 6705.633333333332,
+      "normalized_tardiness": 0.17684564938375794,
+      "mean_runtime_seconds": 0.377341399999447
+    },
+    "SPT": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 4337.633333333333,
+      "total_tardiness": 8793.633333333333,
+      "normalized_tardiness": 0.2319118448582028,
+      "mean_runtime_seconds": 0.39174116666739184
+    },
+    "MWKR": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 4205.666666666667,
+      "total_tardiness": 25608.100000000002,
+      "normalized_tardiness": 0.6753547128013081,
+      "mean_runtime_seconds": 0.44733233333378547
+    },
+    "ATC_LOCAL": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 4379.733333333334,
+      "total_tardiness": 4540.033333333334,
+      "normalized_tardiness": 0.11973293246830881,
+      "mean_runtime_seconds": 0.41931499999979377
+    },
+    "LOCAL_RULES": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 4441.3,
+      "total_tardiness": 3832.4666666666667,
+      "normalized_tardiness": 0.10107248975860189,
+      "mean_runtime_seconds": 0.4173923333334339
+    },
+    "no_payment": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 4560.5,
+      "total_tardiness": 6545.8,
+      "normalized_tardiness": 0.17263041299646606,
+      "mean_runtime_seconds": 0.4509857333329516
+    },
+    "first_price": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 4561.599999999999,
+      "total_tardiness": 6500.733333333334,
+      "normalized_tardiness": 0.1714418833623433,
+      "mean_runtime_seconds": 0.449207033332641
+    },
+    "second_price": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 4667.933333333333,
+      "total_tardiness": 6992.433333333333,
+      "normalized_tardiness": 0.1844093394517995,
+      "mean_runtime_seconds": 0.45407836666709045
+    },
+    "ascending": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 4679.233333333334,
+      "total_tardiness": 6946.433333333333,
+      "normalized_tardiness": 0.18319619529862685,
+      "mean_runtime_seconds": 0.47972039999998134
+    },
+    "CP_ONLINE": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 4158.3,
+      "total_tardiness": 12356.966666666667,
+      "normalized_tardiness": 0.3258865622307787,
+      "mean_runtime_seconds": 40.23505153333341
+    },
+    "CP_OFFLINE": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 4434.7,
+      "total_tardiness": 21534.8,
+      "normalized_tardiness": 0.5679307980378713,
+      "mean_runtime_seconds": 3.1123824333335506
+    }
+  },
+  "ta71": {
+    "FIFO": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 7602.466666666667,
+      "total_tardiness": 68553.73333333334,
+      "normalized_tardiness": 0.6794831385686863,
+      "mean_runtime_seconds": 2.741028066666331
+    },
+    "EDD": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 8019.5,
+      "total_tardiness": 40869.299999999996,
+      "normalized_tardiness": 0.40508370419561707,
+      "mean_runtime_seconds": 2.476097466667246
+    },
+    "SPT": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 7530.933333333333,
+      "total_tardiness": 41106.299999999996,
+      "normalized_tardiness": 0.40743277398380434,
+      "mean_runtime_seconds": 2.660526566667007
+    },
+    "MWKR": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 6974.733333333334,
+      "total_tardiness": 129908.73333333334,
+      "normalized_tardiness": 1.287614686476825,
+      "mean_runtime_seconds": 2.9329985333333752
+    },
+    "ATC_LOCAL": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 7929.066666666667,
+      "total_tardiness": 35009.4,
+      "normalized_tardiness": 0.347002210306172,
+      "mean_runtime_seconds": 2.4588629666668567
+    },
+    "LOCAL_RULES": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 7753.333333333333,
+      "total_tardiness": 32514.733333333334,
+      "normalized_tardiness": 0.32227585546117427,
+      "mean_runtime_seconds": 2.4302342666669574
+    },
+    "no_payment": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 8011.3,
+      "total_tardiness": 40386.93333333333,
+      "normalized_tardiness": 0.40030263683909695,
+      "mean_runtime_seconds": 3.115792266666176
+    },
+    "first_price": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 7824.033333333333,
+      "total_tardiness": 50026.56666666667,
+      "normalized_tardiness": 0.49584766398059954,
+      "mean_runtime_seconds": 3.2423036333329947
+    },
+    "second_price": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 8138.966666666667,
+      "total_tardiness": 42726.566666666666,
+      "normalized_tardiness": 0.42349234982968414,
+      "mean_runtime_seconds": 3.017484299999827
+    },
+    "ascending": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 7958.066666666666,
+      "total_tardiness": 43566.666666666664,
+      "normalized_tardiness": 0.4318191579691614,
+      "mean_runtime_seconds": 2.9275128666668024
+    },
+    "CP_ONLINE": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 7601.5,
+      "total_tardiness": 34411.4,
+      "normalized_tardiness": 0.34107502155791897,
+      "mean_runtime_seconds": 172.42753966666655
+    },
+    "CP_OFFLINE": {
+      "runs": 3,
+      "valid_runs": 3,
+      "makespan": 6968.166666666667,
+      "total_tardiness": 129939.60000000002,
+      "normalized_tardiness": 1.287920627211545,
+      "mean_runtime_seconds": 3.378955866666123
+    }
+  }
+}
